@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[60],{133:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"flisol","name":"flisol","count":1,"permalink":"/blog/tags/flisol"}')}}]);
