@@ -47,6 +47,11 @@ module.exports = {
             },
             {
                 type: 'category',
+                label: 'Médio',
+                items: ['robotics/medio/sumario']
+            },
+            {
+                type: 'category',
                 label: 'Conceitos Básicos',
                 items: ['robotics/conceitos/sumario']
             },
@@ -62,8 +67,13 @@ module.exports = {
             },
             {
                 type: 'category',
+                label: 'sBotics',
+                items: ['robotics/sbotics/sumario']
+            },
+            {
+                type: 'category',
                 label: 'Simulador',
-                items: ['robotics/simulador/sumario']
+                items: ['robotics/simulator/sumario']
             },
             {
                 type: 'category',
@@ -97,5 +107,10 @@ module.exports = {
                 items: ['programming/reduc/sumario']
             }
         ],
+        'Ebooks': [{
+            type: 'category',
+            label: 'Champs da Galáxia',
+            items: ['ebook/champs-da-galaxia']
+        }, ],
     },
 };

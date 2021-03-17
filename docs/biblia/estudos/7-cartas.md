@@ -1,6 +1,12 @@
 ---
 id: 7-cartas
+image: 
 title: 7 Cartas
+description: 
+author: RodriguesFAS
+author_url: 
+author_image_url:
+tags: 7 Cartas
 ---
 
 O livro de Apocalipse divide a história da igreja cristã de maneira profética em 7 períodos conhecidos com as 7 igrejas.
@@ -53,5 +59,5 @@ Laodiceia é uma palavra formada apartir da junção de duas palavras gregas: ``
 
 O apostolo Pedro em sua primeira epístola vai nos lembrar ```Pe. 1:1-5``` fomos todos nos *"... forasteiros ... eleitos, segundo a presciência de Deus Pai, em santificação do Espirito, para a obediência e a aspersão do sangue de Jesus Cristo, ... para uma herança incorruptível, sem mácula,imarcescível, reservada nos Céus para vós outros que sois guardados pelo poder de Deus, mediante a fé, para a salvação preparada para revelar-se no último tempo."*
 
-### Referências
+#### Referências
 [A IGREJA DE LAODICEIA - Rodrigo Silva Arqueologia](https://www.youtube.com/watch?v=zVHl3uXvehE)
