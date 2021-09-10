@@ -16,11 +16,11 @@ title: Sumário
 - [Íons - átomos perdendo e ganhando elétrons](https://www.youtube.com/watch?v=jO49A04Maq4)
 - [Magnetismo - elétrons girando organizados](https://www.youtube.com/watch?v=qnSPOU3q5Vk)
   
-- [Circuítos Elétricos](https://docs.google.com/presentation/d/e/2PACX-1vTMNh4pefuqCzEHxth8fMq8ADZuePwm-QHwldGFReaRJ-BHealQJe4dmLNSSoC5tT8RTURZzANbPGhS/pub?start=false&loop=false&delayms=3000&slide=id.p)
+### [Circuítos Elétricos](https://docs.google.com/presentation/d/e/2PACX-1vTMNh4pefuqCzEHxth8fMq8ADZuePwm-QHwldGFReaRJ-BHealQJe4dmLNSSoC5tT8RTURZzANbPGhS/pub?start=false&loop=false&delayms=3000&slide=id.p)
   
-- [Sistema Numérico](https://docs.google.com/presentation/d/e/2PACX-1vQTDDZPxHpDEKV6dsZJg4iqDkKItdGJKJre4BVjUM5qskGvAcaLXokHjIn547fPfHlGdbxo2fXXzTd5/pub?start=false&loop=false&delayms=3000&slide=id.p)
+### [Sistema Numérico](https://docs.google.com/presentation/d/e/2PACX-1vQTDDZPxHpDEKV6dsZJg4iqDkKItdGJKJre4BVjUM5qskGvAcaLXokHjIn547fPfHlGdbxo2fXXzTd5/pub?start=false&loop=false&delayms=3000&slide=id.p)
   
-- [Portas Lógicas](https://docs.google.com/presentation/d/e/2PACX-1vR6MrTfzxe4p9jIvzzjdyMwac46FxfhpBiLwFqKjCkJ9hYfJ0IzzMHLkrTIb-GzHbyXh_Ot9wrgCTUC/pub?start=false&loop=false&delayms=3000&slide=id.p)
+### [Portas Lógicas](https://docs.google.com/presentation/d/e/2PACX-1vR6MrTfzxe4p9jIvzzjdyMwac46FxfhpBiLwFqKjCkJ9hYfJ0IzzMHLkrTIb-GzHbyXh_Ot9wrgCTUC/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 ## Ferramentas
 

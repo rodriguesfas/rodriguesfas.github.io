@@ -22,6 +22,13 @@ module.exports = {
                     'biblia/ebd/jovens/jovens',
                     'biblia/ebd/perguntas-da-semana/perguntas-da-semana',
                 ]
+            },
+            {
+                type: 'category',
+                label: 'Livros',
+                items: [
+                    'biblia/livros/o-evangelho-mal-trapilho',
+                ]
             }
         ],
         "Informática": [],
