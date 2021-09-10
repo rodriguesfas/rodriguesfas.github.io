@@ -3,6 +3,12 @@ module.exports = {
         "Início": ['welcome'],
         'Bíblia': [{
                 type: 'category',
+                label: 'Diário',
+                items: [
+                    'biblia/diario/introducao'
+                ]
+            }, {
+                type: 'category',
                 label: 'Estudos',
                 items: [
                     'biblia/estudos/7-cartas'
