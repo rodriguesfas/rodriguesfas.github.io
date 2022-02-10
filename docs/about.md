@@ -3,22 +3,22 @@ id: about
 title: Resumo
 ---
 
-Francisco de Assis de Souza Rodrigues, atualmente é Developer na empresa [CodeRealm](https://code.realmapp.com.br/), trabalha no [Colégio Objetivo](http://objetivojuazeiro.com.br/) - Juazeiro do Norte como professor de informática, programação e robótica educacional; no [Colégio Nossa Senhora de Fátima](http://cnsfce.com.br/) - Barbalha professor de robótica educacional; é o criador e mantenedor do [DeepNLPF](https://deepnlpf.github.io/site/) um framework para integrar análise linguística e anotação semântica de documentos de texto, atualmente apoiado pelo [LIS](https://www.lis-lab.fr/en/home/) Marseille França e UFRPE; é membro do grupo de pesquisa [Text Mining UFRPE](https://tmgufrpe.github.io/); cofundador e editor do site [Clube dos Geeks](https://clubedosgeeks.com.b/); Alumni do Enactus UniLeão.
+Francisco de Assis de Souza Rodrigues, atualmente é full stack developer na startup [Realm](https://institucional.realm.com.br/), trabalhou no [Colégio Objetivo](http://objetivojuazeiro.com.br/) - Juazeiro do Norte como professor de informática, programação e robótica educacional; no [Colégio Nossa Senhora de Fátima](http://cnsfce.com.br/) - Barbalha na função de professor de robótica educacional; é o criador do [DeepNLPF](https://deepnlpf.github.io/site/) um framework para integrar análise linguística e anotação semântica de documentos de texto, apoiado pelo [UFPE CIn](#), [Laboratoire d’Informatique et Systèmes - LIS](https://www.lis-lab.fr/en/home/) Marseille França e UFRPE; membro do grupo de pesquisa [Text Mining UFRPE](https://tmgufrpe.github.io/); co-fundador e editor do site [Clube dos Geeks](https://clubedosgeeks.com.b/).
 
-Tenho interesse nas áreas de Ciência da Computação, Mineração de Texto, Processamento de Linguagem Natural, Ciência de Dados, Computação de Alta Performance, Tecnologia Assistiva, Jogos Digitais, Automação Residencial e Automóvel, Robótica, IoT, Sistemas Embarcados, Processamento de Imagem e Visão Computacional.
+Tenho interesse nas áreas de Ciência da Computação, Inteligência Artificial, Processamento de Linguagem Natural, Mineração de Texto, Ciência de Dados, Engenharia de Software, Computação de Alta Performance, Tecnologia Assistiva, Jogos Digitais, Automação Residencial e Automotiva, Robótica, IoT, Sistemas Embarcados, Processamento de Imagem e Visão Computacional.
 
 
 
-## Contato/Social
+## Contato/ Mídias Sociais
 [WatsApp](tel:+5588988480232) | [Email](mailto:franciscosouzaacer@gmail.com) | [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8165664Z5) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Rodrigues18) | [LinkedIn](https://www.linkedin.com/in/rodriguesfas/) | [GitHub](https://github.com/rodriguesfas) | [Pip](https://pypi.org/user/rodriguesfas/) | [Blog](http://clubedosgeeks.com.br/author/champs) | [Medium](https://medium.com/@franciscosouzaacer) | [Facebook](https://www.facebook.com/r0driguesfas) | [Instagram](https://www.instagram.com/rodriguesfas/) | [LinkTree](https://linktr.ee/fasr)
 
 
 
 ## Educação
 
-2017 à 2019 - Mestrado em Ciência da Computação. Bolsista [CAPES](https://linktr.ee/fasr). Universidade Federal do Pernambuco ([UFPE](https://www.ufpe.br/)), Centro de Informática ([CIn](https://www2.cin.ufpe.br/)). [Dissertação](https://repositorio.ufpe.br/handle/123456789/37648) DeepNLPF: um framework para integrar análise linguística e anotação semântica de documentos de texto. Orientador: [PhD. Robson Fidalgo](http://lattes.cnpq.br/6390018491925933) e Coorientador: [PhD. Rinaldo Lima](http://lattes.cnpq.br/7645118086647340).
+2017 à 2019 - Mestrado em Ciência da Computação com Ênfase em Inteligência Artificial. Bolsista [CAPES](https://linktr.ee/fasr). Universidade Federal do Pernambuco ([UFPE](https://www.ufpe.br/)), Centro de Informática ([CIn](https://www2.cin.ufpe.br/)). [Dissertação](https://repositorio.ufpe.br/handle/123456789/37648) DeepNLPF: um framework para integrar análise linguística e anotação semântica de documentos de texto. Orientador: [PhD. Robson Fidalgo](http://lattes.cnpq.br/6390018491925933) e Coorientador: [PhD. Rinaldo Lima](http://lattes.cnpq.br/7645118086647340).
 
-2016 à 2017 - Graduação em Tecnologia em Automação Industrial. Instituto Federal do Ceará ([IFCE](https://ifce.edu.br/juazeirodonorte)) - Campus Juazeiro do Norte. Bolsista PIBIC e PIBIC. Orientador: [MSc. Alan Kelvin](http://lattes.cnpq.br/1827502290539759) (trancado).
+2016 à 2017 - Graduação em Tecnologia em Automação Industrial. Instituto Federal do Ceará ([IFCE](https://ifce.edu.br/juazeirodonorte)) - Campus Juazeiro do Norte. Bolsista [PIBIC](#) e [PIBIC](#). Orientador: [MSc. Alan Kelvin](http://lattes.cnpq.br/1827502290539759) (trancado).
 
 2015 à 2016 - Especialização MBA em Docência no Ensino Superior. [Instituto Dom José (IDJ)](https://www.idj.com.br/). TCC: As Tecnologias Como Ferramentas de Avaliação. Orientadora: [MSc. Bia Barata](#).
 
@@ -28,82 +28,78 @@ TCC: [DAVI: Dispositivo de Apoio para Deficientes Visuais](http://clubedosgeeks.
 
 
 ## Experiência
-2020 - (atualmente)
 
-[CodeRealm.](https://code.realmapp.com.br/) Nessa instituição sou co-fundador e desempenho principalmente a função de Full Stack Developer, em Juazeiro do Norte - CE.
-2019 - (atualmente)
+[Realm.](https://intitucional.realm.com.br/) nessa startup sou co-fundador, desempenho principalmente a função de full stack developer, análise, desenvolvimento, teste, manutenção de sistemas e documentação de software; gerenciamento de servidor e infraestrutura; desenvolvimento de APIs REST e micro serviços; automação de processos de venda com chat bots, entre outras tarefas; em Juazeiro do Norte - CE. (2020 - atualmente)
 
-[Colégio Objetivo](https://objetivojuazeiro.com.br/). Professor de informática, programação e robótica educacional (Infantil, Fundamental I e II e Médio). Juazeiro do Norte - CE. Nessa instituição, tenho principalmente desenvolvido atividades de docência, como também, participado de organização de torneios de robótica e orientação de projetos para feiras de ciências.
+[Colégio Nossa Senhora](https://cnsfce.com.br/). Professor de robótica educacional (Fundamental I e II e Médio). Barbalha - CE. Nessa instituição, tenho principalmente desenvolvido atividades de docência, como também, treinado equipes para campeonatos de robótica orientação e acompanhamento das equipes em feiras de ciências como [Olimpíada Brasileira de Robótica - OBR](http://www.obr.org.br/), [Olimpíada Brasileira de Satélite - OBSat](https://obsat.org.br/), [Torneio Juvenil de Robótica - TJR](https://torneiojrobotica.org/), [Torneio Brasileiro de Robótica - TBR](https://www.torneiobrasilderobotica.com.br/), entre outras competições. (2019-2022)
 
-[Colégio Nossa Senhora](https://cnsfce.com.br/). Professor de robótica educacional (Fundamental I e II e Médio). Barbalha - CE. Nessa instituição, tenho principalmente desenvolvido atividades de docência, como também, treinado equipe para campeonatos de robốtica e, orientação e acompanhamento das equipes de projetos em feiras de ciências.
+[Colégio Objetivo](https://objetivojuazeiro.com.br/). Professor de informática, programação e robótica educacional (Infantil, Fundamental I e II e Médio). Juazeiro do Norte - CE. Nessa instituição, tenho principalmente desenvolvido atividades de docência, ensino de informática educacional, raciocínio lógico, lógica de programação, como também, participado de organização de torneios de robótica, orientação de projetos para feiras de ciências, treinamento de alunos para maratonas de programação [OCI](https://oci.org.br/), [OBI](https://olimpiada.ic.unicamp.br/), [Robots](https://www.robots.objetivojuazeiro.com.br/). (2019-2021)
 
-[Cronos Dev](https://dev.cronoscariri.com.br/). Nessa instituição tenho desenvolvido atividades de desenvolvimento de software.
-
-2018
+[Cronos Dev](https://dev.cronoscariri.com.br/). Nessa instituição tenho desenvolvido atividades de desenvolvimento de software para leitores de Tags RFID com ênfase em performance. (2019-2020)
 
 Universidade Federal Rural do Pernambuco (UFRPE). Monitoria da disciplina Mineração de Texto (Graduação). Supervisores: PhD. Rinaldo Lima.
-2016 à 2017
+(2017)
 
-Colégio Objetivo. Professor de informática, programação (Fundamental I e II e Médio).. Juazeiro do Norte - CE.
-2013
+Colégio Objetivo. Professor de informática, programação (Fundamental I e II e Médio). Juazeiro do Norte - CE. (2016 - 2017)
 
-Centro Universitário Leão Sampaio (UniLeão). Monitoria da disciplina Introdução ao Algorítmo (Graduação). Supervisores: MSc. Aldeivo Thiago e MSc. Herlon Cortez.
-
+Centro Universitário Leão Sampaio (UniLeão). Monitoria da disciplina Introdução ao Algoritmo (Graduação). Supervisores: MSc. Aldeivo Thiago e MSc. Herlon Cortez. (2013 - 2014)
 
 
-## Oganização
-2016 - (atualmente)
 
-[Olimpíada Brasileira do Saber (OBS)](http://obssaberes.org/) Uma competição nacional de alto nível de excelência para estimular o interesse dos estudantes brasileiros para a Arte, Matemática, Língua Estrangeira a Ciência e a Tecnologia. Nessa organização, tenho desenvolvido website, sistema de cadastro no evento, software embarcado para competições, elaboração de editais, provas e suporte ao usuário.
+## Organização
 
-[Robots](http://www.robots.objetivojuazeiro.com.br/) Um campeonato que visa difundir a robótica para estudantes. Nessa organização tenho desenvolvido e avaliado as provas da competição, participo da organização do evento e treinamento de quipes.
+[Olimpíada Brasileira do Saber (OBS)](http://obssaberes.org/) Uma competição nacional de alto nível de excelência para estimular o interesse dos estudantes brasileiros para a Arte, Matemática, Língua Estrangeira a Ciência e a Tecnologia. Nessa organização, tenho desenvolvido website, sistema de cadastro no evento, software embarcado para competições, elaboração de editais, provas e suporte ao usuário. (2016 - 2021)
 
-2014 - (atualmente)
+[Robots](http://www.robots.objetivojuazeiro.com.br/) Um campeonato que visa difundir a robótica para estudantes. Nessa organização tenho desenvolvido e avaliado as provas da competição, participo da organização do evento e treinamento de equipes. (2014 - 2021)
 
-[ENACTUS UniLeão](http://www.enactus.org.br/) Uma organização internacional sem fins lucrativos dedicada a inspirar os alunos a melhorar o mundo através da Ação Empreendedora. Nessa organização tenho desenvolvidos aplicativos mobile, website e mentoria de projetos.
+[ENACTUS UniLeão](http://www.enactus.org.br/) Uma organização internacional sem fins lucrativos dedicada a inspirar os alunos a melhorar o mundo através da Ação Empreendedora. Nessa organização tenho desenvolvidos aplicativos mobile, website e mentor de projetos. (2014 - 2017)
 
 
 
 ## Grupo de Pesquisa
-2018 - (atualmente)
 
-[Text Mining Grup](https://tmgufrpe.github.io/) Membro do Grupo de Mineração de Texto, que tem como principal objetivo conduzir pesquisas e desenvolvimento de ponta em aplicativos de Processamento de Linguagem Natural (PNL), Mineração de Texto e Aprendizado de Máquina. Programa de Pós-Graduação em Informática Aplicada (PPGIA) da Universidade Federal Rural do Pernambuco (UFRPE). Nesse grupo de pesquisa tenho orientado alunos de graduação no desenvolvimento de seus projetos.
-2016
+[Text Mining Grup](https://tmgufrpe.github.io/) Membro do Grupo de Mineração de Texto, que tem como principal objetivo conduzir pesquisas e desenvolvimento de ponta em aplicativos de Processamento de Linguagem Natural (PNL), Mineração de Texto e Aprendizado de Máquina. Programa de [Pós-Graduação em Informática Aplicada](#) da Universidade Federal Rural do Pernambuco (UFRPE). Nesse grupo de pesquisa tenho orientado alunos de graduação no desenvolvimento de seus projetos. (2018 - atualmente)
 
-[Crash Robots](http://crashrobots.github.io/) Grupo de pesquisa de Robótica e Automação. Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte. Nesse grupo de pesquisa, participei do desenvolvimento de robôs para competições.
+[Crash Robots](http://crashrobots.github.io/) Grupo de pesquisa de Robótica e Automação. Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte. Nesse grupo de pesquisa, participei do desenvolvimento de robôs para competições. (2016 - 2017)
 
 
 
 ## Projetos
-[DeepNLPF](https://deepnlpf.github.io/site/) Um framework para integrar análise linguística e anotação semântica de documentos de texto. Universidade Federal de Pernambuco (UFPE), Centro de Cinformática (CIn). Financiamento: CAPES. Orientador PhD. [Robson Fidalgo] e Coorientador Rinaldo Lima.
+
+[DeepNLPF](https://deepnlpf.github.io/site/) Um framework para integrar análise linguística e anotação semântica de documentos de texto. Universidade Federal de Pernambuco (UFPE), Centro de Informática (CIn). Financiamento: CAPES. Orientador PhD. [Robson Fidalgo] e Coorientador Rinaldo Lima.
 
 [Hidropoino](https://github.com/hidropoino) Jardim Hidropônico Inteligente e Sustentável. Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte. Financiamento: PIBID CAPES e PIBIC CNPq. Orientador: MSc. Alan Kelvin.
 
 [DAVI](http://clubedosgeeks.com.br/davi/) Dispositivo de Apoio para Deficientes Visuais. Centro Universitário Leão Sampaio. PhD. Thiago Bessa e Coorientadora: MSc. Renata Kalina.
 
+Ver portfólio completo em [Github](https://rodriguesfas.github.io/docs/portfolio)
+
 ## Orientação de Projetos
+
 2019
 
 [Injury Prevention Monitor ](https://github.com/rodriguesfas/ipm) Protótipo de sistema de assistência de enfermagem que visa a prevenção de lesões por pressão. Aluna de Mestrado Jennifer Cabral. [Universidade de Fortaleza (UNIFOR)](https://www.unifor.br/). Financiamento CAPES. Orientador: PhD. Luís Rafael Leite Sampaio.
+
 2016
 
-[VTron](https://github.com/vtronboard) O projeto consiste em uma placa e um aplicativo móvel, capaz de receber comandos de um dispositivo móvel que executa tarefas como ligar e desligar o veículo, alarme, faróis, abrir o porta-malas, trancar e destrancar as portas e tocar a buzina. O projeto pode ser utilizado em veículos, automação residencial e também como ferramenta no ensino de robótica educacional. Alunos do Ensíno Médio: Ytalo e Luian. Orientador: Alex Ferrera e Coorientador: MSc. Francisco Rodrigues. Premium MOCINN/MOCICA (2016). Credenciado para [Expo-Sciences International (ESI)](https://milset.org/milset/web/programs-events/expo-sciences) [MILSET](https://milset.org/milset/web/) (2017). [Premium MCTEA](https://www.mctea.com.br/) (2016). [Premium MNR ](http://www.mnr.org.br/) (2016).
+[VTron](https://github.com/vtronboard) O projeto consiste em uma placa e um aplicativo móvel, capaz de receber comandos de um dispositivo móvel que executa tarefas como ligar e desligar o veículo, alarme, faróis, abrir o porta-malas, trancar e destrancar as portas e tocar a buzina. O projeto pode ser utilizado em veículos, automação residencial e também como ferramenta no ensino de robótica educacional. Alunos do Ensino Médio: Ytalo e Luian. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues. Premium MOCINN/MOCICA (2016). Credenciado para [Expo-Sciences International (ESI)](https://milset.org/milset/web/programs-events/expo-sciences) [MILSET](https://milset.org/milset/web/) (2017). [Premium MCTEA](https://www.mctea.com.br/) (2016). [Premium MNR ](http://www.mnr.org.br/) (2016).
 
-[Garduino](https://github.com/rodriguesfas/garduino) Projeto de braço robótico para regadores. Desenvolvido por alunos do ensíno fundamental Pedro do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferrera e Coorientador: MSc. Francisco Rodrigues.
+[Garduino](https://github.com/rodriguesfas/garduino) Projeto de braço robotico para regadores. Desenvolvido por alunos do ensino fundamental Pedro do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
 
-[Semaphore](https://github.com/rodriguesfas/semaphore) Projeto Semaforo interativo para deficientes. Desenvolvido pelo aluno do ensíno fundamental do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferrera e Coorientador: MSc. Francisco Rodrigues.
+[Semaphore](https://github.com/rodriguesfas/semaphore) Projeto Semaforo interativo para deficientes. Desenvolvido pelo aluno do ensino fundamental do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
 
-[Elecplants](https://github.com/rodriguesfas/elecplants) Monitor de plantas. Desenvolvido por alunos do ensíno fundamental do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferrera e Coorientador: MSc. Francisco Rodrigues.
+[Elecplants](https://github.com/rodriguesfas/elecplants) Monitor de plantas. Desenvolvido por alunos do ensino fundamental do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
 
-[Nutri Organic](https://nutriorganic.github.io/) Um simples app, para receitas saborosas usando frutas como igredientes, visando o disperdicio. Colégio Objetivo Juazeiro do Norte. Orientado: José Vinícius; Orientador: MSc. Francisco Rodrigues.
+[Nutri Organic](https://nutriorganic.github.io/) Um simples app, para receitas saborosas usando frutas como ingredientes, visando o desperdício. Colégio Objetivo Juazeiro do Norte. Orientado: José Vinícius; Orientador: MSc. Francisco Rodrigues.
 
 
-## Honras e Prêmios
+## Honras e Prémios
+
 2016
 
-- Finalista, MOCINN/[MOCICA](http://www.mocica.com.br/). Projeto [Hidropoino](https://github.com/hidropoino): Jardim Hidropônico Inteligente e Sustentável. Credenciamento para a FENECIT 2017.
+- Finalista, MOCINN/[MOCICA](http://www.mocica.com.br/). Projeto [Hidropoino](https://github.com/hidropoino): Jardim Hidropônico Inteligente e Sustentável. Credenciando para a FENECIT 2017.
 
-3º lugar na competição Robô segidor de linha. GERIS UniLeão.
+3º lugar na competição Robô seguidor de linha. GERIS UniLeão.
 
 - Finalista, [Nufarm](https://nufarm.com/br/). Projeto: Viver da Terra: O projeto visa o desenvolvimento da agricultura familiar através do cultivo de hortaliças para venda no mercado aberto. 2015.
 
@@ -140,9 +136,10 @@ Ebook: [Se Aventure Nessa Introdução ao Desenvolvimento de Jogos com Java](htt
 
 ## Apresentações
 
-Participei de conversas, oficinas, mini-cursos, workshop, entrevistas (rádio e tv) e mesa-redonda em diversos eventos: FLISOL, Genuino Day, CeproTec, SeTAi, Calug, SinFor, CEBRAC. Alguns desses registros podem ser encontrados aqui.
+Participei de conversas, oficinas, mini-cursos, workshop, entrevistas (rádio e tv) e mesa-redonda em diversos eventos: FLISOL, Genuino Day, CeproTec, SeTAi, Calug, SinFor, CEBRAC. Alguns desses registros podem ser encontrados [aqui](https://rodriguesfas.github.io/blog).
 
 ## Idiomas
+
 Inglês: Compreende Pouco, Fala Pouco, Lê Razoavelmente, Escreve Razoavelmente.
 
 Espanhol: Compreende Pouco, Fala Pouco, Lê Razoavelmente, Escreve Pouco.
@@ -152,9 +149,10 @@ Francês: Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco.
 Português: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
 
 ## Stacks
+
 Tenho vivência com diversar stacks:
 
-Linguagens de programação: [Python](https://www.python.org/), [PHP](https://www.php.net/), [Java](https://www.java.com/pt_BR/), [JavaScript](https://www.javascript.com/), [NodeJS](https://nodejs.org/en/), [C](https://www.w3.org/Style/CSS/Overview.en.html), [C++](http://www.cplusplus.org/) | [Erlang](https://www.erlang.org/), [Elixis](https://elixir-lang.org/), [Arduino](http://arduino.cc/), [Pascal](https://www.freepascal.org/)
+Linguagens de programação: [Python](https://www.python.org/), [PHP](https://www.php.net/), [Java](https://www.java.com/pt_BR/), [JavaScript](https://www.javascript.com/), [NodeJS](https://nodejs.org/en/), [C](https://www.w3.org/Style/CSS/Overview.en.html), [C++](http://www.cplusplus.org/) | [Erlang](https://www.erlang.org/), [Elixis](https://elixir-lang.org/), [Arduino](http://arduino.cc/), [Shell Script](#)
 
 Linguagens de marcação: [HTML](https://www.w3.org/html/) | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [Markdown](https://www.markdownguide.org/) | [LaTeX](https://www.latex-project.org/)
 
@@ -172,4 +170,10 @@ Estatistica: [Matlab](https://www.mathworks.com/products/matlab.html), [R](https
 
 Versionamento: [Git](https://git-scm.com/), [Github](https://github.com/), [Bitbucket](https://bitbucket.org/)
 
-Empacotadores [Pip](https://pypi.org/), [Anaconda](https://www.anaconda.com/)
+Empacotadores: [Pip](https://pypi.org/), [Anaconda](https://www.anaconda.com/)
+
+Hardwares: [Arduino](http://arduino.cc/), [Raspberry Pi](https://www.raspberrypi.org/), entre outras placas, drives, sensores e atuadores.
+
+Métodos ágeis: Scrum, Kanban, etc.
+
+Entre outros softwares e bibliotecas.

@@ -8,6 +8,10 @@ This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern 
 yarn install
 
 npm install
+
+or 
+
+npm install --no-audit
 ```
 
 ## Local Development
@@ -39,9 +43,8 @@ npm deploy
 
 # YES
 export  GIT_USERNAME=
+export  GIT_USER=
 export  GIT_PASSWORD=
-
-export GIT_USER=
 
 npm run deploy
 ```
