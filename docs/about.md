@@ -29,7 +29,7 @@ TCC: [DAVI: Dispositivo de Apoio para Deficientes Visuais](http://clubedosgeeks.
 
 ## Experiência
 
-[Realm.](https://intitucional.realm.com.br/) nessa startup sou co-fundador e desempenho principalmente a função de full stack developer, realizando análise, desenvolvimento, teste, manutenção e documentação de software SAAS; também tenho gerenciado e monitorado a infraestrutura de servidores; construido APIs REST para integração e micro serviços; automatizado processos de venda com chat bots "inteligência artificial"; construi um marketplace para vendas de produtos e serviços, portal do parceiro, área de clientes, portal administrativo, portal para afiliados, entre outros. As principais tecnologias que tem se feito presente nesses trabalhos são: JavaScritp, PHP (Codeigniter), Pyhton (Flask), Realtime com Ratchet e Socket.IO, banco de dados MySQL, também tenho aprendido a melhorar a usabilidade do sistema através de monitoramento continuo de uso dos usuários através do PAAS [Clarity](https://clarity.microsoft.com/) e prevenção de bugs por meio do monitoramento de logs com o PAAS [Sentry](https://sentry.io/). Tem sido uma grade desafio e aprendizado constante a qual tenho aperfeiçoado e ganhado varias habilidades técnicas e pessoais. Em Juazeiro do Norte - CE. (2020 - atualmente)
+[Realm.](https://intitucional.realm.com.br/) nessa startup sou co-fundador e desempenho principalmente a função de full stack developer, realizando análise, desenvolvimento, teste, manutenção e documentação de software SAAS; também tenho gerenciado e monitorado a infraestrutura de servidores; construido APIs REST para integração e micro serviços; automatizado processos de venda com chat bots "inteligência artificial"; construi um marketplace para vendas de produtos e serviços, portal do parceiro, área de clientes, portal administrativo, portal para afiliados, entre outros. As principais tecnologias que tem se feito presente nesses trabalhos são: JavaScritp, PHP (Codeigniter), Pyhton (Flask), Realtime com Ratchet e Socket.IO, banco de dados MySQL, também tenho aprendido a melhorar a usabilidade do sistema através de monitoramento continuo de uso dos usuários através do PAAS [Clarity](https://clarity.microsoft.com/) e prevenção de bugs por meio do rastreamento de erros para monitoramento de desempenho por meio de logs com o PAAS [Sentry](https://sentry.io/). Tem sido uma grade desafio e aprendizado constante a qual tenho aperfeiçoado e ganhado varias habilidades técnicas e pessoais. Em Juazeiro do Norte - CE. (2020 - atualmente)
 
 [Colégio Nossa Senhora](https://cnsfce.com.br/). Professor de robótica educacional (Fundamental I e II e Médio). Barbalha - CE. Nessa instituição, tenho principalmente desenvolvido atividades de docência, como também, treinado equipes para campeonatos de robótica orientação e acompanhamento das equipes em feiras de ciências como [Olimpíada Brasileira de Robótica - OBR](http://www.obr.org.br/), [Olimpíada Brasileira de Satélite - OBSat](https://obsat.org.br/), [Torneio Juvenil de Robótica - TJR](https://torneiojrobotica.org/), [Torneio Brasileiro de Robótica - TBR](https://www.torneiobrasilderobotica.com.br/), entre outras competições. Foram alguns anos trabalhando e conquistando premiações e destaque juntamente com os alunos; uns dos maiores aprendizados não foi apenas ensinar, mais sim, a prender a perder, depois de noites a fios, não desmotivar, levantar a cabeça e transmitir isso para aqueles pequeninos não se sentirem abatidos e continuarem com sede de estudar. Foram varia tecnologias utilizadas durante as aulas, mais podemos destacar Arduino, LEGO, C/C++, Python. (2019-2022)
 
@@ -150,28 +150,38 @@ Português: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
 
 Tenho vivência com diversar stacks:
 
-Linguagens de programação: [Python](https://www.python.org/), [PHP](https://www.php.net/), [Java](https://www.java.com/pt_BR/), [JavaScript](https://www.javascript.com/), [NodeJS](https://nodejs.org/en/), [C](https://www.w3.org/Style/CSS/Overview.en.html), [C++](http://www.cplusplus.org/) | [Erlang](https://www.erlang.org/), [Elixis](https://elixir-lang.org/), [Arduino](http://arduino.cc/), [Shell Script](#)
+Linguagens de programação: ```Python```, ```PHP```, ```Java```, ```JavaScript```, ```NodeJS```, ```C/C++``` ```Erlang```, ```Elixis```, ```Arduino```, ```Bash```, ```Matlab```, ```R```.
 
-Linguagens de marcação: [HTML](https://www.w3.org/html/) | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | [Markdown](https://www.markdownguide.org/) | [LaTeX](https://www.latex-project.org/)
+Linguagens de marcação: ```HTML```, ```CSS```, ```Markdown```, ```LaTeX```, ```Jinja```.
 
-Framework: [Flask](https://flask.palletsprojects.com/en/1.1.x/), [Django](https://www.djangoproject.com/), [Wordpress](https://wordpress.org/), [CodeIgniter](http://codeigniter.com/), [OpenCV](https://opencv.org/), [Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/)
+Framework: ```Flask```, ```FastAPI```, ```Wordpress``` , ```CodeIgniter```, ```Jekyll```.
 
-Banco de Dados: [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/), [SQLite](https://www.sqlite.org/index.html), [PostgreSQL](https://www.postgresql.org/)
+Banco de Dados: ```MySQL```, ```MongoDB```, ```SQLite```, ```PostgreSQL```, ```NeDB```.
 
-Plataformas: [Linux](https://www.linux.org/), [Windows](https://www.microsoft.com/), [Android](https://www.android.com/)
+SO: ```Linux```, ```Windows```, ```Android```.
 
-Infraestrutura: [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/), [Google Cloud](https://cloud.google.com/), [Docker](https://www.docker.com/) [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/)
+Infra: ```AWS```, ```Azure```, ```Google Cloud```, ```VPS```, ```Docker```, ```Vagrant```, ```VirtualBox```.
 
-Embarcado: [Fritzing](https://fritzing.org/home/), [Proteus](https://rodriguesfas.github.io/docs/about#)
+Testes: ```Unit```, ```Locust```.
 
-Estatistica: [Matlab](https://www.mathworks.com/products/matlab.html), [R](https://www.r-project.org/) 
+Monitoramento: ```Sentry```, ```Clarity```.
 
-Versionamento: [Git](https://git-scm.com/), [Github](https://github.com/), [Bitbucket](https://bitbucket.org/)
+Versionamento: ```Git```, ```Github```, ```Github Action```, ```Bitbucket```, ```GitFlow```.
 
-Empacotadores: [Pip](https://pypi.org/), [Anaconda](https://www.anaconda.com/)
+Empacotadores: ```Pip```, ```Anaconda```, ```Composer```, ```NPM```, ```Yarn```.
 
-Hardwares: [Arduino](http://arduino.cc/), [Raspberry Pi](https://www.raspberrypi.org/), entre outras placas, drives, sensores e atuadores.
+Embarcado: ```Fritzing```, ```Proteus```.
 
-Métodos ágeis: Scrum, Kanban, etc.
+Hardwares: ```Arduino UNO R3```, ```Arduino Mega```, ```Node MCU V3```, ```Raspberry Pi```, entre outras placas, drives, sensores e atuadores.
 
-Entre outros softwares e bibliotecas.
+Métodos ágeis: ```Scrum```, ```Kanban```.
+
+NLP: ```Stanford CoreNLP```, ```Stanza```, ```SpaCy```, ```CogComp NLP```, ```FreeLing```, ```NLTK```, ```SEMAFOR```, ```SupWSD```, ```WordNet```, ```VerbNet```, entre outras.
+
+Visão Computacional: ```OpenCV```.
+
+Notebook: ```Jupyter```, ```Google Colab```.
+
+Documentação: ```MKDocs```, ```Docussaurus```, ```Redoc```, ```OpenAPI```, ```Swagger```.
+
+e outras coisas que nem me lembro mais :)
