@@ -9,24 +9,13 @@ This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern 
 ## Installation
 
 ```console
-yarn install
-
 npm install
-
-or 
-
-npm install --no-audit
 ```
 
 ## Local Development
 
 ```console
-yarn start
-
 npm start
-
-
-
 ```
 
 This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
@@ -34,8 +23,6 @@ This command starts a local development server and open up a browser window. Mos
 ## Build
 
 ```console
-yarn build
-
 npm run build
 ```
 
@@ -44,9 +31,8 @@ This command generates static content into the `build` directory and can be serv
 ## Deployment
 
 ```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-
-npm deploy
+GIT_USER=<Your GitHub username> 
+USE_SSH=true npm run deploy
 
 # YES
 export  GIT_USERNAME=
