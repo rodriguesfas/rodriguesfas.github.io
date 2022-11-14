@@ -1,11 +1,9 @@
 ---
 id: about
-title: Resumo
+title: Francisco de Assis de Souza Rodrigues
 ---
 
-Francisco de Assis de Souza Rodrigues
-
-Mestre em Ciência da Computação (UFPE), MBA em Docência do Ensino Superior (IDJ), Graduação em Automação Industrial (IFCE), Graduação Análise e Desenvolvimento de Sistemas (UniLeão), Empreendedor e co-fundador da [Realm](https://institucional.realm.com.br/), trabalhou na [NeuralMind](https://neuralmind.ai/) como Cientista da Computação; professor de informática, programação e robótica educacional no [Colégio Objetivo](http://objetivojuazeiro.com.br/) e [Colégio Nossa Senhora de Fátima](http://cnsfce.com.br/); criador do [DeepNLPF](https://deepnlpf.github.io/site/) um framework para integrar análise linguística e anotação semântica de documentos de texto, apoiado pelo [UFPE CIn](#), [Laboratoire d’Informatique et Systèmes - LIS](https://www.lis-lab.fr/en/home/) Marseille França e UFRPE; membro do grupo de pesquisa [Text Mining UFRPE](https://tmgufrpe.github.io/); co-fundador e editor do site [Clube dos Geeks](https://clubedosgeeks.com.b/).
+Mestre em Ciência da Computação (UFPE), MBA em Docência do Ensino Superior (IDJ), Graduação em Automação Industrial (IFCE), Graduação Análise e Desenvolvimento de Sistemas (UniLeão), Empreendedor, co-fundador e CTO na [Realm](https://institucional.realm.com.br/), trabalhou na [NeuralMind](https://neuralmind.ai/) como Cientista da Computação; professor de informática, programação e robótica educacional no [Colégio Objetivo](http://objetivojuazeiro.com.br/) e [Colégio Nossa Senhora de Fátima](http://cnsfce.com.br/); co-fundador e instrutor de formação na [CreateLab](#), criador do [DeepNLPF](https://deepnlpf.github.io/site/) um framework para integrar análise linguística e anotação semântica de documentos de texto, apoiado pelo [UFPE CIn](#), [Laboratoire d’Informatique et Systèmes - LIS](https://www.lis-lab.fr/en/home/) Marseille França e [UFRPE](#); membro do grupo de pesquisa [Text Mining UFRPE](https://tmgufrpe.github.io/); co-fundador e editor do site [Clube dos Geeks](https://clubedosgeeks.com.b/).
 
 ## Contato / Mídias Sociais
 [WatsApp](tel:+5588988480232) | [Email](mailto:franciscosouzaacer@gmail.com) | [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8165664Z5) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Rodrigues18) | [LinkedIn](https://www.linkedin.com/in/rodriguesfas/) | [GitHub](https://github.com/rodriguesfas) | [Pip](https://pypi.org/user/rodriguesfas/) | [Blog](http://clubedosgeeks.com.br/author/champs) | [Medium](https://medium.com/@franciscosouzaacer) | [Facebook](https://www.facebook.com/r0driguesfas) | [Instagram](https://www.instagram.com/rodriguesfas/) | [LinkTree](https://linktr.ee/fasr)
@@ -27,26 +25,39 @@ TCC: [DAVI: Dispositivo de Apoio para Deficientes Visuais](http://clubedosgeeks.
 
 ## Experiência
 
-[Realm](https://realm.com.br/), co-fundador e CTO, desempenho principalmente a função de full stack developer, realizando análise, desenvolvimento, teste, manutenção e documentação de software; também sou responsável pela infraestrutura de serviços; construção de APIs REST para integração e micro aplicações; automatização de processos de venda com chat bots; desenvolvimento de marketplace para vendas de produtos e serviços, portal do parceiro, área de clientes, portal administrativo, portal para afiliados, prototipado e construido hardwares, também tenho aprendido a melhorar a usabilidade do sistema através de monitoramento continuo de uso dos usuários; prevenção de bugs, monitoramento de desempenho por meio de logs. Tem sido uma grade desafio e aprendizado constante a qual tenho aperfeiçoado e ganhado varias habilidades técnicas e pessoais. Em Juazeiro do Norte - CE. (2020 - atualmente)
+* [Realm](https://realm.com.br/), uma startup de tecnologia que tem desenvolvido soluções tecnológica para canal de vendas, inteligência de negócio, agendamento online, publicidade OOH. Sou empreendedor, co-fundador e CTO, desempenhando principalmente a função de full stack developer, realizando análise, desenvolvimento, teste, manutenção e documentação de software; responsável pela infraestrutura de serviços; construção de APIs REST para integração e micro aplicações; automatização de processos de venda com chat bots; desenvolvimento de marketplace para vendas de produtos e serviços, portal do parceiro, área de clientes, portal administrativo, portal para afiliados, prototipado e construido hardwares e produtos como bagled, também tenho aprendido a melhorar a usabilidade do sistema através de monitoramento continuo de uso dos usuários; prevenção de bugs, monitoramento de desempenho por meio de logs. Tem sido uma grade desafio e aprendizado constante a qual tenho aperfeiçoado e ganhado varias habilidades técnicas e pessoais. Em Juazeiro do Norte - CE. (2020 - atualmente)
 
-Competências: Natural Language Processing, Python, PHP, JavaScritp, MySQL, TinyDB, Codeigniter, Ratchet, Socket.IO, Clarity, Sentry, FastAPI, Flask, Docker, AWS (Serveless, Container Registry, Lambda, API Gateway, S3 Bucket), Bootstrap, HTML, CSS.
+> Competências: Natural Language Processing, Python, PHP, JavaScritp, MySQL, TinyDB, Codeigniter, Ratchet, Socket.IO, Clarity, Sentry, FastAPI, Flask, Docker, AWS (Serveless, Container Registry, Lambda, API Gateway, S3 Bucket), Bootstrap, HTML, CSS, Linux, Windows.
 
-[NeuralMind](https://neuralmind.ai/), uma startup focada em pesquisa e inovação que leva soluções efetivas e eficientes para o mercado com inteligência artificial. Nessa empresa, trabalhei com pesquisa, desenvolvimento e manutenção de um sistema de busca baseado em modelos de processamento de linguagem natural de última geração, inteligência artificial que faz pesquisa em base de dados em segundos e com precisão, com capacidade de responder perguntas de alta complexidade denominado de [NeuralSearchX](https://nsx.ai/). São Paulo; Unicamp; Remoto; em (05/2022 - 11/2022)
+* [NeuralMind](https://neuralmind.ai/), uma startup focada em pesquisa e inovação que leva soluções efetivas e eficientes para o mercado com inteligência artificial. Nessa empresa, trabalhei com pesquisa (FACEPE), desenvolvimento e manutenção de um sistema de busca baseado em modelos de processamento de linguagem natural de última geração, inteligência artificial que faz pesquisa em base de dados em segundos e com precisão, com capacidade de responder perguntas de alta complexidade denominado de [NeuralSearchX](https://nsx.ai/). São Paulo; Unicamp; Remoto; em (05/2022 - 11/2022)
 
-Competências: Natural Language Processing, Machine Learning, Text Extractor, Data deduplication, Python, PLN, FastAPI, AWS(S3), Azure, Docker, SQLAlchemy, Textract.
+> Competências: Natural Language Processing, Machine Learning, Transformers, Text Extractor, Data deduplication, OpenIA GPT-3, Python, PLN, FastAPI, AWS(S3), Azure (VM, Bucket), Docker, SQLAlchemy, Textract, Linux.
 
-[Colégio Nossa Senhora](https://cnsfce.com.br/). Professor de robótica educacional (Fundamental I e II e Médio). Barbalha - CE. Nessa instituição, tenho principalmente desenvolvido atividades de docência, como também, treinado equipes para campeonatos de robótica orientação e acompanhamento das equipes em feiras de ciências como [Olimpíada Brasileira de Robótica - OBR](http://www.obr.org.br/), [Olimpíada Brasileira de Satélite - OBSat](https://obsat.org.br/), [Torneio Juvenil de Robótica - TJR](https://torneiojrobotica.org/), [Torneio Brasileiro de Robótica - TBR](https://www.torneiobrasilderobotica.com.br/), entre outras competições. Foram alguns anos trabalhando e conquistando premiações e destaque juntamente com os alunos; uns dos maiores aprendizados não foi apenas ensinar, mais sim, a prender a perder, depois de noites a fios, não desmotivar, levantar a cabeça e transmitir isso para aqueles pequeninos não se sentirem abatidos e continuarem com sede de estudar. Foram varia tecnologias utilizadas durante as aulas, mais podemos destacar Arduino, LEGO, C/C++, Python. (2019-2022)
+* [Colégio Nossa Senhora](https://cnsfce.com.br/). Professor de robótica educacional (Fundamental I e II e Médio). Barbalha - CE. Nessa instituição, tenho principalmente desenvolvido atividades de docência, como também, treinado equipes para campeonatos de robótica orientação e acompanhamento das equipes em feiras de ciências como [Olimpíada Brasileira de Robótica - OBR](http://www.obr.org.br/), [Olimpíada Brasileira de Satélite - OBSat](https://obsat.org.br/), [Torneio Juvenil de Robótica - TJR](https://torneiojrobotica.org/), [Torneio Brasileiro de Robótica - TBR](https://www.torneiobrasilderobotica.com.br/), entre outras competições. Foram alguns anos trabalhando e conquistando premiações e destaque juntamente com os alunos; uns dos maiores aprendizados não foi apenas ensinar, mais sim, a prender a perder, depois de noites a fios, não desmotivar, levantar a cabeça e transmitir isso para aqueles pequeninos não se sentirem abatidos e continuarem com sede de estudar. (2019-2022)
 
-[Colégio Objetivo](https://objetivojuazeiro.com.br/). Professor de informática, programação e robótica educacional (Infantil, Fundamental I e II e Médio). Juazeiro do Norte - CE. Nessa instituição, tenho principalmente desenvolvido atividades de docência, ensino de informática educacional, raciocínio lógico, lógica de programação, como também, participado de organização de torneios de robótica, orientação de projetos para feiras de ciências, treinamento de alunos para maratonas de programação [OCI](https://oci.org.br/), [OBI](https://olimpiada.ic.unicamp.br/), [Robots](https://www.robots.objetivojuazeiro.com.br/).
+> Competências: Professor, treinador, Arduino, LEGO, C/C++, Python, Linux, Windows.
+
+* [Colégio Objetivo](https://objetivojuazeiro.com.br/). Professor de informática, programação e robótica educacional (Infantil, Fundamental I e II e Médio). Juazeiro do Norte - CE. Nessa instituição, tenho principalmente desenvolvido atividades de docência, ensino de informática educacional, raciocínio lógico, lógica de programação, como também, participado de organização de torneios de robótica, orientação de projetos para feiras de ciências, treinamento de alunos para maratonas de programação [OCI](https://oci.org.br/), [OBI](https://olimpiada.ic.unicamp.br/), [Robots](https://www.robots.objetivojuazeiro.com.br/).
 (2016 - 2017) (2019-2021)
 
-[Cronos Dev](https://dev.cronoscariri.com.br/). Nessa instituição tenho desenvolvido atividades de desenvolvimento de software. Nesse trabalho tenho aprendido a trabalhar com leitor RFID [Impinj](https://www.impinj.com/), com ênfase em performance empregando as tecnologias Python, Java, Websocket, MongoDB. Construi um coletor de TAGs, esse coletor é utilizado em corridas de rua, corrida do tipo motobike, entre outra modalidades, com o objetivo de saber o tempo dos corredores. (2019-2020)
+> Competências: Professor, treinador, Arduino, LEGO, C/C++, Python, Java, Javascript, NodeJS, PHP, Wordpress, HTML, CSS, Linux, Windows.
 
-Universidade Federal Rural do Pernambuco (UFRPE). Monitoria da disciplina Mineração de Texto (Graduação). As principais atividades realizadas foram auxiliar os discentes nos seus estudos, na resolução de problemas, tira dúvidas, entre outras. Linguagens de programação utilizadas Python, Java, e diversas bibliotecas de processamento de linguagem natural, (NLTK, CoreNLP, CogComp, SpaCy, SEMAFOR, SupWSD, entre outras). Supervisores: PhD. Rinaldo Lima. (2017)
+* [CreateLab](#) uma startup focada em educação tecnológica, que desenvolve material didático para o ensino de robótica educacional de crianças, adolescentes e capacitação de professores. Nessa empresa fui co-fundador, elaborador de material didático para ensino de robótica educacional e instrutor de professores. Também desenvolvi toda a parte tecnológica que fornecia o material didático de forma digital para as escolas, alunos e professores e area de compra de material e kit de robótica.
+(2019)
 
-Centro Universitário Leão Sampaio (UniLeão). Monitoria da disciplina Introdução ao Algoritmo (Graduação). Realizei acompanhamento na sala de aula, ministração de aulas, revisão de conteúdo, tira dúvidas, resolução de exercícios, entre outras tarefas. Linguagens de programação utilizadas em aulas foram Java e C/C++.  Supervisores: MSc. Aldeivo Thiago e MSc. Herlon Cortez. (2013 - 2014)
+> Competências: Professor, instrutor, Arduino, LEGO, C/C++, PHP, Javascript, NodeJS, PHP, Wordpress, HTML, CSS, Linux, Windows.
 
+* [Cronos Dev](https://dev.cronoscariri.com.br/). Nessa instituição tenho desenvolvido atividades de desenvolvimento de software. Nesse trabalho tenho aprendido a trabalhar com leitor RFID [Impinj](https://www.impinj.com/), com ênfase em performance. Construi um coletor de TAGs, esse coletor é utilizado em corridas de rua, corrida do tipo motobike, entre outra modalidades, com o objetivo de saber o tempo dos corredores. (2019-2020)
 
+> Competências: Python, Java, MongoDB, Websocket, Tags RFID, Linux, Windows.
+
+* Universidade Federal Rural do Pernambuco (UFRPE). Monitoria da disciplina Mineração de Texto (Graduação). As principais atividades realizadas foram auxiliar os discentes nos seus estudos, na resolução de problemas, tira dúvidas, entre outras. Supervisores: PhD. Rinaldo Lima. (2017)
+
+> Competências: Monitoria, Python, Java, C/C++, NLTK, CoreNLP, CogComp, SpaCy, SEMAFOR, SupWSD, FreeLing, WordNet.
+
+* Centro Universitário Leão Sampaio (UniLeão). Monitoria da disciplina Introdução ao Algoritmo (Graduação). Realizei acompanhamento na sala de aula, ministração de aulas, revisão de conteúdo, tira dúvidas, resolução de exercícios, entre outras tarefas.  Supervisores: MSc. Aldeivo Thiago e MSc. Herlon Cortez. (2013 - 2014)
+
+> Competências: Monitoria, Algorítimos, Java, C/C++.
 
 ## Organização
 
@@ -80,19 +91,19 @@ Ver portfólio completo em [Github](https://rodriguesfas.github.io/docs/portfoli
 
 2019
 
-[Injury Prevention Monitor ](https://github.com/rodriguesfas/ipm) Protótipo de sistema de assistência de enfermagem que visa a prevenção de lesões por pressão. Aluna de Mestrado Jennifer Cabral. [Universidade de Fortaleza (UNIFOR)](https://www.unifor.br/). Financiamento CAPES. Orientador: PhD. Luís Rafael Leite Sampaio.
+* [Injury Prevention Monitor ](https://github.com/rodriguesfas/ipm) Protótipo de sistema de assistência de enfermagem que visa a prevenção de lesões por pressão. Aluna de Mestrado Jennifer Cabral. [Universidade de Fortaleza (UNIFOR)](https://www.unifor.br/). Financiamento CAPES. Orientador: PhD. Luís Rafael Leite Sampaio.
 
 2016
 
-[VTron](https://github.com/vtronboard) O projeto consiste em uma placa e um aplicativo móvel, capaz de receber comandos de um dispositivo móvel que executa tarefas como ligar e desligar o veículo, alarme, faróis, abrir o porta-malas, trancar e destrancar as portas e tocar a buzina. O projeto pode ser utilizado em veículos, automação residencial e também como ferramenta no ensino de robótica educacional. Alunos do Ensino Médio: Ytalo e Luian. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues. Premium MOCINN/MOCICA (2016). Credenciado para [Expo-Sciences International (ESI)](https://milset.org/milset/web/programs-events/expo-sciences) [MILSET](https://milset.org/milset/web/) (2017). [Premium MCTEA](https://www.mctea.com.br/) (2016). [Premium MNR ](http://www.mnr.org.br/) (2016).
+* [VTron](https://github.com/vtronboard) O projeto consiste em uma placa e um aplicativo móvel, capaz de receber comandos de um dispositivo móvel que executa tarefas como ligar e desligar o veículo, alarme, faróis, abrir o porta-malas, trancar e destrancar as portas e tocar a buzina. O projeto pode ser utilizado em veículos, automação residencial e também como ferramenta no ensino de robótica educacional. Alunos do Ensino Médio: Ytalo e Luian. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues. Premium MOCINN/MOCICA (2016). Credenciado para [Expo-Sciences International (ESI)](https://milset.org/milset/web/programs-events/expo-sciences) [MILSET](https://milset.org/milset/web/) (2017). [Premium MCTEA](https://www.mctea.com.br/) (2016). [Premium MNR ](http://www.mnr.org.br/) (2016).
 
-[Garduino](https://github.com/rodriguesfas/garduino) Projeto de braço robotico para regadores. Desenvolvido por alunos do ensino fundamental Pedro do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
+* [Garduino](https://github.com/rodriguesfas/garduino) Projeto de braço robotico para regadores. Desenvolvido por alunos do ensino fundamental Pedro do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
 
-[Semaphore](https://github.com/rodriguesfas/semaphore) Projeto Semaforo interativo para deficientes. Desenvolvido pelo aluno do ensino fundamental do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
+* [Semaphore](https://github.com/rodriguesfas/semaphore) Projeto Semaforo interativo para deficientes. Desenvolvido pelo aluno do ensino fundamental do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
 
-[Elecplants](https://github.com/rodriguesfas/elecplants) Monitor de plantas. Desenvolvido por alunos do ensino fundamental do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
+* [Elecplants](https://github.com/rodriguesfas/elecplants) Monitor de plantas. Desenvolvido por alunos do ensino fundamental do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
 
-[Nutri Organic](https://nutriorganic.github.io/) Um simples app, para receitas saborosas usando frutas como ingredientes, visando o desperdício. Colégio Objetivo Juazeiro do Norte. Orientado: José Vinícius; Orientador: MSc. Francisco Rodrigues.
+* [Nutri Organic](https://nutriorganic.github.io/) Um simples app, para receitas saborosas usando frutas como ingredientes, visando o desperdício. Colégio Objetivo Juazeiro do Norte. Orientado: José Vinícius; Orientador: MSc. Francisco Rodrigues.
 
 
 ## Honras e Prémios
@@ -107,34 +118,34 @@ Ver portfólio completo em [Github](https://rodriguesfas.github.io/docs/portfoli
 
 - Cetificate of Achievement, [ACM](https://www.acm.org/icpc-winners) International Colleiate Programming Contest [ICPC](https://icpc.baylor.edu/) Sponsored by IBM. Instituto Federal do Ceará (IFCE) - Campus Crato. 2014.
 
-Cetificate of Achievement, [ACM](https://www.acm.org/icpc-winners) International Colleiate Programming Contest [ICPC](https://icpc.baylor.edu/) Sponsored by IBM. Instituto Federal do Ceará (IFCE) - Campus Crato. 2013.
+- Cetificate of Achievement, [ACM](https://www.acm.org/icpc-winners) International Colleiate Programming Contest [ICPC](https://icpc.baylor.edu/) Sponsored by IBM. Instituto Federal do Ceará (IFCE) - Campus Crato. 2013.
 
-Goud Cetificate de Melhor Apresentação de Projetos na II Sinfor - Semana de Informática e IV Mostra de Projetos Integradores do Centro Universitário Leão Sampaio (UniLeão), com o projeto VANT: Veículo Aério Não Tripulado Aplicado a Segurança Patrimonial. 2011.
+- Goud Cetificate de Melhor Apresentação de Projetos na II Sinfor - Semana de Informática e IV Mostra de Projetos Integradores do Centro Universitário Leão Sampaio (UniLeão), com o projeto VANT: Veículo Aério Não Tripulado Aplicado a Segurança Patrimonial. 2011.
 
 ## Blog
 
-Website [Metodologia em Computação](https://metodologiaemcomputacao.github.io/). Escrita de artigos para orientar os estudantes de Ciência da Computação em suas pesquisas. 2018.
+* Website [Metodologia em Computação](https://metodologiaemcomputacao.github.io/). Escrita de artigos para orientar os estudantes de Ciência da Computação em suas pesquisas. 2018.
 
-Website [Clube dos Geeks](https://clubedosgeeks.com.br/). Elaboração de notícias e tutoriais para estudantes de tecnologia. 2013.
+* Website [Clube dos Geeks](https://clubedosgeeks.com.br/). Elaboração de notícias e tutoriais para estudantes de tecnologia. 2013.
 
 ## Publicações
 
 Artigos completos publicados em periódicos
 
-RODRIGUES, F. A. S.; Robson Fidalgo; Rinaldo Lima; [William Domingues](http://www.lsis.org/dominguesw/index.php); [Adrian Chifu](https://adrianchifu.com/); Bernard Espinasse; [Sébastien Fournier](https://pageperso.lis-lab.fr/sebastien.fournier/). [DeepNLPF: A Framework for Integrating Third-Party NLP Tools](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.895.pdf). [LREC](https://lrec2020.lrec-conf.org/en/) 2020, TWELFTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION. , v.12, p.7246 - 7253, 2020.
+> RODRIGUES, F. A. S.; Robson Fidalgo; Rinaldo Lima; [William Domingues](http://www.lsis.org/dominguesw/index.php); [Adrian Chifu](https://adrianchifu.com/); Bernard Espinasse; [Sébastien Fournier](https://pageperso.lis-lab.fr/sebastien.fournier/). [DeepNLPF: A Framework for Integrating Third-Party NLP Tools](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.895.pdf). [LREC](https://lrec2020.lrec-conf.org/en/) 2020, TWELFTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION. , v.12, p.7246 - 7253, 2020.
 Trabalhos completos publicados em anais de congressos
 
-PEREIRA, JAYR; DE MELO, MARIANA; FRANCO, NATALIA; RODRIGUES, FRANCISCO; COELHO, ALEXSANDRO; FIDALGO, ROBSON. [Using Assistive Robotics for Aphasia Rehabilitation](https://ieeexplore.ieee.org/document/9018569) In: 2019 Latin American Robotics Symposium (LARS), 2019 [Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE)](https://ieeexplore.ieee.org/xpl/conhome/8995608/proceeding), 2019, Rio Grande. 2019 Latin American Robotics Symposium (LARS), 2019 Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE). , 2019. p.387.
+> PEREIRA, JAYR; DE MELO, MARIANA; FRANCO, NATALIA; RODRIGUES, FRANCISCO; COELHO, ALEXSANDRO; FIDALGO, ROBSON. [Using Assistive Robotics for Aphasia Rehabilitation](https://ieeexplore.ieee.org/document/9018569) In: 2019 Latin American Robotics Symposium (LARS), 2019 [Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE)](https://ieeexplore.ieee.org/xpl/conhome/8995608/proceeding), 2019, Rio Grande. 2019 Latin American Robotics Symposium (LARS), 2019 Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE). , 2019. p.387.
 
-PEREIRA, J. A. ; RODRIGUES, F. A. S. ; Neto, E. A. C. ; BRITO, J. L. S. ; MAURICIO, P. H. . [Dispositivo de Apoio a Deficientes Visuais - DAVI](http://conic-semesp.org.br/anais/files/2013/trabalho-1000015588.pdf). In: Conic-Semesp, 2013, Campinas. CONIC/SEMESP - 13º Congresso de Iniciação Cientifica, 2013.
+> PEREIRA, J. A. ; RODRIGUES, F. A. S. ; Neto, E. A. C. ; BRITO, J. L. S. ; MAURICIO, P. H. . [Dispositivo de Apoio a Deficientes Visuais - DAVI](http://conic-semesp.org.br/anais/files/2013/trabalho-1000015588.pdf). In: Conic-Semesp, 2013, Campinas. CONIC/SEMESP - 13º Congresso de Iniciação Cientifica, 2013.
 
 Resumos publicados em anais de congressos
 
-RODRIGUES, F. A. S.; Neto, E. A. C. ; SOUZA, T. A. ; FERNANDES, F. J. S. . [Jean - Uma Interface Cérebro-Máquina de Baixo Custo - Ajudando Deficientes a Mover Coisas no Mundo](http://www.fjn.edu.br/iniciacaocientifica/anais-vii-semana/wp-content/uploads/2016/01/Anais-VII-SEMANA-DE-INICIA%C3%87%C3%83O-2015.pdf). In: VII Semana de Iniciação Científica, 2015, Juazeiro do Norte. Diversidade Cultural e Movimentos Sociais: consolidação da ciência a serviço da sociedade., 2015.
+> RODRIGUES, F. A. S.; Neto, E. A. C. ; SOUZA, T. A. ; FERNANDES, F. J. S. . [Jean - Uma Interface Cérebro-Máquina de Baixo Custo - Ajudando Deficientes a Mover Coisas no Mundo](http://www.fjn.edu.br/iniciacaocientifica/anais-vii-semana/wp-content/uploads/2016/01/Anais-VII-SEMANA-DE-INICIA%C3%87%C3%83O-2015.pdf). In: VII Semana de Iniciação Científica, 2015, Juazeiro do Norte. Diversidade Cultural e Movimentos Sociais: consolidação da ciência a serviço da sociedade., 2015.
 
 ## Livros
 
-Ebook: [Se Aventure Nessa Introdução ao Desenvolvimento de Jogos com Java](http://clubedosgeeks.com.br/download_livro/index.html). 2015.
+* Ebook: [Se Aventure Nessa Introdução ao Desenvolvimento de Jogos com Java](ebook/champs-da-galaxia). 2015.
 
 ## Apresentações
 
