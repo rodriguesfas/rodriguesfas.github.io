@@ -5,13 +5,9 @@ title: Resumo
 
 Francisco de Assis de Souza Rodrigues
 
-Atualmente é co-fundador e CTO na startup [Realm](https://institucional.realm.com.br/), trabalhou na empresa [NeuralMind](https://neuralmind.ai/) como Cientista da Computação; professor de informática, programação e robótica educacional no [Colégio Objetivo](http://objetivojuazeiro.com.br/) e [Colégio Nossa Senhora de Fátima](http://cnsfce.com.br/); criador do [DeepNLPF](https://deepnlpf.github.io/site/) um framework para integrar análise linguística e anotação semântica de documentos de texto, apoiado pelo [UFPE CIn](#), [Laboratoire d’Informatique et Systèmes - LIS](https://www.lis-lab.fr/en/home/) Marseille França e UFRPE; membro do grupo de pesquisa [Text Mining UFRPE](https://tmgufrpe.github.io/); co-fundador e editor do site [Clube dos Geeks](https://clubedosgeeks.com.b/).
+Mestre em Ciência da Computação (UFPE), MBA em Docência do Ensino Superior (IDJ), Graduação em Automação Industrial (IFCE), Graduação Análise e Desenvolvimento de Sistemas (UniLeão), Empreendedor e co-fundador da [Realm](https://institucional.realm.com.br/), trabalhou na [NeuralMind](https://neuralmind.ai/) como Cientista da Computação; professor de informática, programação e robótica educacional no [Colégio Objetivo](http://objetivojuazeiro.com.br/) e [Colégio Nossa Senhora de Fátima](http://cnsfce.com.br/); criador do [DeepNLPF](https://deepnlpf.github.io/site/) um framework para integrar análise linguística e anotação semântica de documentos de texto, apoiado pelo [UFPE CIn](#), [Laboratoire d’Informatique et Systèmes - LIS](https://www.lis-lab.fr/en/home/) Marseille França e UFRPE; membro do grupo de pesquisa [Text Mining UFRPE](https://tmgufrpe.github.io/); co-fundador e editor do site [Clube dos Geeks](https://clubedosgeeks.com.b/).
 
-Tenho interesse nas áreas de Ciência da Computação, Inteligência Artificial, Processamento de Linguagem Natural, Mineração de Texto, Ciência de Dados, Engenharia de Software, Computação de Alta Performance, Tecnologia Assistiva, Jogos Digitais, Automação Residencial e Automotiva, Robótica, IoT, Sistemas Embarcados, Processamento de Imagem e Visão Computacional.
-
-
-
-## Contato/ Mídias Sociais
+## Contato / Mídias Sociais
 [WatsApp](tel:+5588988480232) | [Email](mailto:franciscosouzaacer@gmail.com) | [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8165664Z5) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Rodrigues18) | [LinkedIn](https://www.linkedin.com/in/rodriguesfas/) | [GitHub](https://github.com/rodriguesfas) | [Pip](https://pypi.org/user/rodriguesfas/) | [Blog](http://clubedosgeeks.com.br/author/champs) | [Medium](https://medium.com/@franciscosouzaacer) | [Facebook](https://www.facebook.com/r0driguesfas) | [Instagram](https://www.instagram.com/rodriguesfas/) | [LinkTree](https://linktr.ee/fasr)
 
 

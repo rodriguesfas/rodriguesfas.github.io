@@ -4,7 +4,7 @@ This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern 
 
 # Required 
 
-- Nodejs v.14
+- Nodejs v.16.14
 
 ## Installation
 
@@ -24,6 +24,9 @@ npm install --no-audit
 yarn start
 
 npm start
+
+
+
 ```
 
 This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
