@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Francisco Rodrigues Blog</title>
+        <link>https://rodriguesfas.github.io/blog</link>
+        <description>Francisco Rodrigues Blog</description>
+        <lastBuildDate>Wed, 06 Jun 2018 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IV Robots]]></title>
+            <link>https://rodriguesfas.github.io/blog/ivrobots</link>
+            <guid>ivrobots</guid>
+            <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cobertura da competição IV Robots e da etapa regional do Torneio Juvenil de Robótica - TJR. Os eventos aconteceram no dia 06 de junho de 2018, em Juazeiro do Norte/CE. IV Robots e TJR | Colégio Objetivo Juazeiro.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[II Robots]]></title>
+            <link>https://rodriguesfas.github.io/blog/iirobots</link>
+            <guid>iirobots</guid>
+            <pubDate>Fri, 16 Jun 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cobertura da competição II Robots. O evento acontecerá no dia 16 de junho de 2016, em Juazeiro do Norte/CE. II Robots do Colégio Objetivo Juazeiro do Norte | II ROBOTS na TV Verde Vale Cariri.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[III Robots]]></title>
+            <link>https://rodriguesfas.github.io/blog/iiirobots</link>
+            <guid>iiirobots</guid>
+            <pubDate>Tue, 13 Jun 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cobertura da competição IV Robots e da etapa regional do Torneio Juvenil de Robótica - TJR. Os eventos aconteceram no dia 06 de junho de 2017, em Juazeiro do Norte/CE. IV Robots e TJR | Colégio Objetivo Juazeiro.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[DuSitio]]></title>
+            <link>https://rodriguesfas.github.io/blog/dusitio</link>
+            <guid>dusitio</guid>
+            <pubDate>Wed, 22 Feb 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Evento de Lançamento do App DuSitio]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Momento Inspiração - CEBRAC]]></title>
+            <link>https://rodriguesfas.github.io/blog/cebrac</link>
+            <guid>cebrac</guid>
+            <pubDate>Wed, 18 Jan 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[Paletra motivacional, ministrada na instituição CEBRAC.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[IV Robots]]></title>
+            <link>https://rodriguesfas.github.io/blog/genuinoday</link>
+            <guid>genuinoday</guid>
+            <pubDate>Sun, 20 Mar 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[Um evento que visa promover e difundir o Arduino.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CALUG]]></title>
+            <link>https://rodriguesfas.github.io/blog/calug</link>
+            <guid>calug</guid>
+            <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[Neste fim de semana, dia 12 de março de 2016, aconteceu o evento CALUG. Realizado pelo grupo da comunidade Linux e Software Livre do Cariri. Esse evento aconteceu no SEST/SENAT – Crato – Ceará, e conteve diversas palestras fantásticas, dentre elas, uma realizada por mim. Clube dos Geeks.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[I TEC - Tecnologia e Empreendedorismo Cariri]]></title>
+            <link>https://rodriguesfas.github.io/blog/i-tec</link>
+            <guid>i-tec</guid>
+            <pubDate>Sat, 19 Dec 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Com o objetivo de unir e disseminar o espírito empreendedor nos entusiastas e profissionais de tecnologia, surge o TEC, um evento gratuíto com o foco alavancar empresas na área de tecnologia.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[I TEC - Tecnologia e Empreendedorismo Cariri]]></title>
+            <link>https://rodriguesfas.github.io/blog/snct</link>
+            <guid>snct</guid>
+            <pubDate>Fri, 20 Nov 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Na Semana Nacional de Ciência e Tecnologia (SNCT), que acontecerá no Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte, no período de 19 à 20/11/2015, estarei ministrando um Minicurso com o tema Debate das Políticas Sociais de Inclusão Social e Tecnologia (Tecnologia Assistiva).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SeTAI – Semana Automação Industrial]]></title>
+            <link>https://rodriguesfas.github.io/blog/setai</link>
+            <guid>setai</guid>
+            <pubDate>Fri, 29 May 2015 00:00:00 GMT</pubDate>
+            <description><![CDATA[Na SeTAI – Semana Automação Industrial (SNCT), que acontecerá no Instituto Federal do Ceará (IFCE) - campus Juazeiro do Norte em 20/05/2015, estarei palestrando sobre o DAVI- Dispositivo de Apoio para Deficientes Visuais.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SEPROTEC – Semana Profissional Tecnologia]]></title>
+            <link>https://rodriguesfas.github.io/blog/seprotec</link>
+            <guid>seprotec</guid>
+            <pubDate>Fri, 19 Dec 2014 00:00:00 GMT</pubDate>
+            <description><![CDATA[Na SEPROTEC – Semana Profissional Tecnologia, que acontecerá no SEST/SENAT Crato – CE, no dia 09/12/2014, estarei ministrando uma palestra sobre o DAVI - Dispositivo de Apoio para Deficientes Visuais.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[FLISOL]]></title>
+            <link>https://rodriguesfas.github.io/blog/flisol</link>
+            <guid>flisol</guid>
+            <pubDate>Sat, 26 Apr 2014 00:00:00 GMT</pubDate>
+            <description><![CDATA[Na FLISOL - Festival Latino-Americano De Instalação De Software Livre, que acontecerá no SEST/SENAT Crato – CE, no dia 26/04/2014, estarei ministrando uma palestra sobre Ubuntu - O Começo Para o Mundo Livre.]]></description>
+        </item>
+    </channel>
+</rss>
