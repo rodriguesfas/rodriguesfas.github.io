@@ -1,0 +1,12 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "isDocsHomePage": false,
+  "title": "Resumo",
+  "description": "Francisco de Assis de Souza Rodrigues",
+  "source": "@site/docs/about.md",
+  "slug": "/about",
+  "permalink": "/docs/about",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/about.md",
+  "version": "current"
+}

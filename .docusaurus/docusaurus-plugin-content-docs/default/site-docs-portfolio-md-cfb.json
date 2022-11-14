@@ -1,0 +1,12 @@
+{
+  "unversionedId": "portfolio",
+  "id": "portfolio",
+  "isDocsHomePage": false,
+  "title": "Portfolio",
+  "description": "Apenas alguns dos meus trabalhos construídos durante anos ..",
+  "source": "@site/docs/portfolio.md",
+  "slug": "/portfolio",
+  "permalink": "/docs/portfolio",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/portfolio.md",
+  "version": "current"
+}

@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/snct",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2015-11-20-snct.md",
+  "source": "@site/blog/2015-11-20-snct.md",
+  "description": "Na Semana Nacional de Ciência e Tecnologia (SNCT), que acontecerá no Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte, no período de 19 à 20/11/2015, estarei ministrando um Minicurso com o tema Debate das Políticas Sociais de Inclusão Social e Tecnologia (Tecnologia Assistiva).",
+  "date": "2015-11-20T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "snct",
+      "permalink": "/blog/tags/snct"
+    },
+    2015
+  ],
+  "title": "I TEC - Tecnologia e Empreendedorismo Cariri",
+  "readingTime": 0.28,
+  "truncated": false,
+  "prevItem": {
+    "title": "I TEC - Tecnologia e Empreendedorismo Cariri",
+    "permalink": "/blog/i-tec"
+  },
+  "nextItem": {
+    "title": "SeTAI – Semana Automação Industrial",
+    "permalink": "/blog/setai"
+  }
+}

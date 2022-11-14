@@ -1,0 +1,12 @@
+{
+  "unversionedId": "robotics/sbotics/seguidor-de-linha",
+  "id": "robotics/sbotics/seguidor-de-linha",
+  "isDocsHomePage": false,
+  "title": "seguidor-de-linha",
+  "description": "Seguidor de Linha",
+  "source": "@site/docs/robotics/sbotics/seguidor-de-linha.md",
+  "slug": "/robotics/sbotics/seguidor-de-linha",
+  "permalink": "/docs/robotics/sbotics/seguidor-de-linha",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/robotics/sbotics/seguidor-de-linha.md",
+  "version": "current"
+}

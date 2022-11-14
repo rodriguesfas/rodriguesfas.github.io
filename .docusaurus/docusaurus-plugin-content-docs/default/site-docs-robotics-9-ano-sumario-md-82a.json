@@ -1,0 +1,21 @@
+{
+  "unversionedId": "robotics/9ano/sumario",
+  "id": "robotics/9ano/sumario",
+  "isDocsHomePage": false,
+  "title": "Sumário",
+  "description": "- Apresentação",
+  "source": "@site/docs/robotics/9ano/sumario.md",
+  "slug": "/robotics/9ano/sumario",
+  "permalink": "/docs/robotics/9ano/sumario",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/robotics/9ano/sumario.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Sumário",
+    "permalink": "/docs/robotics/8ano/sumario"
+  },
+  "next": {
+    "title": "Sumário",
+    "permalink": "/docs/robotics/medio/sumario"
+  }
+}

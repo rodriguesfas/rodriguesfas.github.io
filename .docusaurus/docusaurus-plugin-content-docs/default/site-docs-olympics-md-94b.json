@@ -1,0 +1,12 @@
+{
+  "unversionedId": "olympics",
+  "id": "olympics",
+  "isDocsHomePage": false,
+  "title": "Olimpíadas",
+  "description": "Segue uma pequena lista de olimpíadas de Programação e Robótica.",
+  "source": "@site/docs/olympics.md",
+  "slug": "/olympics",
+  "permalink": "/docs/olympics",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/olympics.md",
+  "version": "current"
+}

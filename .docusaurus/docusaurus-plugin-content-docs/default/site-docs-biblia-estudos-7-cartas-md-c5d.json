@@ -1,0 +1,21 @@
+{
+  "unversionedId": "biblia/estudos/7-cartas",
+  "id": "biblia/estudos/7-cartas",
+  "isDocsHomePage": false,
+  "title": "7 Cartas",
+  "description": "O livro de Apocalipse divide a história da igreja cristã de maneira profética em 7 períodos conhecidos com as 7 igrejas.",
+  "source": "@site/docs/biblia/estudos/7-cartas.md",
+  "slug": "/biblia/estudos/7-cartas",
+  "permalink": "/docs/biblia/estudos/7-cartas",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/biblia/estudos/7-cartas.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Introdução",
+    "permalink": "/docs/biblia/diario/introducao"
+  },
+  "next": {
+    "title": "A tenda de Moises",
+    "permalink": "/docs/biblia/pregacoes/a-tenda-de-moises"
+  }
+}

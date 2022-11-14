@@ -1,0 +1,20 @@
+{
+  "unversionedId": "biblia/ebd/jovens/jovens",
+  "id": "biblia/ebd/jovens/jovens",
+  "isDocsHomePage": false,
+  "title": "Jovens",
+  "source": "@site/docs/biblia/ebd/jovens/jovens.md",
+  "slug": "/biblia/ebd/jovens/jovens",
+  "permalink": "/docs/biblia/ebd/jovens/jovens",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/biblia/ebd/jovens/jovens.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Adolescentes",
+    "permalink": "/docs/biblia/ebd/adolescentes/adolescentes"
+  },
+  "next": {
+    "title": "Perguntas da Semana",
+    "permalink": "/docs/biblia/ebd/perguntas-da-semana/perguntas-da-semana"
+  }
+}

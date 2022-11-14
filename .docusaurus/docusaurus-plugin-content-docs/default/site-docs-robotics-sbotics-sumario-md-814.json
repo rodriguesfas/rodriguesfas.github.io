@@ -1,0 +1,21 @@
+{
+  "unversionedId": "robotics/sbotics/sumario",
+  "id": "robotics/sbotics/sumario",
+  "isDocsHomePage": false,
+  "title": "sBotics",
+  "description": "O quê ?",
+  "source": "@site/docs/robotics/sbotics/sumario.md",
+  "slug": "/robotics/sbotics/sumario",
+  "permalink": "/docs/robotics/sbotics/sumario",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/robotics/sbotics/sumario.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Sumário",
+    "permalink": "/docs/robotics/lego/sumario"
+  },
+  "next": {
+    "title": "Sumário",
+    "permalink": "/docs/robotics/simulator/sumario"
+  }
+}

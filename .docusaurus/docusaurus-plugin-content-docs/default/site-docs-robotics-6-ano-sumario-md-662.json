@@ -1,0 +1,21 @@
+{
+  "unversionedId": "robotics/6ano/sumario",
+  "id": "robotics/6ano/sumario",
+  "isDocsHomePage": false,
+  "title": "Sumário",
+  "description": "- Apresentação",
+  "source": "@site/docs/robotics/6ano/sumario.md",
+  "slug": "/robotics/6ano/sumario",
+  "permalink": "/docs/robotics/6ano/sumario",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/robotics/6ano/sumario.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "O Evangelho Mal Trapilho",
+    "permalink": "/docs/biblia/livros/o-evangelho-mal-trapilho"
+  },
+  "next": {
+    "title": "Sumário",
+    "permalink": "/docs/robotics/7ano/sumario"
+  }
+}

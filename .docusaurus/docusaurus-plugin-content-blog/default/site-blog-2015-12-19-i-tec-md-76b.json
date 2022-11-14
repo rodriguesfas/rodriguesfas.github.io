@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/i-tec",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2015-12-19-i-tec.md",
+  "source": "@site/blog/2015-12-19-i-tec.md",
+  "description": "Com o objetivo de unir e disseminar o espírito empreendedor nos entusiastas e profissionais de tecnologia, surge o TEC, um evento gratuíto com o foco alavancar empresas na área de tecnologia.",
+  "date": "2015-12-19T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "i-tec",
+      "permalink": "/blog/tags/i-tec"
+    },
+    2015
+  ],
+  "title": "I TEC - Tecnologia e Empreendedorismo Cariri",
+  "readingTime": 0.31,
+  "truncated": false,
+  "prevItem": {
+    "title": "CALUG",
+    "permalink": "/blog/calug"
+  },
+  "nextItem": {
+    "title": "I TEC - Tecnologia e Empreendedorismo Cariri",
+    "permalink": "/blog/snct"
+  }
+}

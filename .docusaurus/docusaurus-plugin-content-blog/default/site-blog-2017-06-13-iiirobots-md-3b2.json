@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/iiirobots",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2017-06-13-iiirobots.md",
+  "source": "@site/blog/2017-06-13-iiirobots.md",
+  "description": "Cobertura da competição IV Robots e da etapa regional do Torneio Juvenil de Robótica - TJR. Os eventos aconteceram no dia 06 de junho de 2017, em Juazeiro do Norte/CE. IV Robots e TJR | Colégio Objetivo Juazeiro.",
+  "date": "2017-06-13T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "robots",
+      "permalink": "/blog/tags/robots"
+    },
+    2017
+  ],
+  "title": "III Robots",
+  "readingTime": 0.19,
+  "truncated": false,
+  "prevItem": {
+    "title": "II Robots",
+    "permalink": "/blog/iirobots"
+  },
+  "nextItem": {
+    "title": "DuSitio",
+    "permalink": "/blog/dusitio"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "biblia/ebd/perguntas-da-semana/perguntas-da-semana",
+  "id": "biblia/ebd/perguntas-da-semana/perguntas-da-semana",
+  "isDocsHomePage": false,
+  "title": "Perguntas da Semana",
+  "description": "Tema: Apostasia",
+  "source": "@site/docs/biblia/ebd/perguntas-da-semana/perguntas-da-semana.md",
+  "slug": "/biblia/ebd/perguntas-da-semana/perguntas-da-semana",
+  "permalink": "/docs/biblia/ebd/perguntas-da-semana/perguntas-da-semana",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/biblia/ebd/perguntas-da-semana/perguntas-da-semana.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Jovens",
+    "permalink": "/docs/biblia/ebd/jovens/jovens"
+  },
+  "next": {
+    "title": "O Evangelho Mal Trapilho",
+    "permalink": "/docs/biblia/livros/o-evangelho-mal-trapilho"
+  }
+}

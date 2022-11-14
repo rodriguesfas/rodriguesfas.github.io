@@ -1,0 +1,12 @@
+{
+  "unversionedId": "biblia/estudos/exegese",
+  "id": "biblia/estudos/exegese",
+  "isDocsHomePage": false,
+  "title": "exegese",
+  "description": "",
+  "source": "@site/docs/biblia/estudos/exegese.md",
+  "slug": "/biblia/estudos/exegese",
+  "permalink": "/docs/biblia/estudos/exegese",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/biblia/estudos/exegese.md",
+  "version": "current"
+}

@@ -1,0 +1,12 @@
+{
+  "unversionedId": "biblia/pregacoes/judas",
+  "id": "biblia/pregacoes/judas",
+  "isDocsHomePage": false,
+  "title": "Judas",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/biblia/pregacoes/judas.md",
+  "slug": "/biblia/pregacoes/judas",
+  "permalink": "/docs/biblia/pregacoes/judas",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/biblia/pregacoes/judas.md",
+  "version": "current"
+}

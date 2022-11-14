@@ -1,0 +1,21 @@
+{
+  "unversionedId": "robotics/8ano/sumario",
+  "id": "robotics/8ano/sumario",
+  "isDocsHomePage": false,
+  "title": "Sumário",
+  "description": "Aulas",
+  "source": "@site/docs/robotics/8ano/sumario.md",
+  "slug": "/robotics/8ano/sumario",
+  "permalink": "/docs/robotics/8ano/sumario",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/robotics/8ano/sumario.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Sumário",
+    "permalink": "/docs/robotics/7ano/sumario"
+  },
+  "next": {
+    "title": "Sumário",
+    "permalink": "/docs/robotics/9ano/sumario"
+  }
+}

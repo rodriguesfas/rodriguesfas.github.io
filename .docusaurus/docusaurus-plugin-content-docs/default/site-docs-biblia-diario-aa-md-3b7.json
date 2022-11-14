@@ -1,0 +1,12 @@
+{
+  "unversionedId": "biblia/diario/aa",
+  "id": "biblia/diario/aa",
+  "isDocsHomePage": false,
+  "title": "AA",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/biblia/diario/aa.md",
+  "slug": "/biblia/diario/aa",
+  "permalink": "/docs/biblia/diario/aa",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/biblia/diario/aa.md",
+  "version": "current"
+}

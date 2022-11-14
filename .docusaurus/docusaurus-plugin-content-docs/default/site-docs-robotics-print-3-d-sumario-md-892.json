@@ -1,0 +1,21 @@
+{
+  "unversionedId": "robotics/print3d/sumario",
+  "id": "robotics/print3d/sumario",
+  "isDocsHomePage": false,
+  "title": "Sumário",
+  "description": "Aulas",
+  "source": "@site/docs/robotics/print3d/sumario.md",
+  "slug": "/robotics/print3d/sumario",
+  "permalink": "/docs/robotics/print3d/sumario",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/robotics/print3d/sumario.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Sumário",
+    "permalink": "/docs/robotics/simulator/sumario"
+  },
+  "next": {
+    "title": "Bem vindo!",
+    "permalink": "/docs/programming/sumario"
+  }
+}

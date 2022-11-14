@@ -1,0 +1,12 @@
+{
+  "unversionedId": "biblia/pregacoes/o-bom-samaritano",
+  "id": "biblia/pregacoes/o-bom-samaritano",
+  "isDocsHomePage": false,
+  "title": "O bom samaritano",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/biblia/pregacoes/o-bom-samaritano.md",
+  "slug": "/biblia/pregacoes/o-bom-samaritano",
+  "permalink": "/docs/biblia/pregacoes/o-bom-samaritano",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/biblia/pregacoes/o-bom-samaritano.md",
+  "version": "current"
+}

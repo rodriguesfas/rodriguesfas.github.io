@@ -1,0 +1,223 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "welcome",
+          "docs": [
+            {
+              "id": "about",
+              "path": "/docs/about"
+            },
+            {
+              "id": "biblia/diario/aa",
+              "path": "/docs/biblia/diario/aa"
+            },
+            {
+              "id": "biblia/diario/introducao",
+              "path": "/docs/biblia/diario/introducao",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "biblia/diario/marionetes",
+              "path": "/docs/biblia/diario/marionetes"
+            },
+            {
+              "id": "biblia/diario/ossos-e-fogo",
+              "path": "/docs/biblia/diario/ossos-e-fogo"
+            },
+            {
+              "id": "biblia/ebd/adolescentes/adolescentes",
+              "path": "/docs/biblia/ebd/adolescentes/adolescentes",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "biblia/ebd/jovens/jovens",
+              "path": "/docs/biblia/ebd/jovens/jovens",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "biblia/ebd/perguntas-da-semana/perguntas-da-semana",
+              "path": "/docs/biblia/ebd/perguntas-da-semana/perguntas-da-semana",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "biblia/estudos/7-cartas",
+              "path": "/docs/biblia/estudos/7-cartas",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "biblia/estudos/exegese",
+              "path": "/docs/biblia/estudos/exegese"
+            },
+            {
+              "id": "biblia/livros/o-evangelho-mal-trapilho",
+              "path": "/docs/biblia/livros/o-evangelho-mal-trapilho",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "biblia/pregacoes/a-conversao-de-paulo",
+              "path": "/docs/biblia/pregacoes/a-conversao-de-paulo"
+            },
+            {
+              "id": "biblia/pregacoes/a-cruz",
+              "path": "/docs/biblia/pregacoes/a-cruz"
+            },
+            {
+              "id": "biblia/pregacoes/a-oracao-de-jabez",
+              "path": "/docs/biblia/pregacoes/a-oracao-de-jabez"
+            },
+            {
+              "id": "biblia/pregacoes/a-tenda-de-moises",
+              "path": "/docs/biblia/pregacoes/a-tenda-de-moises",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "biblia/pregacoes/felipe-e-natanael",
+              "path": "/docs/biblia/pregacoes/felipe-e-natanael"
+            },
+            {
+              "id": "biblia/pregacoes/jesus-e-encontrado-no-templo-apos-tres-dias",
+              "path": "/docs/biblia/pregacoes/jesus-e-encontrado-no-templo-apos-tres-dias"
+            },
+            {
+              "id": "biblia/pregacoes/jesus-e-os-maus-feitores",
+              "path": "/docs/biblia/pregacoes/jesus-e-os-maus-feitores"
+            },
+            {
+              "id": "biblia/pregacoes/jesus-e-seguido-por-um-jovem",
+              "path": "/docs/biblia/pregacoes/jesus-e-seguido-por-um-jovem"
+            },
+            {
+              "id": "biblia/pregacoes/judas",
+              "path": "/docs/biblia/pregacoes/judas"
+            },
+            {
+              "id": "biblia/pregacoes/o sabao-do-lavandeiro",
+              "path": "/docs/biblia/pregacoes/o sabao-do-lavandeiro"
+            },
+            {
+              "id": "biblia/pregacoes/o-bom-samaritano",
+              "path": "/docs/biblia/pregacoes/o-bom-samaritano"
+            },
+            {
+              "id": "biblia/pregacoes/o-jovem-nu",
+              "path": "/docs/biblia/pregacoes/o-jovem-nu"
+            },
+            {
+              "id": "biblia/pregacoes/os-dois-discipulos-a-caminho-de-emaus",
+              "path": "/docs/biblia/pregacoes/os-dois-discipulos-a-caminho-de-emaus"
+            },
+            {
+              "id": "ebook/champs-da-galaxia",
+              "path": "/docs/ebook/champs-da-galaxia",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "olympics",
+              "path": "/docs/olympics"
+            },
+            {
+              "id": "portfolio",
+              "path": "/docs/portfolio"
+            },
+            {
+              "id": "programming/cpp/sumario",
+              "path": "/docs/programming/cpp/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "programming/java/sumario",
+              "path": "/docs/programming/java/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "programming/python/sumario",
+              "path": "/docs/programming/python/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "programming/reduc/sumario",
+              "path": "/docs/programming/reduc/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "programming/sumario",
+              "path": "/docs/programming/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/6ano/sumario",
+              "path": "/docs/robotics/6ano/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/7ano/sumario",
+              "path": "/docs/robotics/7ano/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/8ano/sumario",
+              "path": "/docs/robotics/8ano/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/9ano/sumario",
+              "path": "/docs/robotics/9ano/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/arduino/sumario",
+              "path": "/docs/robotics/arduino/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/conceitos/sumario",
+              "path": "/docs/robotics/conceitos/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/lego/sumario",
+              "path": "/docs/robotics/lego/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/medio/sumario",
+              "path": "/docs/robotics/medio/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/print3d/sumario",
+              "path": "/docs/robotics/print3d/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/sbotics/seguidor-de-linha",
+              "path": "/docs/robotics/sbotics/seguidor-de-linha"
+            },
+            {
+              "id": "robotics/sbotics/sumario",
+              "path": "/docs/robotics/sbotics/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "robotics/simulator/sumario",
+              "path": "/docs/robotics/simulator/sumario",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "welcome",
+              "path": "/docs/",
+              "sidebar": "someSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "robotics/lego/sumario",
+  "id": "robotics/lego/sumario",
+  "isDocsHomePage": false,
+  "title": "Sumário",
+  "description": "Treinador de Robô",
+  "source": "@site/docs/robotics/lego/sumario.md",
+  "slug": "/robotics/lego/sumario",
+  "permalink": "/docs/robotics/lego/sumario",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/robotics/lego/sumario.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Sumário",
+    "permalink": "/docs/robotics/arduino/sumario"
+  },
+  "next": {
+    "title": "sBotics",
+    "permalink": "/docs/robotics/sbotics/sumario"
+  }
+}
