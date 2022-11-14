@@ -31,13 +31,15 @@ This command generates static content into the `build` directory and can be serv
 ## Deployment
 
 ```console
+
 GIT_USER=<Your GitHub username> 
-USE_SSH=true npm run deploy
+USE_SSH=true 
 
 # YES
 export  GIT_USERNAME=
 export  GIT_USER=
 export  GIT_PASSWORD=
+export  USE_SSH=true 
 
 npm run deploy
 ```
