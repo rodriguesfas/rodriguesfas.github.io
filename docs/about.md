@@ -5,6 +5,8 @@ title: Francisco de Assis de Souza Rodrigues
 
 Mestre em Ciência da Computação (UFPE), MBA em Docência do Ensino Superior (IDJ), Graduação em Automação Industrial (IFCE), Graduação Análise e Desenvolvimento de Sistemas (UniLeão), Empreendedor, co-fundador e CTO na [Realm](https://institucional.realm.com.br/), trabalhou na [NeuralMind](https://neuralmind.ai/) como Cientista da Computação; professor de informática, programação e robótica educacional no [Colégio Objetivo](http://objetivojuazeiro.com.br/) e [Colégio Nossa Senhora de Fátima](http://cnsfce.com.br/); co-fundador e instrutor de formação na [CreateLab](#), criador do [DeepNLPF](https://deepnlpf.github.io/site/) um framework para integrar análise linguística e anotação semântica de documentos de texto, apoiado pelo [UFPE CIn](#), [Laboratoire d’Informatique et Systèmes - LIS](https://www.lis-lab.fr/en/home/) Marseille França e [UFRPE](#); membro do grupo de pesquisa [Text Mining UFRPE](https://tmgufrpe.github.io/); co-fundador e editor do site [Clube dos Geeks](https://clubedosgeeks.com.b/).
 
+Interesses: Processamento de Linguagem Natural, Mineração de Textos, Analise de Dados, Extração de Informação, Motor de Busca, Deduplicação de dados, Tecnologia Assistiva, Processamento de Imagem, Visão Computacional, Robótica, Automação, IoT.
+
 ## Contato / Mídias Sociais
 [WatsApp](tel:+5588988480232) | [Email](mailto:franciscosouzaacer@gmail.com) | [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8165664Z5) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Rodrigues18) | [LinkedIn](https://www.linkedin.com/in/rodriguesfas/) | [GitHub](https://github.com/rodriguesfas) | [Pip](https://pypi.org/user/rodriguesfas/) | [Blog](http://clubedosgeeks.com.br/author/champs) | [Medium](https://medium.com/@franciscosouzaacer) | [Facebook](https://www.facebook.com/r0driguesfas) | [Instagram](https://www.instagram.com/rodriguesfas/) | [LinkTree](https://linktr.ee/fasr)
 
@@ -12,15 +14,14 @@ Mestre em Ciência da Computação (UFPE), MBA em Docência do Ensino Superior (
 
 ## Educação
 
-2017 à 2019 - Mestrado em Ciência da Computação com Ênfase em Inteligência Artificial. Bolsista [CAPES](https://linktr.ee/fasr). Universidade Federal do Pernambuco ([UFPE](https://www.ufpe.br/)), Centro de Informática ([CIn](https://www2.cin.ufpe.br/)). [Dissertação](https://repositorio.ufpe.br/handle/123456789/37648) DeepNLPF: um framework para integrar análise linguística e anotação semântica de documentos de texto. Orientador: [PhD. Robson Fidalgo](http://lattes.cnpq.br/6390018491925933) e Coorientador: [PhD. Rinaldo Lima](http://lattes.cnpq.br/7645118086647340).
+* 2017 à 2019 - Mestrado em Ciência da Computação com Ênfase em Inteligência Artificial. Bolsista [CAPES](https://linktr.ee/fasr). Universidade Federal do Pernambuco ([UFPE](https://www.ufpe.br/)), Centro de Informática ([CIn](https://www2.cin.ufpe.br/)). [Dissertação](https://repositorio.ufpe.br/handle/123456789/37648) DeepNLPF: um framework para integrar análise linguística e anotação semântica de documentos de texto. Orientador: [PhD. Robson Fidalgo](http://lattes.cnpq.br/6390018491925933) e Coorientador: [PhD. Rinaldo Lima](http://lattes.cnpq.br/7645118086647340).
 
-2016 à 2017 - Graduação em Tecnologia em Automação Industrial. Instituto Federal do Ceará ([IFCE](https://ifce.edu.br/juazeirodonorte)) - Campus Juazeiro do Norte. Bolsista [PIBIC](#) e [PIBIC](#). Orientador: [MSc. Alan Kelvin](http://lattes.cnpq.br/1827502290539759) (trancado).
+* 2016 à 2017 - Graduação em Tecnologia em Automação Industrial. Instituto Federal do Ceará ([IFCE](https://ifce.edu.br/juazeirodonorte)) - Campus Juazeiro do Norte. Bolsista [PIBIC](#) e [PIBIC](#). Orientador: [MSc. Alan Kelvin](http://lattes.cnpq.br/1827502290539759) (trancado).
 
-2015 à 2016 - Especialização MBA em Docência no Ensino Superior. [Instituto Dom José (IDJ)](https://www.idj.com.br/). TCC: As Tecnologias Como Ferramentas de Avaliação. Orientadora: [MSc. Bia Barata](#).
+* 2015 à 2016 - Especialização MBA em Docência no Ensino Superior. [Instituto Dom José (IDJ)](https://www.idj.com.br/). TCC: As Tecnologias Como Ferramentas de Avaliação. Orientadora: [MSc. Bia Barata](#).
 
-2011 à 2014 - Graduação em Análise e Desenvolvimento de Sistemas. Centro Universitário Leão Sampaio (UniLeão).
+* 2011 à 2014 - Graduação em Análise e Desenvolvimento de Sistemas. Centro Universitário Leão Sampaio (UniLeão).
 TCC: [DAVI: Dispositivo de Apoio para Deficientes Visuais](http://clubedosgeeks.com.br/davi/). Orientador: [PhD Thiago Bessa Pontes](http://lattes.cnpq.br/8581482237505248) e Coorientadora: [MSc. Renata Kalina](#).
-
 
 
 ## Experiência
@@ -175,7 +176,7 @@ Banco de Dados: ```MySQL```, ```MongoDB```, ```SQLite```, ```PostgreSQL```, ```N
 
 SO: ```Linux```, ```Windows```, ```Android```.
 
-Infra: ```AWS```, ```Azure```, ```Google Cloud```, ```VPS```, ```Docker```, ```Vagrant```, ```VirtualBox```.
+Infra: ```AWS (Serveless, Container Registry, Lambda, API Gateway, S3 Bucket)```, ```Azure (VM, Bucket)```, ```Google Cloud (VM)```, ```VPS```, ```Docker```, ```Vagrant```, ```VirtualBox```.
 
 Testes: ```Unit```, ```Locust```.
 
