@@ -6,6 +6,10 @@ This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern 
 
 - Nodejs v.16.14
 
+```bash
+nvm use 16.14
+```
+
 ## Installation
 
 ```console
