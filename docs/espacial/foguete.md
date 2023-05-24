@@ -45,7 +45,8 @@ A plataforma construída para o lançamento do foguete Juvelino, foi montada em 
 
 - 1 tripé
 - 30cm de haste
-- 1 disco defletor dos gases
+- 1 disco defletor dos gases/calor
+- 1 haste "guia do foguete"
 
 ### Sistema de Ignição
 

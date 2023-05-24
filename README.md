@@ -38,7 +38,6 @@ USE_SSH=true
 # YES
 export  GIT_USERNAME=
 export  GIT_USER=
-export  GIT_PASSWORD=
 export  USE_SSH=true 
 
 npm run deploy

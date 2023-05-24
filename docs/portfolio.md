@@ -3,7 +3,7 @@ id: portfolio
 title: Portfolio
 ---
 
-Apenas alguns dos meus trabalhos construídos durante anos ..
+Aqui estão alguns dos trabalhos que desenvolvi ao longo dos anos...
 
 ## Websites
 
