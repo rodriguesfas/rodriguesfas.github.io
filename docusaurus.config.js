@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Francisco Rodrigues',
-    tagline: 'Bem-vindo à minha página pessoal!', // Aqui você encontrará informações sobre mim, meus interesses e experiências. Sou um entusiasta da tecnologia, apaixonado por programação e sempre em busca de aprendizado e crescimento. Esta página serve como um espaço para compartilhar meus projetos, conquistas e ideias. Sinta-se à vontade para explorar e conhecer mais sobre mim.
+    tagline: '', 
     url: 'https://rodriguesfas.github.io',
     baseUrl: '/',
     onBrokenLinks: 'throw',
