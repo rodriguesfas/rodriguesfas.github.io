@@ -16,11 +16,15 @@
     "@docusaurus/plugin-content-pages": "^2.0.0-alpha.70",
     "@docusaurus/preset-classic": "2.0.0-alpha.70",
     "@mdx-js/react": "^1.6.21",
+    "@npmcli/fs": "^3.1.0",
+    "chokidar": "^3.5.3",
     "clsx": "^1.1.1",
     "joi": "^17.3.0",
     "nvm": "^0.0.4",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "svgo": "^3.0.2",
+    "uuid": "^9.0.0"
   },
   "browserslist": {
     "production": [
