@@ -1,0 +1,21 @@
+{
+  "unversionedId": "espacial/foguete",
+  "id": "espacial/foguete",
+  "isDocsHomePage": false,
+  "title": "Juvelino",
+  "description": "Juvelino é um foguete construido com objetivo de ser didático, para entusiasta e amantes do espaço, que gostaria de fazer seu próprio foguete espacial e aprofundar seus conhecimentos nessa ciência.",
+  "source": "@site/docs/espacial/foguete.md",
+  "slug": "/espacial/foguete",
+  "permalink": "/docs/espacial/foguete",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/espacial/foguete.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Celestino",
+    "permalink": "/docs/espacial/programa-espacial"
+  },
+  "next": {
+    "title": "Severino",
+    "permalink": "/docs/espacial/satelite"
+  }
+}

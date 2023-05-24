@@ -1,0 +1,17 @@
+{
+  "unversionedId": "espacial/satelite",
+  "id": "espacial/satelite",
+  "isDocsHomePage": false,
+  "title": "Severino",
+  "description": "Em breve",
+  "source": "@site/docs/espacial/satelite.md",
+  "slug": "/espacial/satelite",
+  "permalink": "/docs/espacial/satelite",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/espacial/satelite.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Juvelino",
+    "permalink": "/docs/espacial/foguete"
+  }
+}
