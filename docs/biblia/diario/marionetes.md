@@ -2,7 +2,8 @@
 id: marionetes
 title: Marionetes
 date: 10-09-2021
-author: RodriguesFAS
+authors: 
+    name: RodriguesFAS
 ---
 
 Era só mais um dia. Uma dia qualquer da semana, em que três amigos se encontraram para viajar.

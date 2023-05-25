@@ -2,7 +2,8 @@
 id: o-evangelho-mal-trapilho
 title: O Evangelho Mal Trapilho
 date: 10-09-2021
-author: FASR
+authors: 
+    name: RodriguesFAS
 ---
 
 - Livro: O Evangelho Mal Trapilho

@@ -1,12 +1,9 @@
 ---
 id: 7-cartas
-image: 
 title: 7 Cartas
-description: 
-author: RodriguesFAS
-author_url: 
-author_image_url:
-tags: 7 Cartas
+authors: 
+    name: RodriguesFAS
+tags: [7 Cartas]
 ---
 
 O livro de Apocalipse divide a história da igreja cristã de maneira profética em 7 períodos conhecidos com as 7 igrejas.

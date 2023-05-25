@@ -2,7 +2,8 @@
 id: introducao
 title: Introdução
 date: 10-09-2021
-author: RodriguesFAS
+authors: 
+    name: RodriguesFAS
 ---
 
 > "... A linguagem da culpa doentia é dura. Ela é exigente, abusiva, censurada, rejeitadora, acusadora, incriminatória, condenatória, reprovadora e repreensora. É uma linguagem de impaciência e de punição severa. Os cristãos ficam chocados e horrorizados porque falham. A culpa doentia torna-se maior do que a vida. A culpa torna-se a experiência na qual as pessoas sentem que o céu está desabando. Sim, nós de fato nos sentimos culpados pelos nossos pecados, mas a culpa saudável é a que reconhece o malfeito e sem remorso, mas em seguida abraça o perdão oferecido. A culpa saudável concentra-se na percepção de que tudo foi perdoado, de que o erro foi redimido."  Brennan MANNING. O Evangelho Mal Trapilho. 2005, p.117-118.
