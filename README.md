@@ -34,7 +34,7 @@ Using SSH:
 
 ```
 export USE_SSH=true
-export DEPLOYMENT_BRANCH=main
+export DEPLOYMENT_BRANCH=gh-pages
 
 npx docusaurus deploy
 ```
