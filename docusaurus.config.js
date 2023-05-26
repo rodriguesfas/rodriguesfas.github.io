@@ -7,7 +7,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Francisco Rodrigues",
-  tagline: "Dinosaurs are cool",
+  tagline:
+    "Bem-vindo ao meu site pessoal! Aqui você encontrará informações sobre mim e minhas paixões. Permita-me compartilhar um pouco sobre quem eu sou e o que me motiva.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -76,7 +77,7 @@ const config = {
             label: "Tutorial",
           },
           { to: "/blog", label: "Blog", position: "left" },
-          { to: "/docs/about", label: "Sobre", position: "left" },
+          { to: "/about", label: "Sobre", position: "left" },
           {
             href: "http://github.com/rodriguesfas",
             label: "GitHub",
