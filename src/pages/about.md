@@ -3,15 +3,17 @@ id: about
 title: Francisco Rodrigues
 ---
 
+# Francisco Rodrigues
+
 Sou mestre em Ciência da Computação pela UFPE, possuo MBA em Docência do Ensino Superior pelo IDJ e graduação em Automação Industrial pelo IFCE. Além disso, obtive também graduação em Análise e Desenvolvimento de Sistemas pela UniLeão. Como empreendedor, sou co-fundador e CTO na [Realm](https://institucional.realm.com.br/).
 
 Meus interesses abrangem diversas áreas da computação. Tenho grande afinidade com temas como Processamento de Linguagem Natural, Mineração de Textos, Análise de Dados, Extração de Informação, Motores de Busca, Deduplicação de Dados, Tecnologia Assistiva, Processamento de Imagem, Visão Computacional, Robótica, Automação e IoT.
 
 Essas áreas despertam minha curiosidade e entusiasmo, e busco constantemente aprimorar meus conhecimentos e habilidades nessas vertentes da computação. Acredito que o avanço tecnológico nesses campos pode trazer impactos significativos e soluções inovadoras para diversos setores e desafios enfrentados atualmente.
 
-## Contato / Mídias Sociais
+:::note Contato / Mídias Sociais
 [WhatsApp](https://api.whatsapp.com/send/?phone=5588988480232&text=Oi%20Francisco,%20tudo%20bem?%20Vi%20seu%20CV,%20queria%20falar%20com%20voc%C3%AA.) | [Email](mailto:franciscosouzaacer@gmail.com) | [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8165664Z5) | [ORCID](https://orcid.org/0000-0003-4258-369X) | [BV-CDI](https://bv.fapesp.br/pt/pesquisador/719383/francisco-de-assis-de-souza-rodrigues) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Rodrigues18) | [LinkedIn](https://www.linkedin.com/in/rodriguesfas/) | [GitHub](https://github.com/rodriguesfas) | [Pip](https://pypi.org/user/rodriguesfas/) | [Blog](http://clubedosgeeks.com.br/author/champs) | [Medium](https://medium.com/@franciscosouzaacer) | [Facebook](https://www.facebook.com/r0driguesfas) | [Instagram](https://www.instagram.com/rodriguesfas/) | [LinkTree](https://linktr.ee/fasr)
-
+:::
 
 
 ## Educação
@@ -129,10 +131,6 @@ Essas áreas despertam minha curiosidade e entusiasmo, e busco constantemente ap
 ## Projetos
 
 [DeepNLPF](https://deepnlpf.github.io/site/) Um framework para integrar análise linguística e anotação semântica de documentos de texto. Universidade Federal de Pernambuco (UFPE), Centro de Informática (CIn). Financiamento: CAPES. Orientador PhD. [Robson Fidalgo] e Coorientador Rinaldo Lima.
-
-[Hidropoino](https://github.com/hidropoino) Jardim Hidropônico Inteligente e Sustentável. Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte. Financiamento: PIBID CAPES e PIBIC CNPq. Orientador: MSc. Alan Kelvin.
-
-[DAVI](http://clubedosgeeks.com.br/davi/) Dispositivo de Apoio para Deficientes Visuais. Centro Universitário Leão Sampaio. PhD. Thiago Bessa e Coorientadora: MSc. Renata Kalina.
 
 Ver portfólio completo em [Protifólio](https://rodriguesfas.github.io/docs/portfolio)
 
