@@ -208,7 +208,7 @@ Os detalhes completos, como autores, títulos, nome dos periódicos, volumes, n�
 
 ## Livros
 
-* Ebook: [Se Aventure Nessa Introdução ao Desenvolvimento de Jogos com Java](ebook/champs-da-galaxia). 2015.
+* Ebook: [Se Aventure Nessa Introdução ao Desenvolvimento de Jogos com Java](docs/ebook/champs-da-galaxia). 2015.
 
 ## Apresentações
 
