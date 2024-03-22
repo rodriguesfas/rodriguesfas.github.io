@@ -57,16 +57,19 @@ Agora criaremos os seguintes métodos e o construtor da class, na class Game.jav
 
 O método main é o principal responsável pela execução da aplicação.
 
-    /**
-     * Método principal - start a aplicação.
-     * @param args
-     */
-    public static void main(String args[]) {
-        new Game();
-    }
+```java
+/**
+ * Método principal - start a aplicação.
+ * @param args
+ */
+public static void main(String args[]) {
+    new Game();
+}
+```
 
 Esse é o construtor da nossa class.
 
+```java
     /**
      * Construtor.
      */
@@ -74,9 +77,11 @@ Esse é o construtor da nossa class.
         /* Chama o métodocomponentes */
         componentes();
     }
+```
 
 Esse método que configura a nossa janela.
 
+```java
     /**
      * Configura a Janela.
      */
@@ -94,6 +99,7 @@ Esse método que configura a nossa janela.
         /* Define a janela visível*/
         setVisible(true);
     }
+```
 
 Agora execute a aplicação e teremos uma janela como essa:
 
@@ -111,19 +117,24 @@ Pegue as imagens do jogo que você já deve ter baixado e adicione dentro dessa 
 
 - O objeto gráfico componente do pacote swing que usaremos para manipulas as imagens 2D no jogo.
 
+```java
     private Timer timer; 
     private Fase fase; 
     private Image fundo; 
     private Graphics2D grafico;
+```
 
 Abaixo do método componentes(), criaremos uma class interna chamada Listener ela serve para escutar o que acontece em um objeto e avisar a outro, ela implementa ActionListener, que possibilita a Listener escutar por uma ação, ou seja, essa class é um ouvinte que informa as determinadas ações dos objetos.
 
+```java
     private class Listener implements ActionListener {
         public void actionPerformed(ActionEvent e) {}
     }
+```
 
 Abaixo da class interna Listener, criaremos mais uma class com o nome de Fase que herda de JPanel, que é um componente do pacote swing que tem como principal função servir de conteiner para outros componentes.
 
+```java
     public class Fase extends JPanel {
         private static final long serialVersionUID = 1L;
     
@@ -158,24 +169,30 @@ Abaixo da class interna Listener, criaremos mais uma class com o nome de Fase qu
         }
     
     }
+```
 
 Crie um método inicializar inicializar(); após o método componentes().
 
+```java
     public void inicializar() {
         fase = new Fase();
         add(fase);
         ImageIcon referencia = new ImageIcon("res/fundoFase/cenario1.jpg");
         fundo = referencia.getImage();
     }
+```
 
 Bem por fim no método inicializar(), adicione o seguinte trecho de código que é responsável por instanciar uma thread referenciando a class interna Listener.
 
+```java
     /*Instância uma thread do jogo, com a class Listener*/
     timer = new Timer(5, new Listener());
     timer.start();/*inicia a thread*/
+```
 
 Chama o método inicializar() no construtor da class Game.java
 
+```java
     /**
      * Construtor.
      */
@@ -183,10 +200,13 @@ Chama o método inicializar() no construtor da class Game.java
         componentes();
         inicializar();
     }
+```
 
 Dentro do método actionPerformed(ActionEvent e), da class Listener adicione o seguinte código:
 
+```java
     fase.repaint();
+```
 
 ### Sprite
 

@@ -1,5 +1,11 @@
-Seguidor de Linha
+---
+id: seguidor-de-linha
+title: Seguidor de Linha
+---
+
+
 #Seguidor de linha 1
+
 Segue linha para frente.
 
 Curvas de 180º para esquerda e direita.
@@ -8,6 +14,7 @@ Supera gueps.
 
 Supera redutor de velocidade.
 
+```bash
   numero sensorEsq1 = 0
   numero sensorEsq2 = 0
   numero sensorDir1 = 0
@@ -16,29 +23,32 @@ Supera redutor de velocidade.
   numero limiar = 24
 
   tarefa ciclo{
-  enquanto (verdadeiro) farei{
-      escrevernumero(1, luz(2))
-      escrevernumero(2, luz(3))
-      escrevernumero(3, luz(4))
+    enquanto (verdadeiro) farei{
+        escrevernumero(1, luz(2))
+        escrevernumero(2, luz(3))
+        escrevernumero(3, luz(4))
 
-      se (luz(2)>limiar e luz(3)<limiar e luz(4)>limiar) entao {
-          frente(200)
-      }senao se (luz(2)>limiar e luz(4)>limiar) entao{
-          frente(100)
-      }senao se(luz(2)<limiar) entao{
-          mover(negativo(100), 100)
-          esperar(100)
-      }senao se(luz(4)<limiar) entao{
-          mover(100, negativo(100))
-          esperar(100)      
-      }
-  }
+        se (luz(2)>limiar e luz(3)<limiar e luz(4)>limiar) entao {
+            frente(200)
+        }senao se (luz(2)>limiar e luz(4)>limiar) entao{
+            frente(100)
+        }senao se(luz(2)<limiar) entao{
+            mover(negativo(100), 100)
+            esperar(100)
+        }senao se(luz(4)<limiar) entao{
+            mover(100, negativo(100))
+            esperar(100)      
+        }
+    }
   }
 
   inicio
       ciclo()   
   fim
+```
+
 #Seguidor de linha 2
+
 Levanta escavadeira ao iniciar.
 
 Segue linha para frente.
@@ -55,6 +65,7 @@ Supera redutor de velocidade.
 
 Baixa escavadeira quando sobe a rampa.
 
+```bash
   numero sensorEsq1 = 0
   numero sensorDir1 = 0
   numero sensorEsq2 = 0
@@ -199,6 +210,10 @@ Baixa escavadeira quando sobe a rampa.
           seguidor()
       }
   fim
-#Créditos
-Prof. Alex
-Prof. Assis
+```
+
+## Créditos
+
+- Prof. Alex
+
+- Prof. Assis

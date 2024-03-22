@@ -104,8 +104,8 @@ Concordo que a área de ABA Analytics ainda está em desenvolvimento e carece de
 **Alguns recursos para você:**
 
 * **Artigo:** "ABA Analytics: O futuro da análise do comportamento?" - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8041024/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8041024/)
-* **Livro:** "ABA and AI: The Future of Behavior Analysis" - <URL inválido removido>
-* **Comunidade:** "ABA and AI Special Interest Group" - <URL inválido removido>
+* **Livro:** "ABA and AI: The Future of Behavior Analysis"
+* **Comunidade:** "ABA and AI Special Interest Group"
 
 **Se você tiver interesse em discutir mais sobre ABA Analytics ou se tiver alguma dúvida específica, fique à vontade para me perguntar.**
 
@@ -161,7 +161,7 @@ A Aprendizagem Analítica em CAA é uma área promissora que oferece um enorme p
 
 * **Artigo:** "Learning Analytics in AAC: A Promising Frontier for Research and Practice" - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6603124/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6603124/)
 * **Comunidade:** "International Society for Augmentative and Alternative Communication (ISAAC)" - [https://www.isaac-online.org/](https://www.isaac-online.org/)
-* **Livro:** "Assistive Technology for Communication Disorders: A Clinical Handbook" - <URL inválido removido>
+* **Livro:** "Assistive Technology for Communication Disorders: A Clinical Handbook"
 
 **Se você tiver interesse em discutir mais sobre Aprendizagem Analítica em CAA ou se tiver alguma dúvida específica, fique à vontade para me perguntar.**
 
@@ -254,7 +254,7 @@ Para te ajudar a traçar um caminho de sucesso em seu doutorado, preparei um gui
 
 * **Artigo:** "Learning Analytics in AAC: A Promising Frontier for Research and Practice" - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6603124/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6603124/): [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6603124/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6603124/)
 * **Comunidade:** "International Society for Augmentative and Alternative Communication (ISAAC)" - [https://www.isaac-online.org/](https://www.isaac-online.org/): [https://www.isaac-online.org/](https://www.isaac-online.org/)
-* **Livro:** "Assistive Technology for Communication Disorders: A Clinical Handbook" - <URL inválido removido>
+* **Livro:** "Assistive Technology for Communication Disorders: A Clinical Handbook"
 
 **Dicas para o Sucesso:**
 
