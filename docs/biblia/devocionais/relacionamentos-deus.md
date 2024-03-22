@@ -6,6 +6,12 @@ authors:
 tags: [Relacionamento, Deus]
 ---
 
+1. Quem Inicia o Relacionamento com o Homem?
+2. Quem Quebra o Relacionamento com Deus?
+3. Existem Homens que Andavam com Deus?
+4. Como Restauramos Nosso Relacionamento com Deus? 
+5. Como Está o Nosso Relacionamento com Deus?
+
 ### Quem Inicia o Relacionamento com o Homem?
 
 > Façamos o homem à nossa imagem, à nossa semelhança. E que eles tenham domínio sobre os peixes do mar e sobre os pássaros dos céus e sobre o gado e sobre toda a terra e sobre toda a criatura que rasteja sobre a terra. <b>(Gênesis 1:26)</b>
@@ -36,7 +42,7 @@ Entretanto, apesar desse relacionamento comprometido que se ficou após o pecado
 
 Esses são apenas alguns exemplos, mas há outros personagens bíblicos que também são descritos como tendo uma relação próxima com Deus. Essas histórias servem como inspiração para os crentes buscando uma vida de fé e comunhão com o Senhor.
 
-### Como restauramos nosso realcionamento com Deus? 
+### Como Restaurar Nosso Relacionamento com Deus? 
 
 Nosso relacionamento com Deus é restaurado por meio de Jesus.
 
@@ -60,7 +66,7 @@ Com base no texto citado de <b>João 14:6, 11-17</b>, podemos destacar os seguin
 
 Portanto, andar com Deus traz consigo uma série de benefícios espirituais, incluindo acesso direto a Ele, capacitação para realizar obras poderosas, respostas às nossas orações, a presença do Espírito Santo e a experiência do amor de Cristo e da obediência aos Seus mandamentos.
 
-### Como está o nosso relacionamento com Deus?
+### Como Está o Nosso Relacionamento com Deus?
 
 > “Naquele dia, vós conhecereis que eu estou em meu Pai, e vós, em mim, e eu, em vós. Aquele que tem os meus mandamentos e os guarda, esse é o que me ama; e aquele que me ama será amado por meu Pai, e eu também o amarei e me manifestarei a ele.” (João 14: 20-21).
 
