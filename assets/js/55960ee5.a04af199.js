@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrodriguesfas_github_io=self.webpackChunkrodriguesfas_github_io||[]).push([[4121],{8070:s=>{s.exports=JSON.parse('[{"label":"7 Cartas","permalink":"/docs/tags/7-cartas","count":1},{"label":"Serm\xe3o do Monte","permalink":"/docs/tags/sermao-do-monte","count":1}]')}}]);

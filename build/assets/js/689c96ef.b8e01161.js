@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrodriguesfas_github_io=self.webpackChunkrodriguesfas_github_io||[]).push([[6975],{204:s=>{s.exports=JSON.parse('{"label":"i-tec","permalink":"/blog/tags/i-tec","allTagsPath":"/blog/tags","count":1}')}}]);

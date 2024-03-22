@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrodriguesfas_github_io=self.webpackChunkrodriguesfas_github_io||[]).push([[1777],{651:a=>{a.exports=JSON.parse('{"label":"cebrac","permalink":"/blog/tags/cebrac","allTagsPath":"/blog/tags","count":1}')}}]);

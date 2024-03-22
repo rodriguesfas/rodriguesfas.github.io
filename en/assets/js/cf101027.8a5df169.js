@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrodriguesfas_github_io=self.webpackChunkrodriguesfas_github_io||[]).push([[5485],{5241:s=>{s.exports=JSON.parse('{"label":"flisol","permalink":"/en/blog/tags/flisol","allTagsPath":"/en/blog/tags","count":1}')}}]);
