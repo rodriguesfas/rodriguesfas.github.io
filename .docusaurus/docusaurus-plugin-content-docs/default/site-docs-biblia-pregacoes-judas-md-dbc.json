@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Biblia/pregacoes/judas",
+  "id": "Biblia/pregacoes/judas",
+  "title": "Judas",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/Biblia/pregacoes/judas.md",
+  "sourceDirName": "Biblia/pregacoes",
+  "slug": "/Biblia/pregacoes/judas",
+  "permalink": "/docs/Biblia/pregacoes/judas",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/pregacoes/judas.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "judas",
+    "title": "Judas",
+    "date": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jesus é seguido por um jovem",
+    "permalink": "/docs/Biblia/pregacoes/jesus-e-seguido-por-um-jovem"
+  },
+  "next": {
+    "title": "O bom samaritano",
+    "permalink": "/docs/Biblia/pregacoes/o-bom-samaritano"
+  }
+}

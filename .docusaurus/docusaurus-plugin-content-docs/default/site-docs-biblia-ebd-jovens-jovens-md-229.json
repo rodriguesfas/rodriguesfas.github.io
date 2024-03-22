@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Biblia/EBD/jovens/jovens",
+  "id": "Biblia/EBD/jovens/jovens",
+  "title": "Jovens",
+  "description": "",
+  "source": "@site/docs/Biblia/EBD/jovens/jovens.md",
+  "sourceDirName": "Biblia/EBD/jovens",
+  "slug": "/Biblia/EBD/jovens/",
+  "permalink": "/fr/docs/Biblia/EBD/jovens/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/EBD/jovens/jovens.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "jovens",
+    "title": "Jovens"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adolescentes",
+    "permalink": "/fr/docs/Biblia/EBD/adolescentes/"
+  },
+  "next": {
+    "title": "Perguntas da Semana",
+    "permalink": "/fr/docs/Biblia/EBD/perguntas-da-semana/"
+  }
+}

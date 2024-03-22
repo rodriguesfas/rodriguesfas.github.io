@@ -1,0 +1,27 @@
+{
+  "unversionedId": "programming/sumario",
+  "id": "programming/sumario",
+  "title": "Bem vindo!",
+  "description": "Aqui você encontra materiais sobre programação.",
+  "source": "@site/docs/programming/sumario.md",
+  "sourceDirName": "programming",
+  "slug": "/programming/sumario",
+  "permalink": "/docs/programming/sumario",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programming/sumario.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sumario",
+    "title": "Bem vindo!"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Portfolio",
+    "permalink": "/docs/portfolio"
+  },
+  "next": {
+    "title": "Sumário",
+    "permalink": "/docs/robotics/6ano/sumario"
+  }
+}

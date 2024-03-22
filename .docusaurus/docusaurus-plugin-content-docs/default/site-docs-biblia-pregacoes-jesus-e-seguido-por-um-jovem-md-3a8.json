@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Biblia/Pregações/jesus-e-seguido-por-um-jovem",
+  "id": "Biblia/Pregações/jesus-e-seguido-por-um-jovem",
+  "title": "Jesus é seguido por um jovem",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/Biblia/Pregações/jesus-e-seguido-por-um-jovem.md",
+  "sourceDirName": "Biblia/Pregações",
+  "slug": "/Biblia/Pregações/jesus-e-seguido-por-um-jovem",
+  "permalink": "/fr/docs/Biblia/Pregações/jesus-e-seguido-por-um-jovem",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/Pregações/jesus-e-seguido-por-um-jovem.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "jesus-e-seguido-por-um-jovem",
+    "title": "Jesus é seguido por um jovem",
+    "date": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jesus e os maus feitores",
+    "permalink": "/fr/docs/Biblia/Pregações/jesus-e-os-maus-feitores"
+  },
+  "next": {
+    "title": "Judas",
+    "permalink": "/fr/docs/Biblia/Pregações/judas"
+  }
+}

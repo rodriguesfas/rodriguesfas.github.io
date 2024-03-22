@@ -1,0 +1,27 @@
+{
+  "unversionedId": "phd/articles/4",
+  "id": "phd/articles/4",
+  "title": "Modelos Preditivos para Estimar o Progresso Individual",
+  "description": "Este artigo focaria na construção e avaliação de modelos preditivos desenvolvidos para estimar o progresso individual dos participantes com base nos dados comportamentais. Você poderia discutir as métricas de avaliação utilizadas e a precisão dos modelos.",
+  "source": "@site/docs/phd/articles/04.md",
+  "sourceDirName": "phd/articles",
+  "slug": "/phd/articles/4",
+  "permalink": "/fr/docs/phd/articles/4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/phd/articles/04.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4",
+    "title": "Modelos Preditivos para Estimar o Progresso Individual"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Análise de Dados Comportamentais com Machine Learning",
+    "permalink": "/fr/docs/phd/articles/3"
+  },
+  "next": {
+    "title": "Interface do Usuário e Visualização de Dados",
+    "permalink": "/fr/docs/phd/articles/5"
+  }
+}

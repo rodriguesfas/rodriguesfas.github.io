@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Biblia/Pregações/a-oracao-de-jabez",
+  "id": "Biblia/Pregações/a-oracao-de-jabez",
+  "title": "A oração de Jabez",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/Biblia/Pregações/a-oracao-de-jabez.md",
+  "sourceDirName": "Biblia/Pregações",
+  "slug": "/Biblia/Pregações/a-oracao-de-jabez",
+  "permalink": "/fr/docs/Biblia/Pregações/a-oracao-de-jabez",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/Pregações/a-oracao-de-jabez.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "a-oracao-de-jabez",
+    "title": "A oração de Jabez",
+    "date": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "A Cruz",
+    "permalink": "/fr/docs/Biblia/Pregações/a-cruz"
+  },
+  "next": {
+    "title": "A tenda de Moises",
+    "permalink": "/fr/docs/Biblia/Pregações/a-tenda-de-moises"
+  }
+}

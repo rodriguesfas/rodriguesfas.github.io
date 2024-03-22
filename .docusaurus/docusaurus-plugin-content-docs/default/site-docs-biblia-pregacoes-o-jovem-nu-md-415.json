@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Biblia/Pregacoes/o-jovem-nu",
+  "id": "Biblia/Pregacoes/o-jovem-nu",
+  "title": "O Jovem nú",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/Biblia/Pregacoes/o-jovem-nu.md",
+  "sourceDirName": "Biblia/Pregacoes",
+  "slug": "/Biblia/Pregacoes/o-jovem-nu",
+  "permalink": "/docs/Biblia/Pregacoes/o-jovem-nu",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/Pregacoes/o-jovem-nu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "o-jovem-nu",
+    "title": "O Jovem nú",
+    "date": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "O bom samaritano",
+    "permalink": "/docs/Biblia/Pregacoes/o-bom-samaritano"
+  },
+  "next": {
+    "title": "O Sabão do Lavandeiro",
+    "permalink": "/docs/Biblia/Pregacoes/o sabao-do-lavandeiro"
+  }
+}

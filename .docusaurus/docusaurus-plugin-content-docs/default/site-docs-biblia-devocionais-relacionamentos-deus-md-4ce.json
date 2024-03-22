@@ -1,0 +1,39 @@
+{
+  "unversionedId": "Biblia/Devocionais/relacionamentos-deus",
+  "id": "Biblia/Devocionais/relacionamentos-deus",
+  "title": "Meu Relacionamento com Deus",
+  "description": "1. Quem Inicia o Relacionamento com o Homem?",
+  "source": "@site/docs/Biblia/Devocionais/relacionamentos-deus.md",
+  "sourceDirName": "Biblia/Devocionais",
+  "slug": "/Biblia/Devocionais/relacionamentos-deus",
+  "permalink": "/docs/Biblia/Devocionais/relacionamentos-deus",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/Devocionais/relacionamentos-deus.md",
+  "tags": [
+    {
+      "label": "Relacionamento",
+      "permalink": "/docs/tags/relacionamento"
+    },
+    {
+      "label": "Deus",
+      "permalink": "/docs/tags/deus"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "relacionamentos-deus",
+    "title": "Meu Relacionamento com Deus",
+    "authors": {
+      "name": "RodriguesFAS"
+    },
+    "tags": [
+      "Relacionamento",
+      "Deus"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Realacionamentos/Empatia",
+    "permalink": "/docs/Biblia/Devocionais/relacionamentos-empatia"
+  }
+}

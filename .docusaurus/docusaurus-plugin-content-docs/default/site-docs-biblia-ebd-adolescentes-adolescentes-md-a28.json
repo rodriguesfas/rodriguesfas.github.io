@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Biblia/EBD/adolescentes/adolescentes",
+  "id": "Biblia/EBD/adolescentes/adolescentes",
+  "title": "Adolescentes",
+  "description": "",
+  "source": "@site/docs/Biblia/EBD/adolescentes/adolescentes.md",
+  "sourceDirName": "Biblia/EBD/adolescentes",
+  "slug": "/Biblia/EBD/adolescentes/",
+  "permalink": "/fr/docs/Biblia/EBD/adolescentes/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/EBD/adolescentes/adolescentes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "adolescentes",
+    "title": "Adolescentes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ossos e Fogo",
+    "permalink": "/fr/docs/Biblia/Diário/ossos-e-fogo"
+  },
+  "next": {
+    "title": "Jovens",
+    "permalink": "/fr/docs/Biblia/EBD/jovens/"
+  }
+}

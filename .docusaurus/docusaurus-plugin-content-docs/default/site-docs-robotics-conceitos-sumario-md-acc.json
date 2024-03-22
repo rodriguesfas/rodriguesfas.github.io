@@ -1,0 +1,27 @@
+{
+  "unversionedId": "robotics/conceitos/sumario",
+  "id": "robotics/conceitos/sumario",
+  "title": "Sumário",
+  "description": "Aulas",
+  "source": "@site/docs/robotics/conceitos/sumario.md",
+  "sourceDirName": "robotics/conceitos",
+  "slug": "/robotics/conceitos/sumario",
+  "permalink": "/fr/docs/robotics/conceitos/sumario",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/robotics/conceitos/sumario.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sumario",
+    "title": "Sumário"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sumário",
+    "permalink": "/fr/docs/robotics/arduino/sumario"
+  },
+  "next": {
+    "title": "Sumário",
+    "permalink": "/fr/docs/robotics/lego/sumario"
+  }
+}

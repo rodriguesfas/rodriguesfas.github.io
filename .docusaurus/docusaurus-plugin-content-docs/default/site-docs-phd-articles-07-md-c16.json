@@ -1,0 +1,27 @@
+{
+  "unversionedId": "phd/articles/7",
+  "id": "phd/articles/7",
+  "title": "Avaliação da Plataforma em Ambientes Clínicos",
+  "description": "Neste artigo, você poderia relatar os resultados de estudos clínicos realizados para avaliar a eficácia da plataforma na prática clínica da ABA. Isso incluiria análises de caso, feedback dos profissionais de saúde e dos participantes, e comparações com abordagens convencionais.",
+  "source": "@site/docs/phd/articles/07.md",
+  "sourceDirName": "phd/articles",
+  "slug": "/phd/articles/7",
+  "permalink": "/fr/docs/phd/articles/7",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/phd/articles/07.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "7",
+    "title": "Avaliação da Plataforma em Ambientes Clínicos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Algoritmos de Recomendação para Atividades de Ensino e Reabilitação",
+    "permalink": "/fr/docs/phd/articles/6"
+  },
+  "next": {
+    "title": "Discussão sobre Desafios e Futuras Direções",
+    "permalink": "/fr/docs/phd/articles/08"
+  }
+}

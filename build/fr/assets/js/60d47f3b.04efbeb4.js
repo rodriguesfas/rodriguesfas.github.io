@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrodriguesfas_github_io=self.webpackChunkrodriguesfas_github_io||[]).push([[8995],{4989:s=>{s.exports=JSON.parse('{"label":"snct","permalink":"/fr/blog/tags/snct","allTagsPath":"/fr/blog/tags","count":1}')}}]);

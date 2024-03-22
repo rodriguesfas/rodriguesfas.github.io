@@ -1,0 +1,27 @@
+{
+  "unversionedId": "phd/articles/6",
+  "id": "phd/articles/6",
+  "title": "Algoritmos de Recomendação para Atividades de Ensino e Reabilitação",
+  "description": "Este artigo abordaria os algoritmos de recomendação desenvolvidos para sugerir atividades de ensino e reabilitação personalizadas com base nos padrões identificados nos dados comportamentais. Você poderia discutir a eficácia desses algoritmos em melhorar os resultados das intervenções.",
+  "source": "@site/docs/phd/articles/06.md",
+  "sourceDirName": "phd/articles",
+  "slug": "/phd/articles/6",
+  "permalink": "/fr/docs/phd/articles/6",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/phd/articles/06.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "6",
+    "title": "Algoritmos de Recomendação para Atividades de Ensino e Reabilitação"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Interface do Usuário e Visualização de Dados",
+    "permalink": "/fr/docs/phd/articles/5"
+  },
+  "next": {
+    "title": "Avaliação da Plataforma em Ambientes Clínicos",
+    "permalink": "/fr/docs/phd/articles/7"
+  }
+}

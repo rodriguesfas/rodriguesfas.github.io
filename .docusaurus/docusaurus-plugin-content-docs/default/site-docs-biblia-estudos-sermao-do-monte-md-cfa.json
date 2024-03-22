@@ -1,0 +1,38 @@
+{
+  "unversionedId": "Biblia/estudos/sermao-do-monte",
+  "id": "Biblia/estudos/sermao-do-monte",
+  "title": "Sermão do Monte",
+  "description": "",
+  "source": "@site/docs/Biblia/estudos/sermao-do-monte.md",
+  "sourceDirName": "Biblia/estudos",
+  "slug": "/Biblia/estudos/sermao-do-monte",
+  "permalink": "/docs/Biblia/estudos/sermao-do-monte",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/estudos/sermao-do-monte.md",
+  "tags": [
+    {
+      "label": "Sermão do Monte",
+      "permalink": "/docs/tags/sermao-do-monte"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "sermao-do-monte",
+    "title": "Sermão do Monte",
+    "authors": {
+      "name": "RodriguesFAS"
+    },
+    "tags": [
+      "Sermão do Monte"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "exegese",
+    "permalink": "/docs/Biblia/estudos/exegese"
+  },
+  "next": {
+    "title": "O Evangelho Mal Trapilho",
+    "permalink": "/docs/Biblia/livros/o-evangelho-mal-trapilho"
+  }
+}

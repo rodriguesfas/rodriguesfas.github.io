@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Biblia/Pregacoes/jesus-e-encontrado-no-templo-apos-tres-dias",
+  "id": "Biblia/Pregacoes/jesus-e-encontrado-no-templo-apos-tres-dias",
+  "title": "Jesus é encontrado no templo após três dias",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/Biblia/Pregacoes/jesus-e-encontrado-no-templo-apos-tres-dias.md",
+  "sourceDirName": "Biblia/Pregacoes",
+  "slug": "/Biblia/Pregacoes/jesus-e-encontrado-no-templo-apos-tres-dias",
+  "permalink": "/docs/Biblia/Pregacoes/jesus-e-encontrado-no-templo-apos-tres-dias",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/Pregacoes/jesus-e-encontrado-no-templo-apos-tres-dias.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "jesus-e-encontrado-no-templo-apos-tres-dias",
+    "title": "Jesus é encontrado no templo após três dias",
+    "date": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Felipe e Natanael",
+    "permalink": "/docs/Biblia/Pregacoes/felipe-e-natanael"
+  },
+  "next": {
+    "title": "Jesus e os maus feitores",
+    "permalink": "/docs/Biblia/Pregacoes/jesus-e-os-maus-feitores"
+  }
+}

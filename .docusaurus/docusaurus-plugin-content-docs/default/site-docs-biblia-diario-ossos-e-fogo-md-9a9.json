@@ -1,0 +1,31 @@
+{
+  "unversionedId": "Biblia/diario/ossos-e-fogo",
+  "id": "Biblia/diario/ossos-e-fogo",
+  "title": "Ossos e Fogo",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/Biblia/diario/ossos-e-fogo.md",
+  "sourceDirName": "Biblia/diario",
+  "slug": "/Biblia/diario/ossos-e-fogo",
+  "permalink": "/docs/Biblia/diario/ossos-e-fogo",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/diario/ossos-e-fogo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ossos-e-fogo",
+    "title": "Ossos e Fogo",
+    "date": "19-07-2021",
+    "authors": {
+      "name": "RodriguesFAS"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Marionetes",
+    "permalink": "/docs/Biblia/diario/marionetes"
+  },
+  "next": {
+    "title": "Adolescentes",
+    "permalink": "/docs/Biblia/ebd/adolescentes/"
+  }
+}

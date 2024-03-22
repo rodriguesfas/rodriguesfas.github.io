@@ -1,0 +1,27 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "title": "Francisco Rodrigues",
+  "description": "Sou mestre em Ciência da Computação pela UFPE, possuo MBA em Docência do Ensino Superior pelo IDJ e graduação em Automação Industrial pelo IFCE. Além disso, obtive também graduação em Análise e Desenvolvimento de Sistemas pela UniLeão. Como empreendedor, sou co-fundador e CTO na Realm.",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/docs/about",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/about.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "about",
+    "title": "Francisco Rodrigues"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "AA",
+    "permalink": "/docs/biblia/diario/aa"
+  }
+}

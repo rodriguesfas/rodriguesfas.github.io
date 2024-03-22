@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrodriguesfas_github_io=self.webpackChunkrodriguesfas_github_io||[]).push([[9073],{1011:s=>{s.exports=JSON.parse('{"label":"2014","permalink":"/en/blog/tags/2014","allTagsPath":"/en/blog/tags","count":2}')}}]);

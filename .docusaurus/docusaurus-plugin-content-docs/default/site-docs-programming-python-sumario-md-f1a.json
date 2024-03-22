@@ -1,0 +1,24 @@
+{
+  "unversionedId": "programming/python/sumario",
+  "id": "programming/python/sumario",
+  "title": "sumario",
+  "description": "",
+  "source": "@site/docs/programming/python/sumario.md",
+  "sourceDirName": "programming/python",
+  "slug": "/programming/python/sumario",
+  "permalink": "/docs/programming/python/sumario",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/programming/python/sumario.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sumario",
+    "permalink": "/docs/programming/java/sumario"
+  },
+  "next": {
+    "title": "sumario",
+    "permalink": "/docs/programming/reduc/sumario"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "phd/articles/2",
+  "id": "phd/articles/2",
+  "title": "Coleta e Armazenamento de Dados Comportamentais",
+  "description": "Este artigo detalharia os métodos e técnicas utilizados para coletar e armazenar dados comportamentais dos participantes durante as sessões de intervenção. Também discutiria questões relacionadas à privacidade e segurança dos dados.",
+  "source": "@site/docs/phd/articles/02.md",
+  "sourceDirName": "phd/articles",
+  "slug": "/phd/articles/2",
+  "permalink": "/fr/docs/phd/articles/2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/phd/articles/02.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "2",
+    "title": "Coleta e Armazenamento de Dados Comportamentais"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ABALyze - Uma Plataforma para Atividades Adaptadas com Análise de Resultados",
+    "permalink": "/fr/docs/phd/articles/1"
+  },
+  "next": {
+    "title": "Análise de Dados Comportamentais com Machine Learning",
+    "permalink": "/fr/docs/phd/articles/3"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "phd/articles/5",
+  "id": "phd/articles/5",
+  "title": "Interface do Usuário e Visualização de Dados",
+  "description": "Aqui, você poderia descrever a interface do usuário da plataforma, destacando sua usabilidade e as ferramentas de visualização de dados disponíveis. Também discutiria o feedback dos usuários e eventuais melhorias na interface.",
+  "source": "@site/docs/phd/articles/05.md",
+  "sourceDirName": "phd/articles",
+  "slug": "/phd/articles/5",
+  "permalink": "/fr/docs/phd/articles/5",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/phd/articles/05.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "5",
+    "title": "Interface do Usuário e Visualização de Dados"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modelos Preditivos para Estimar o Progresso Individual",
+    "permalink": "/fr/docs/phd/articles/4"
+  },
+  "next": {
+    "title": "Algoritmos de Recomendação para Atividades de Ensino e Reabilitação",
+    "permalink": "/fr/docs/phd/articles/6"
+  }
+}

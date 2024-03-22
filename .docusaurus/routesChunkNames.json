@@ -1,0 +1,866 @@
+{
+  "/fr/about-f85": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "76fb8481"
+    },
+    "content": "356a0ac6"
+  },
+  "/fr/blog-c12": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      },
+      {
+        "content": "1742e230"
+      },
+      {
+        "content": "e2537216"
+      },
+      {
+        "content": "8f8c2a95"
+      },
+      {
+        "content": "7cf1aa96"
+      },
+      {
+        "content": "182c672a"
+      },
+      {
+        "content": "4f58e126"
+      }
+    ],
+    "metadata": "d58f2f6c"
+  },
+  "/fr/blog/archive-e7e": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "archive": "cf23ded0"
+  },
+  "/fr/blog/calug-47f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "440ac670"
+  },
+  "/fr/blog/cebrac-e26": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "ff508f8a"
+  },
+  "/fr/blog/dusitio-d1e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "1addf3ee"
+  },
+  "/fr/blog/first-blog-post-b1c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/fr/blog/flisol-64a": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "116f81e5"
+  },
+  "/fr/blog/genuinoday-3d3": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "335664a3"
+  },
+  "/fr/blog/i-tec-467": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "76bdc6b2"
+  },
+  "/fr/blog/iiirobots-0c5": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "3b2b1aae"
+  },
+  "/fr/blog/iirobots-4b1": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "1151de6b"
+  },
+  "/fr/blog/ivrobots-f1c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "53fe2d84"
+  },
+  "/fr/blog/long-blog-post-d71": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/fr/blog/mdx-blog-post-452": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/fr/blog/page/2-aac": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "e00e7a6d"
+      },
+      {
+        "content": "cc0e9339"
+      },
+      {
+        "content": "b3eb038b"
+      },
+      {
+        "content": "d2591ed2"
+      },
+      {
+        "content": "195a5111"
+      },
+      {
+        "content": "330b7d61"
+      }
+    ],
+    "metadata": "6a84c208"
+  },
+  "/fr/blog/seprotec-8e6": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "5d18c96a"
+  },
+  "/fr/blog/setai-b2e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "ebfbf5ea"
+  },
+  "/fr/blog/snct-f58": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "4e9da858"
+  },
+  "/fr/blog/tags-dc2": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "tags": "92293c9c"
+  },
+  "/fr/blog/tags/2014-3ff": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "195a5111"
+      },
+      {
+        "content": "330b7d61"
+      }
+    ],
+    "tag": "37386662",
+    "listMetadata": "23e83fd2"
+  },
+  "/fr/blog/tags/2015-be2": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "cc0e9339"
+      },
+      {
+        "content": "b3eb038b"
+      },
+      {
+        "content": "d2591ed2"
+      }
+    ],
+    "tag": "caa1f38c",
+    "listMetadata": "ea25b566"
+  },
+  "/fr/blog/tags/2016-913": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "e2537216"
+      },
+      {
+        "content": "4f58e126"
+      },
+      {
+        "content": "e00e7a6d"
+      }
+    ],
+    "tag": "b39c90cd",
+    "listMetadata": "c5d92a50"
+  },
+  "/fr/blog/tags/2017-029": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "8f8c2a95"
+      },
+      {
+        "content": "7cf1aa96"
+      },
+      {
+        "content": "182c672a"
+      }
+    ],
+    "tag": "29a51e26",
+    "listMetadata": "b7e1584b"
+  },
+  "/fr/blog/tags/2018-fd4": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "1742e230"
+      }
+    ],
+    "tag": "b36f4dab",
+    "listMetadata": "27464c0d"
+  },
+  "/fr/blog/tags/calug-760": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "e00e7a6d"
+      }
+    ],
+    "tag": "7d488bb7",
+    "listMetadata": "0e866b79"
+  },
+  "/fr/blog/tags/cebrac-331": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "182c672a"
+      }
+    ],
+    "tag": "12af58a5",
+    "listMetadata": "f269a699"
+  },
+  "/fr/blog/tags/docusaurus-bdc": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "46c65c01",
+    "listMetadata": "4545c6dd"
+  },
+  "/fr/blog/tags/dusitio-80a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7cf1aa96"
+      }
+    ],
+    "tag": "61573da4",
+    "listMetadata": "88e15454"
+  },
+  "/fr/blog/tags/enactus-4b4": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7cf1aa96"
+      }
+    ],
+    "tag": "933dcee8",
+    "listMetadata": "edcf0f9b"
+  },
+  "/fr/blog/tags/facebook-07a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "62b8290c",
+    "listMetadata": "c6cefb35"
+  },
+  "/fr/blog/tags/flisol-9f4": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "330b7d61"
+      }
+    ],
+    "tag": "7c96d561",
+    "listMetadata": "3d847c6e"
+  },
+  "/fr/blog/tags/genuinoday-3b0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "4f58e126"
+      }
+    ],
+    "tag": "4f8ee7a2",
+    "listMetadata": "e52e907c"
+  },
+  "/fr/blog/tags/hello-0d5": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "df9f8db9",
+    "listMetadata": "9fbb6500"
+  },
+  "/fr/blog/tags/hola-b96": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "43d648aa",
+    "listMetadata": "c236d251"
+  },
+  "/fr/blog/tags/i-tec-b3f": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "cc0e9339"
+      }
+    ],
+    "tag": "2699157e",
+    "listMetadata": "98ae092f"
+  },
+  "/fr/blog/tags/robots-6d8": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "1742e230"
+      },
+      {
+        "content": "e2537216"
+      },
+      {
+        "content": "8f8c2a95"
+      }
+    ],
+    "tag": "f477a80a",
+    "listMetadata": "49698b16"
+  },
+  "/fr/blog/tags/seprotec-cb8": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "195a5111"
+      }
+    ],
+    "tag": "250853aa",
+    "listMetadata": "2eac2a0d"
+  },
+  "/fr/blog/tags/setai-cd8": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d2591ed2"
+      }
+    ],
+    "tag": "2e3549f3",
+    "listMetadata": "f7b5a395"
+  },
+  "/fr/blog/tags/snct-3be": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "b3eb038b"
+      }
+    ],
+    "tag": "60d47f3b",
+    "listMetadata": "bb6cfdf1"
+  },
+  "/fr/blog/tags/unileao-a54": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7cf1aa96"
+      }
+    ],
+    "tag": "e2c1d488",
+    "listMetadata": "192f0441"
+  },
+  "/fr/blog/welcome-92f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "b8173601"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/fr/docs/tags-4c3": {
+    "__comp": "3720c009",
+    "__context": {
+      "plugin": "7210ad26"
+    },
+    "tags": "55960ee5"
+  },
+  "/fr/docs/tags/7-cartas-bde": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "7210ad26"
+    },
+    "tag": "8eb4c3f1"
+  },
+  "/fr/docs/tags/deus-ac5": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "7210ad26"
+    },
+    "tag": "0e5a3cd2"
+  },
+  "/fr/docs/tags/empatia-b55": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "7210ad26"
+    },
+    "tag": "1c77a10e"
+  },
+  "/fr/docs/tags/relacionamento-fd5": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "7210ad26"
+    },
+    "tag": "cbe5540d"
+  },
+  "/fr/docs/tags/relacionamentos-f2d": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "7210ad26"
+    },
+    "tag": "5f98959d"
+  },
+  "/fr/docs/tags/sermao-do-monte-9e0": {
+    "__comp": "df203c0f",
+    "__context": {
+      "plugin": "7210ad26"
+    },
+    "tag": "f8cc9b30"
+  },
+  "/fr/hello-ede": {
+    "__comp": "ced71b19",
+    "__context": {
+      "plugin": "76fb8481"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/fr/markdown-page-aff": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "76fb8481"
+    },
+    "content": "393be207"
+  },
+  "/fr/docs-d75": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "7210ad26"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/fr/docs/-0f7": {
+    "__comp": "17896441",
+    "content": "ebfee794"
+  },
+  "/fr/docs/Biblia/Devocional/relacionamentos-deus-b02": {
+    "__comp": "17896441",
+    "content": "c6b0e367"
+  },
+  "/fr/docs/Biblia/Devocional/relacionamentos-empatia-f3c": {
+    "__comp": "17896441",
+    "content": "fab04c34"
+  },
+  "/fr/docs/Biblia/Diário/aa-bd2": {
+    "__comp": "17896441",
+    "content": "c4e0ecb5"
+  },
+  "/fr/docs/Biblia/Diário/introducao-c81": {
+    "__comp": "17896441",
+    "content": "b5e4550c"
+  },
+  "/fr/docs/Biblia/Diário/marionetes-e9e": {
+    "__comp": "17896441",
+    "content": "29a615fb"
+  },
+  "/fr/docs/Biblia/Diário/ossos-e-fogo-28c": {
+    "__comp": "17896441",
+    "content": "4e8946af"
+  },
+  "/fr/docs/Biblia/EBD/adolescentes/-b26": {
+    "__comp": "17896441",
+    "content": "a288a4e6"
+  },
+  "/fr/docs/Biblia/EBD/jovens/-7ea": {
+    "__comp": "17896441",
+    "content": "229433a5"
+  },
+  "/fr/docs/Biblia/EBD/perguntas-da-semana/-c00": {
+    "__comp": "17896441",
+    "content": "9946de69"
+  },
+  "/fr/docs/Biblia/Estudos/7-cartas-c2a": {
+    "__comp": "17896441",
+    "content": "a011abbd"
+  },
+  "/fr/docs/Biblia/Estudos/exegese-e79": {
+    "__comp": "17896441",
+    "content": "8bb60ea9"
+  },
+  "/fr/docs/Biblia/Estudos/sermao-do-monte-3a4": {
+    "__comp": "17896441",
+    "content": "ffd4022f"
+  },
+  "/fr/docs/Biblia/Livros/o-evangelho-mal-trapilho-7bb": {
+    "__comp": "17896441",
+    "content": "75406de7"
+  },
+  "/fr/docs/Biblia/Pregações/a-conversao-de-paulo-76e": {
+    "__comp": "17896441",
+    "content": "0b9e6c3d"
+  },
+  "/fr/docs/Biblia/Pregações/a-cruz-359": {
+    "__comp": "17896441",
+    "content": "ec77e20e"
+  },
+  "/fr/docs/Biblia/Pregações/a-oracao-de-jabez-bc2": {
+    "__comp": "17896441",
+    "content": "de34a953"
+  },
+  "/fr/docs/Biblia/Pregações/a-tenda-de-moises-d85": {
+    "__comp": "17896441",
+    "content": "7918e3f1"
+  },
+  "/fr/docs/Biblia/Pregações/felipe-e-natanael-da6": {
+    "__comp": "17896441",
+    "content": "52459c74"
+  },
+  "/fr/docs/Biblia/Pregações/jesus-e-encontrado-no-templo-apos-tres-dias-a5d": {
+    "__comp": "17896441",
+    "content": "2658aa1a"
+  },
+  "/fr/docs/Biblia/Pregações/jesus-e-os-maus-feitores-164": {
+    "__comp": "17896441",
+    "content": "0e4b80ce"
+  },
+  "/fr/docs/Biblia/Pregações/jesus-e-seguido-por-um-jovem-d18": {
+    "__comp": "17896441",
+    "content": "3a883f0b"
+  },
+  "/fr/docs/Biblia/Pregações/judas-df0": {
+    "__comp": "17896441",
+    "content": "bcf6f03b"
+  },
+  "/fr/docs/Biblia/Pregações/o sabao-do-lavandeiro-629": {
+    "__comp": "17896441",
+    "content": "61facce1"
+  },
+  "/fr/docs/Biblia/Pregações/o-bom-samaritano-b22": {
+    "__comp": "17896441",
+    "content": "6338f99b"
+  },
+  "/fr/docs/Biblia/Pregações/o-jovem-nu-136": {
+    "__comp": "17896441",
+    "content": "fafa5930"
+  },
+  "/fr/docs/Biblia/Pregações/os-dois-discipulos-a-caminho-de-emaus-84b": {
+    "__comp": "17896441",
+    "content": "d1b4d5c2"
+  },
+  "/fr/docs/Ebook/champs-da-galaxia-02a": {
+    "__comp": "17896441",
+    "content": "0992bc48"
+  },
+  "/fr/docs/Espacial/foguete-b89": {
+    "__comp": "17896441",
+    "content": "3382e977"
+  },
+  "/fr/docs/Espacial/programa-espacial-a2d": {
+    "__comp": "17896441",
+    "content": "e092d48f"
+  },
+  "/fr/docs/Espacial/satelite-feb": {
+    "__comp": "17896441",
+    "content": "cd089f39"
+  },
+  "/fr/docs/intro-f86": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/fr/docs/olympics-d5e": {
+    "__comp": "17896441",
+    "content": "94b0e9f5"
+  },
+  "/fr/docs/phd/abalyze-d04": {
+    "__comp": "17896441",
+    "content": "f2b335ea"
+  },
+  "/fr/docs/phd/articles/08-577": {
+    "__comp": "17896441",
+    "content": "57ce91e1"
+  },
+  "/fr/docs/phd/articles/1-5e6": {
+    "__comp": "17896441",
+    "content": "5d63518c"
+  },
+  "/fr/docs/phd/articles/2-4e0": {
+    "__comp": "17896441",
+    "content": "1878b0cc"
+  },
+  "/fr/docs/phd/articles/3-ced": {
+    "__comp": "17896441",
+    "content": "d8199d24"
+  },
+  "/fr/docs/phd/articles/4-627": {
+    "__comp": "17896441",
+    "content": "05f97375"
+  },
+  "/fr/docs/phd/articles/5-9b3": {
+    "__comp": "17896441",
+    "content": "d60bd604"
+  },
+  "/fr/docs/phd/articles/6-1ee": {
+    "__comp": "17896441",
+    "content": "0fd890ec"
+  },
+  "/fr/docs/phd/articles/7-1e9": {
+    "__comp": "17896441",
+    "content": "c16a9903"
+  },
+  "/fr/docs/phd/dissertation-4e7": {
+    "__comp": "17896441",
+    "content": "99873949"
+  },
+  "/fr/docs/phd/learning-analytics-aba-75e": {
+    "__comp": "17896441",
+    "content": "e2561d16"
+  },
+  "/fr/docs/phd/todo-f34": {
+    "__comp": "17896441",
+    "content": "b2d45489"
+  },
+  "/fr/docs/portfolio-f9d": {
+    "__comp": "17896441",
+    "content": "cfbc0df8"
+  },
+  "/fr/docs/Programming/sumario-ecb": {
+    "__comp": "17896441",
+    "content": "fcfdb0ea"
+  },
+  "/fr/docs/robotics/6ano/sumario-c4b": {
+    "__comp": "17896441",
+    "content": "66296710"
+  },
+  "/fr/docs/robotics/7ano/sumario-4bc": {
+    "__comp": "17896441",
+    "content": "4f26b8c9"
+  },
+  "/fr/docs/robotics/8ano/sumario-1b2": {
+    "__comp": "17896441",
+    "content": "a8473b06"
+  },
+  "/fr/docs/robotics/9ano/sumario-744": {
+    "__comp": "17896441",
+    "content": "82a3795f"
+  },
+  "/fr/docs/robotics/arduino/sumario-cf7": {
+    "__comp": "17896441",
+    "content": "58422292"
+  },
+  "/fr/docs/robotics/conceitos/sumario-356": {
+    "__comp": "17896441",
+    "content": "accbd3bc"
+  },
+  "/fr/docs/robotics/lego/sumario-5f3": {
+    "__comp": "17896441",
+    "content": "9b846bb1"
+  },
+  "/fr/docs/robotics/medio/sumario-03c": {
+    "__comp": "17896441",
+    "content": "86de78e5"
+  },
+  "/fr/docs/robotics/print3d/sumario-5fd": {
+    "__comp": "17896441",
+    "content": "89271041"
+  },
+  "/fr/docs/robotics/sbotics/seguidor-de-linha-e45": {
+    "__comp": "17896441",
+    "content": "0f3ed1d8"
+  },
+  "/fr/docs/robotics/sbotics/sumario-7ba": {
+    "__comp": "17896441",
+    "content": "81474f67"
+  },
+  "/fr/docs/robotics/simulator/sumario-0fc": {
+    "__comp": "17896441",
+    "content": "32fd992f"
+  },
+  "/fr/-750": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "76fb8481"
+    },
+    "config": "5e9f5e1a"
+  }
+}

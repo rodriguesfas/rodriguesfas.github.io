@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Biblia/Pregacoes/jesus-e-os-maus-feitores",
+  "id": "Biblia/Pregacoes/jesus-e-os-maus-feitores",
+  "title": "Jesus e os maus feitores",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/Biblia/Pregacoes/jesus-e-os-maus-feitores.md",
+  "sourceDirName": "Biblia/Pregacoes",
+  "slug": "/Biblia/Pregacoes/jesus-e-os-maus-feitores",
+  "permalink": "/docs/Biblia/Pregacoes/jesus-e-os-maus-feitores",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/Pregacoes/jesus-e-os-maus-feitores.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "jesus-e-os-maus-feitores",
+    "title": "Jesus e os maus feitores",
+    "date": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jesus é encontrado no templo após três dias",
+    "permalink": "/docs/Biblia/Pregacoes/jesus-e-encontrado-no-templo-apos-tres-dias"
+  },
+  "next": {
+    "title": "Jesus é seguido por um jovem",
+    "permalink": "/docs/Biblia/Pregacoes/jesus-e-seguido-por-um-jovem"
+  }
+}

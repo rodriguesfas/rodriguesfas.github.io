@@ -1,0 +1,28 @@
+{
+  "unversionedId": "biblia/pregacoes/a-cruz",
+  "id": "biblia/pregacoes/a-cruz",
+  "title": "A Cruz",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/biblia/pregacoes/a-cruz.md",
+  "sourceDirName": "biblia/pregacoes",
+  "slug": "/biblia/pregacoes/a-cruz",
+  "permalink": "/docs/biblia/pregacoes/a-cruz",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/biblia/pregacoes/a-cruz.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "a-cruz",
+    "title": "A Cruz",
+    "date": "19-07-2021"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "A conversão de Paulo",
+    "permalink": "/docs/biblia/pregacoes/a-conversao-de-paulo"
+  },
+  "next": {
+    "title": "A oração de Jabez",
+    "permalink": "/docs/biblia/pregacoes/a-oracao-de-jabez"
+  }
+}

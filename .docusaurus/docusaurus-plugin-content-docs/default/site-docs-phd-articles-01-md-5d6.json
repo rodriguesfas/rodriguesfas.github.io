@@ -1,0 +1,27 @@
+{
+  "unversionedId": "phd/articles/1",
+  "id": "phd/articles/1",
+  "title": "ABALyze - Uma Plataforma para Atividades Adaptadas com Análise de Resultados",
+  "description": "Resumo",
+  "source": "@site/docs/phd/articles/01.md",
+  "sourceDirName": "phd/articles",
+  "slug": "/phd/articles/1",
+  "permalink": "/fr/docs/phd/articles/1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/phd/articles/01.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "1",
+    "title": "ABALyze - Uma Plataforma para Atividades Adaptadas com Análise de Resultados"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ABALyze",
+    "permalink": "/fr/docs/phd/abalyze"
+  },
+  "next": {
+    "title": "Coleta e Armazenamento de Dados Comportamentais",
+    "permalink": "/fr/docs/phd/articles/2"
+  }
+}

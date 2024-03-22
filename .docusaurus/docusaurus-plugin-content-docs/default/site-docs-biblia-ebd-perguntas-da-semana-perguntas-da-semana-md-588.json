@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Biblia/ebd/perguntas-da-semana/perguntas-da-semana",
+  "id": "Biblia/ebd/perguntas-da-semana/perguntas-da-semana",
+  "title": "Perguntas da Semana",
+  "description": "Tema: Apostasia",
+  "source": "@site/docs/Biblia/ebd/perguntas-da-semana/perguntas-da-semana.md",
+  "sourceDirName": "Biblia/ebd/perguntas-da-semana",
+  "slug": "/Biblia/ebd/perguntas-da-semana/",
+  "permalink": "/docs/Biblia/ebd/perguntas-da-semana/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/ebd/perguntas-da-semana/perguntas-da-semana.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "perguntas-da-semana",
+    "title": "Perguntas da Semana"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jovens",
+    "permalink": "/docs/Biblia/ebd/jovens/"
+  },
+  "next": {
+    "title": "7 Cartas",
+    "permalink": "/docs/Biblia/estudos/7-cartas"
+  }
+}

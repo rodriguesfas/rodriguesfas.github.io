@@ -1,0 +1,27 @@
+{
+  "unversionedId": "espacial/programa-espacial",
+  "id": "espacial/programa-espacial",
+  "title": "Celestino",
+  "description": "O Programa Espacial",
+  "source": "@site/docs/espacial/programa-espacial.md",
+  "sourceDirName": "espacial",
+  "slug": "/espacial/programa-espacial",
+  "permalink": "/docs/espacial/programa-espacial",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/espacial/programa-espacial.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "programa-espacial",
+    "title": "Celestino"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Juvelino",
+    "permalink": "/docs/espacial/foguete"
+  },
+  "next": {
+    "title": "Severino",
+    "permalink": "/docs/espacial/satelite"
+  }
+}

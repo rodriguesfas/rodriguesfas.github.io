@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Biblia/Pregacoes/o-bom-samaritano",
+  "id": "Biblia/Pregacoes/o-bom-samaritano",
+  "title": "O bom samaritano",
+  "description": "Texto Fundamental:",
+  "source": "@site/docs/Biblia/Pregacoes/o-bom-samaritano.md",
+  "sourceDirName": "Biblia/Pregacoes",
+  "slug": "/Biblia/Pregacoes/o-bom-samaritano",
+  "permalink": "/docs/Biblia/Pregacoes/o-bom-samaritano",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/Pregacoes/o-bom-samaritano.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "o-bom-samaritano",
+    "title": "O bom samaritano",
+    "date": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Judas",
+    "permalink": "/docs/Biblia/Pregacoes/judas"
+  },
+  "next": {
+    "title": "O Jovem nú",
+    "permalink": "/docs/Biblia/Pregacoes/o-jovem-nu"
+  }
+}

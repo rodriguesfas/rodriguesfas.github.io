@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Biblia/estudos/exegese",
+  "id": "Biblia/estudos/exegese",
+  "title": "exegese",
+  "description": "",
+  "source": "@site/docs/Biblia/estudos/exegese.md",
+  "sourceDirName": "Biblia/estudos",
+  "slug": "/Biblia/estudos/exegese",
+  "permalink": "/docs/Biblia/estudos/exegese",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Biblia/estudos/exegese.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "7 Cartas",
+    "permalink": "/docs/Biblia/estudos/7-cartas"
+  },
+  "next": {
+    "title": "Sermão do Monte",
+    "permalink": "/docs/Biblia/estudos/sermao-do-monte"
+  }
+}

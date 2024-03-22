@@ -1,0 +1,53 @@
+{
+  "permalink": "/fr/blog/snct",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2015-11-20-snct.md",
+  "source": "@site/blog/2015-11-20-snct.md",
+  "title": "I TEC - Tecnologia e Empreendedorismo Cariri",
+  "description": "Na Semana Nacional de Ciência e Tecnologia (SNCT), que acontecerá no Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte, no período de 19 à 20/11/2015, estarei ministrando um Minicurso com o tema Debate das Políticas Sociais de Inclusão Social e Tecnologia (Tecnologia Assistiva).",
+  "date": "2015-11-20T00:00:00.000Z",
+  "formattedDate": "20 novembre 2015",
+  "tags": [
+    {
+      "label": "snct",
+      "permalink": "/fr/blog/tags/snct"
+    },
+    {
+      "label": "2015",
+      "permalink": "/fr/blog/tags/2015"
+    }
+  ],
+  "readingTime": 0.28,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "RodriguesFAS",
+      "title": "Docusaurus Core Team",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png",
+      "imageURL": "https://github.com/wgao19.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "snct",
+    "title": "I TEC - Tecnologia e Empreendedorismo Cariri",
+    "authors": {
+      "name": "RodriguesFAS",
+      "title": "Docusaurus Core Team",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png",
+      "imageURL": "https://github.com/wgao19.png"
+    },
+    "tags": [
+      "snct",
+      "2015"
+    ]
+  },
+  "prevItem": {
+    "title": "I TEC - Tecnologia e Empreendedorismo Cariri",
+    "permalink": "/fr/blog/i-tec"
+  },
+  "nextItem": {
+    "title": "SeTAI – Semana Automação Industrial",
+    "permalink": "/fr/blog/setai"
+  }
+}
