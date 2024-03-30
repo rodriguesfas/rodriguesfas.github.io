@@ -3,6 +3,7 @@ id: abalyze
 title: ABALyze
 ---
 
+
 O nome "ABAlyze" é uma combinação de "ABA" (Análise do Comportamento Aplicada) e "Analyze" (Analisar, em inglês), transmitindo a ideia de análise baseada nos princípios da ABA. Aqui estão algumas razões pelas quais esse nome pode ser adequado:
 
 1. **Associação direta:** A inclusão de "ABA" no nome destaca imediatamente a conexão do aplicativo com os princípios da Análise do Comportamento Aplicada.

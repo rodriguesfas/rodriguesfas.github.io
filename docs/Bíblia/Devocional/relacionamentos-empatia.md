@@ -1,6 +1,6 @@
 ---
 id: relacionamentos-empatia
-title: Realacionamentos/Empatia
+title: Relacionamentos/Empatia
 authors: 
     name: RodriguesFAS
 tags: [Relacionamentos, Empatia]
