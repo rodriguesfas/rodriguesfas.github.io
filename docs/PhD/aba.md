@@ -69,6 +69,64 @@ O currículo usado será dividido em uma série de categorias, ou “programas�
 
 ![Currículo](img/aba/01.png)
 
+Uma vez selecionados, os programas serão estabelecidos de maneira que todos saibam quais instruções dar, como apresentar os materiais que podem ser usados e qual resposta é aceitável. Há uma terminologia que geralmente é usada para ajudar nisso:
+
+Estímulo / SD
+- Conhecido e chamado de “SD” ou “Estímulo Discriminativo”.
+- A instrução inicial, a exigência, ou comando a ser dado.
+- Também conhecido como o antecedente.
+- Especifica a fala e/ou a apresentação dos materiais.
+
+Tentativa
+- A seqüência completa de apresentar um SD, obter uma resposta (usando quantas
+dicas/ajudas forem necessárias) e o reforçar da resposta.
+- Unidade básica de um programa individual, que é praticada durante a sessão. 
+
+Resposta
+- A(s) resposta(s) esperada(s) e aceitável(is). 
+
+Reforçador
+- “Estímulo reforçador” abreviado para “SR+”
+- também conhecido como reforçamento ou conseqüência.
+- A conseqüência que segue imediatamente a resposta da criança. 
+
+Ajudas/ Dicas
+- Estímulos ou dicas suplementares dadas pelo professor.
+- Usadas antes ou durante a execução do comportamento.
+
+Estímulos
+- Uma lista de palavras ou ações, uma coleção de materiais, itens, etc. que estão
+sendo usados para determinado programa (por exemplo: figuras de animais, lista de
+palavras para praticar, conjunto de blocos de montar, cartões de pistas). 
+
+Aula
+- O tempo de atividade gasto trabalhando com a criança no seu programa.
+- Também chamada “sessão” por pessoas que preferem usar linguagem terapêutica. 
+
+Domínio
+- Os critérios que determinam quando a criança aprendeu a habilidade e está pronta
+para seguir em frente.
+- A maioria das pessoas está adotando o critério de “fluência” (100% correto e
+rápido) das pesquisas de Comportamento Verbal.
+- Outras pessoas podem preferir permanecer com o tradicional “80%, ou melhor, em
+3 sessões sucessivas de 10 tentativas cada”. 
+
+Dados
+- Registrar simplesmente como a criança age em cada tentativa. A resposta de uma
+criança a cada SD pode ser:
+1. correta (indicada por um ‘+’ou um ‘9’)
+2. incorreta (indicada por ‘-‘ ou um “x”)
+3. sem resposta (indicada por um NR /SR)
+4. Aproximação muito próxima (indicada por um ‘A’ ou você pode encontrar
+‘S’, para Aproximação Sucessiva)
+- Anotar dados e monitorar o progresso é uma parte vital da ABA. Se você não tiver
+uma visão clara e acurada de como a criança está, você pode correr o risco de
+frustrar e aborrecer a criança e você não vai saber quando está na hora de mudar
+para um novo programa.
+
+Método
+- Descreve qualquer apresentação especial de material, lugar ou estrutura usada. 
+
 ## Referêcias
 
 Copiado exatamente como está do livro: 
