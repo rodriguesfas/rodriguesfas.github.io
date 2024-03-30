@@ -59,6 +59,16 @@ geralmente é amplo; cobrindo as habilidades acadêmicas, de linguagem, sociais,
 cuidados pessoais, motoras e de brincar. O intenso envolvimento da família no programa é
 uma grande contribuição para o seu sucesso. 
 
+## Visão geral de um programa de ABA (e o Lingo) 
+
+Apresentamos aqui uma rápida visão geral dos elementos que compõem um programa de ABA. O restante do Ajude-nos a Aprender (Help Us Learn) vai explicar e elaborar cada uma dessas partes, com exemplos e exercícios.
+
+### Currículo
+
+O currículo usado será dividido em uma série de categorias, ou “programas”, tais como habilidades de cuidados pessoais, habilidades sociais, habilidades de linguagem, habilidades acadêmicas etc, organizadas em níveis de dificuldade, de maneira que você comece com habilidades básicas, muito simples, e depois as use para desenvolver as mais complexas. Os programas que você seleciona para trabalhar formam seu currículo:
+
+![Currículo](img/aba/01.png)
+
 ## Referêcias
 
 Copiado exatamente como está do livro: 
