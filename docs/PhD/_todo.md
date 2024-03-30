@@ -8,5 +8,5 @@
 
 - Math 2 sample 
 
-- Geração Altomática de Atividades. (LLM)
+- Geração Automática de Atividades. (LLM)
 - Geração de Relatório Explicado.   (LLM)

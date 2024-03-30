@@ -1,17 +1,18 @@
 ---
 id: about
-title: Francisco Rodrigues
+title: Francisco de Assis de Souza Rodrigues
+tags: []
 ---
 
-# Francisco Rodrigues
+# Francisco de Assis de Souza Rodrigues
 
 Sou Candidado a PhD em Ciência da Computação pela UFPE CIn, Mestre em Ciência da Computação pela UFPE Cin, possue MBA em Docência do Ensino Superior pelo IDJ e graduação em Automação Industrial pelo IFCE (trancado). Além disso, obtive também graduação em Análise e Desenvolvimento de Sistemas pela UniLeão. 
 
-Como empreendedor, tenho o orgulho de ser co-fundador de diversas Startups inovadoras, incluindo a [Realm](https://realm.com.br/), [qHoras](https://qhoras.com.br/), [Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Prime Flight](https://primeflight.com.br/).
+Como empreendedor, tenho o orgulho de ser fundador e co-fundador de diversas Startups inovadoras, incluindo a [Realm](https://realm.com.br/), [qHoras](https://qhoras.com.br/), [Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Prime Flight](https://primeflight.com.br/), [Yaakov](https://yaakov.com.br/), [CoWatch](https://cowatch.com.br), [CreateLab](#).
 
 Meus interesses são vastos e abrangem diversas áreas da computação. Tenho uma paixão especial por tópicos como Machine Learning, Deep Learning, Learning Analytics, Processamento de Linguagem Natural, Text Mining, Análise de Dados, Extração de Informação, Motores de Busca, Deduplicação de Dados, Tecnologia Assistiva, Processamento de Imagem, Visão Computacional, Robótica, Automação, e Internet das Coisas (IoT).
 
-Esses campos despertam minha curiosidade e entusiasmo, e estou constantemente buscando aprimorar meus conhecimentos e habilidades nessas áreas da computação. Acredito firmemente que o avanço tecnológico nessas vertentes pode proporcionar impactos significativos e soluções inovadoras para uma ampla gama de setores e desafios enfrentados atualmente.
+Esses campos despertam minha curiosidade e entusiasmo, e estou constantemente buscando aprimorar meus conhecimentos e habilidades nessas. Acredito firmemente que o avanço tecnológico nessas vertentes pode proporcionar impactos significativos e soluções inovadoras para uma ampla gama de setores e desafios enfrentados atualmente.
 
 :::note Contato / Mídias Sociais
 [WhatsApp](https://api.whatsapp.com/send/?phone=5588988480232&text=Oi%20Francisco,%20tudo%20bem?%20Vi%20seu%20CV,%20queria%20falar%20com%20voc%C3%AA.) | [Email](mailto:franciscosouzaacer@gmail.com) | [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8165664Z5) | [ORCID](https://orcid.org/0000-0003-4258-369X) | [EasyChair](#) | [BV-CDI](https://bv.fapesp.br/pt/pesquisador/719383/francisco-de-assis-de-souza-rodrigues) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Rodrigues18) | [Academic Google](https://scholar.google.com.br/citations?hl=pt-BR&user=pAVFIWwAAAAJ) | [LinkedIn](https://www.linkedin.com/in/rodriguesfas/) | [GitHub](https://github.com/rodriguesfas) | [GitLab](https://gitlab.com/rodriguesfas) | [Pip](https://pypi.org/user/rodriguesfas/) | [Blog](http://clubedosgeeks.com.br/author/champs) | [Medium](https://medium.com/@franciscosouzaacer) | [Facebook](https://www.facebook.com/r0driguesfas) | [Instagram](https://www.instagram.com/rodriguesfas/) | [LinkTree](https://linktr.ee/fasr)
@@ -52,65 +53,91 @@ Esses campos despertam minha curiosidade e entusiasmo, e estou constantemente bu
     A graduação em Análise e Desenvolvimento de Sistemas na UniLeão foi essencial para minha formação profissional e me preparou para enfrentar os desafios do mercado de trabalho na área de tecnologia. O projeto DAVI e a orientação recebida por todos os envolvidos foram fundamentais para o meu desenvolvimento como profissional e despertaram minha paixão por criar soluções tecnológicas que impactem positivamente a vida das pessoas.
 
 
-## Experiência
+## Experiência Profissionais
 
-* Trabalho na [Realm](https://realm.com.br/), uma startup de tecnologia focada no desenvolvimento de soluções inovadoras. Na empresa, tive a oportunidade de criar o produto revolucionário chamado BagLed, destinado à publicação de anúncios digitais móveis DOOH. Além disso, participei do desenvolvimento de canais de vendas, inteligência de negócios, agendamento online.
+### ImmoNex
 
-    Atuo como empreendedor, co-fundador e CTO, desempenhando principalmente a função de engenheiro de software. Minhas responsabilidades incluíam análise, desenvolvimento, teste, manutenção e documentação de software. Também fui encarregado da infraestrutura de serviços, construção de APIs REST para integração e microaplicações, automação de processos de venda por meio de chatbots e desenvolvimento de um marketplace para a venda de produtos e serviços. Além disso, liderei a criação de diversos portais, como o portal do parceiro, área de clientes, portal administrativo e portal para afiliados. Também tive a oportunidade de prototipar e construir hardwares e produtos.
+### qHoras
 
-    Durante esse período, concentrei-me na melhoria contínua da usabilidade do sistema, por meio de um monitoramento contínuo do uso pelos usuários, prevenção de bugs e monitoramento de desempenho por meio de logs. Essa experiência tem sido um grande desafio e oportunidade de aprendizado constante, onde tenho aprimorado minhas habilidades técnicas e pessoais.
+### Zafie
 
-    Minha atuação na Realm ocorre em Juazeiro do Norte - CE desde 2020 até o presente momento.
+### Prime Flight
 
-    > Competências: Natural Language Processing, Python, PHP, JavaScritp, MySQL, TinyDB, Codeigniter, Ratchet, Socket.IO, Clarity, Sentry, FastAPI, Flask, Docker, AWS (Serveless, Container Registry, Lambda, API Gateway, S3 Bucket), Bootstrap, HTML, CSS, Linux, Windows.
+### CoWatch
 
-* Durante minha passagem pelo time de TechFin no produto de crédito da [NoVerde](https://noverde.com.br/)/[Dotz](https://www.dotz.com.br/home), concentrei meus esforços no sistema de pagamento de empréstimos. Essa experiência proporcionou-me a oportunidade de trabalhar com diversas tecnologias e pessoas incríveis, além de me inserir no universo fascinante do mundo financeiro. No papel de desenvolvedor backend Python, fui responsável pelo desenvolvimento de novos recursos para APIs existentes, realização de testes (unitários e de integração) e migração de um legado em Ruby para tecnologias mais recentes, como Python, Lamda Cron, AirFlow e sistemas de monitoramento ELK. Além disso, desempenhei um papel ativo na resolução de problemas operacionais do dia a dia. Atuei nessa função de janeiro de 2023 a maio de 2023.
+### Realm 
 
-    > Competências: Microserviços Python, Postgres, SQL, Swagger, AWS (Lambda, SQS, Cloud Watch, Serveless,  S3 Bucket), Sentry, ELK, AirFlow, Ruby, Linux.
+Trabalho na [Realm](https://realm.com.br/), uma startup de tecnologia focada no desenvolvimento de soluções inovadoras. Na empresa, tive a oportunidade de criar o produto revolucionário chamado BagLed, destinado à publicação de anúncios digitais móveis DOOH. Além disso, participei do desenvolvimento de canais de vendas, inteligência de negócios, agendamento online.
 
-* Durante minha experiência na [NeuralMind](https://neuralmind.ai/), uma startup focada em pesquisa e inovação em inteligência artificial, tive a oportunidade de trabalhar em um projeto de grande relevância. No âmbito desse projeto, desenvolvemos e mantivemos um sistema de busca avançado baseado em modelos de processamento de linguagem natural de última geração. Esse sistema, conhecido como [NeuralSearchX](https://nsx.ai/), é capaz de realizar pesquisas em bases de dados em questão de segundos, entregando resultados precisos. Além disso, possui a capacidade de responder perguntas de alta complexidade.
+Atuo como empreendedor, co-fundador e CTO, desempenhando principalmente a função de engenheiro de software. Minhas responsabilidades incluíam análise, desenvolvimento, teste, manutenção e documentação de software. Também fui encarregado da infraestrutura de serviços, construção de APIs REST para integração e microaplicações, automação de processos de venda por meio de chatbots e desenvolvimento de um marketplace para a venda de produtos e serviços. Além disso, liderei a criação de diversos portais, como o portal do parceiro, área de clientes, portal administrativo e portal para afiliados. Também tive a oportunidade de prototipar e construir hardwares e produtos.
 
-    Neesse período de maio de 2022 a novembro de 2022, estive envolvido em atividades de pesquisa financiadas pela [FACEPE](#), bem como no desenvolvimento e aprimoramento contínuo do sistema NeuralSearchX. Foi uma oportunidade enriquecedora, na qual pude aplicar meus conhecimentos em inteligência artificial e contribuir para soluções efetivas e eficientes no mercado.
+Durante esse período, concentrei-me na melhoria contínua da usabilidade do sistema, por meio de um monitoramento contínuo do uso pelos usuários, prevenção de bugs e monitoramento de desempenho por meio de logs. Essa experiência tem sido um grande desafio e oportunidade de aprendizado constante, onde tenho aprimorado minhas habilidades técnicas e pessoais.
 
-    > Competências: Natural Language Processing, Machine Learning, Transformers, Text Extractor, Data deduplication, OpenIA GPT-3, Python, PLN, FastAPI, AWS(S3), Azure (VM, Bucket), Docker, SQLAlchemy, Textract, Linux.
+Minha atuação na Realm ocorre em Juazeiro do Norte - CE desde 2020 até o presente momento.
 
-* Trabalhei como professor de robótica educacional no [Colégio Nossa Senhora de Fátima](https://cnsfce.com.br/), localizado em Barbalha, CE. Durante minha atuação nessa instituição, meu foco principal foi ministrar aulas de robótica para alunos do Ensino Fundamental I e II e do Ensino Médio. Além disso, tive a oportunidade de treinar equipes para participar de diversos campeonatos de robótica, como a [Olimpíada Brasileira de Robótica - OBR](http://www.obr.org.br/), a [Olimpíada Brasileira de Satélite - OBSat](https://obsat.org.br/), o [Torneio Juvenil de Robótica - TJR](https://torneiojrobotica.org/), o [Torneio Brasileiro de Robótica - TBR](https://www.torneiobrasilderobotica.com.br/) e outras competições.
+> Competências: Natural Language Processing, Python, PHP, JavaScritp, MySQL, TinyDB, Codeigniter, Ratchet, Socket.IO, Clarity, Sentry, FastAPI, Flask, Docker, AWS (Serveless, Container Registry, Lambda, API Gateway, S3 Bucket), Bootstrap, HTML, CSS, Linux, Windows.
 
-    Durante esses anos de trabalho, tive a satisfação de conquistar premiações e destaque junto aos meus alunos. No entanto, um dos maiores aprendizados que obtive não foi apenas ensinar, mas também aprender a lidar com as derrotas. Mesmo após longas noites de preparação, aprendi a não desmotivar e a transmitir essa resiliência aos meus alunos, para que eles não se sentissem desanimados e continuassem com sede de conhecimento. Período de atuação: 2019-2022.
+### NoVerde/Dotz
 
-    > Competências: Professor, treinador, Arduino, LEGO, C/C++, Python, Linux, Windows.
+Durante minha passagem pelo time de TechFin no produto de crédito da [NoVerde](https://noverde.com.br/)/[Dotz](https://www.dotz.com.br/home), concentrei meus esforços no sistema de pagamento de empréstimos. Essa experiência proporcionou-me a oportunidade de trabalhar com diversas tecnologias e pessoas incríveis, além de me inserir no universo fascinante do mundo financeiro. No papel de desenvolvedor backend Python, fui responsável pelo desenvolvimento de novos recursos para APIs existentes, realização de testes (unitários e de integração) e migração de um legado em Ruby para tecnologias mais recentes, como Python, Lamda Cron, AirFlow e sistemas de monitoramento ELK. Além disso, desempenhei um papel ativo na resolução de problemas operacionais do dia a dia. Atuei nessa função de janeiro de 2023 a maio de 2023.
 
-* Trabalhei como professor de informática, programação e robótica educacional no [Colégio Objetivo](https://objetivojuazeiro.com.br/), localizado em Juazeiro do Norte, CE. Durante minha atuação nessa instituição, ministrei aulas para alunos da Educação Infantil, Ensino Fundamental I e II e Ensino Médio, abordando temas como informática educacional, raciocínio lógico e lógica de programação.
+> Competências: Microserviços Python, Postgres, SQL, Swagger, AWS (Lambda, SQS, Cloud Watch, Serveless,  S3 Bucket), Sentry, ELK, AirFlow, Ruby, Linux.
 
-    Além das atividades de docência, também participei ativamente da organização de torneios de robótica, orientação de projetos para feiras de ciências e treinamento de alunos para maratonas de programação, como o [OCI](https://oci.org.br/) (Olimpíada Cearense de Informática), a [OBI](https://olimpiada.ic.unicamp.br/) (Olimpíada Brasileira de Informática) e o torneio de robótica [Robots](https://www.robots.objetivojuazeiro.com.br/).
+### NeuralMind
 
-    Durante os anos de 2016 à 2017 e 2019 à 2021, tive a oportunidade de contribuir para o desenvolvimento dos alunos nessa área, proporcionando-lhes habilidades e conhecimentos necessários para o mundo digital em constante evolução.
+Durante minha experiência na [NeuralMind](https://neuralmind.ai/), uma startup focada em pesquisa e inovação em inteligência artificial, tive a oportunidade de trabalhar em um projeto de grande relevância. No âmbito desse projeto, desenvolvemos e mantivemos um sistema de busca avançado baseado em modelos de processamento de linguagem natural de última geração. Esse sistema, conhecido como [NeuralSearchX](https://nsx.ai/), é capaz de realizar pesquisas em bases de dados em questão de segundos, entregando resultados precisos. Além disso, possui a capacidade de responder perguntas de alta complexidade.
 
-    > Competências: Professor, treinador, Arduino, LEGO, C/C++, Python, Java, Javascript, NodeJS, PHP, Wordpress, HTML, CSS, Linux, Windows.
+Neesse período de maio de 2022 a novembro de 2022, estive envolvido em atividades de pesquisa financiadas pela [FACEPE](#), bem como no desenvolvimento e aprimoramento contínuo do sistema NeuralSearchX. Foi uma oportunidade enriquecedora, na qual pude aplicar meus conhecimentos em inteligência artificial e contribuir para soluções efetivas e eficientes no mercado.
 
-* Trabalhei na [CreateLab](#), uma startup voltada para educação tecnológica, como co-fundador. A empresa tinha como foco o desenvolvimento de material didático para o ensino de robótica educacional destinado a crianças e adolescentes, além de oferecer capacitação para professores nessa área.
+> Competências: Natural Language Processing, Machine Learning, Transformers, Text Extractor, Data deduplication, OpenIA GPT-3, Python, PLN, FastAPI, AWS(S3), Azure (VM, Bucket), Docker, SQLAlchemy, Textract, Linux.
 
-    Minha contribuição na CreateLab incluiu a elaboração de material didático para o ensino de robótica educacional e também atuei como instrutor de professores. Além disso, fui responsável pelo desenvolvimento de toda a parte tecnológica relacionada à distribuição digital do material didático para escolas, alunos e professores, incluindo a área de compra de materiais e kits de robótica.
+### Colégio Nossa Senhora de Fátima
 
-    Durante o ano de 2019, tive a oportunidade de fazer parte dessa equipe e contribuir para o avanço da educação tecnológica, oferecendo recursos e conhecimentos valiosos para estudantes e professores interessados em robótica educacional.
+Trabalhei como professor de robótica educacional no [Colégio Nossa Senhora de Fátima](https://cnsfce.com.br/), localizado em Barbalha, CE. Durante minha atuação nessa instituição, meu foco principal foi ministrar aulas de robótica para alunos do Ensino Fundamental I e II e do Ensino Médio. Além disso, tive a oportunidade de treinar equipes para participar de diversos campeonatos de robótica, como a [Olimpíada Brasileira de Robótica - OBR](http://www.obr.org.br/), a [Olimpíada Brasileira de Satélite - OBSat](https://obsat.org.br/), o [Torneio Juvenil de Robótica - TJR](https://torneiojrobotica.org/), o [Torneio Brasileiro de Robótica - TBR](https://www.torneiobrasilderobotica.com.br/) e outras competições.
 
-    > Competências: Professor, instrutor, Arduino, LEGO, C/C++, PHP, Javascript, NodeJS, PHP, Wordpress, HTML, CSS, Linux, Windows.
+Durante esses anos de trabalho, tive a satisfação de conquistar premiações e destaque junto aos meus alunos. No entanto, um dos maiores aprendizados que obtive não foi apenas ensinar, mas também aprender a lidar com as derrotas. Mesmo após longas noites de preparação, aprendi a não desmotivar e a transmitir essa resiliência aos meus alunos, para que eles não se sentissem desanimados e continuassem com sede de conhecimento. Período de atuação: 2019-2022.
 
-* Trabalhei na empresa [Cronos Cariri](https://dev.cronoscariri.com.br/), onde tenho desempenhado atividades de desenvolvimento de software. Nessa função, tenho adquirido conhecimentos e experiência no uso de leitores RFID da [Impinj](https://www.impinj.com/), com foco em performance. Um dos projetos que desenvolvi foi a criação de um coletor de TAGs, utilizado em corridas de rua, incluindo corridas de motobike e outras modalidades esportivas, com o objetivo de registrar o tempo dos corredores.
+> Competências: Professor, treinador, Arduino, LEGO, C/C++, Python, Linux, Windows.
 
-    Durante os anos de 2019 e 2020, tive a oportunidade de aplicar meus conhecimentos no desenvolvimento desse projeto e contribuir para aprimorar o monitoramento e controle de tempo nas corridas. Através do uso do leitor RFID da Impinj e do coletor de TAGs que construí, foi possível obter resultados mais precisos e eficientes, proporcionando uma experiência aprimorada para os corredores e organizadores de eventos esportivos.
+### Colégio Objetivo
 
-    > Competências: Python, Java, MongoDB, Websocket, Tags RFID, Linux, Windows.
+Trabalhei como professor de informática, programação e robótica educacional no [Colégio Objetivo](https://objetivojuazeiro.com.br/), localizado em Juazeiro do Norte, CE. Durante minha atuação nessa instituição, ministrei aulas para alunos da Educação Infantil, Ensino Fundamental I e II e Ensino Médio, abordando temas como informática educacional, raciocínio lógico e lógica de programação.
 
-* Durante minha graduação no Centro Universitário Leão Sampaio (UniLeão), tive a oportunidade de ser monitor da disciplina de Introdução ao Algoritmo. Como monitor, desempenhei um papel ativo no ambiente de sala de aula, auxiliando os alunos em diversas atividades, como ministrar aulas, revisar conteúdos, tirar dúvidas e resolver exercícios.
+Além das atividades de docência, também participei ativamente da organização de torneios de robótica, orientação de projetos para feiras de ciências e treinamento de alunos para maratonas de programação, como o [OCI](https://oci.org.br/) (Olimpíada Cearense de Informática), a [OBI](https://olimpiada.ic.unicamp.br/) (Olimpíada Brasileira de Informática) e o torneio de robótica [Robots](https://www.robots.objetivojuazeiro.com.br/).
 
-    Através da monitoria, pude fornecer suporte individualizado aos estudantes, ajudando-os a compreender os conceitos fundamentais da disciplina e aprimorar suas habilidades em algoritmos. Estive presente durante as aulas, colaborando com o professor e proporcionando um ambiente de aprendizado enriquecedor.
+Durante os anos de 2016 à 2017 e 2019 à 2021, tive a oportunidade de contribuir para o desenvolvimento dos alunos nessa área, proporcionando-lhes habilidades e conhecimentos necessários para o mundo digital em constante evolução.
 
-    Fui supervisionado pelos [MSc. Aldeivo Thiago](#) e [MSc. Herlon Cortez](#), cuja orientação e experiência foram essenciais para o desenvolvimento da monitoria. Durante os anos de 2013 a 2014, pude contribuir de forma significativa para o sucesso dos estudantes na disciplina de Introdução ao Algoritmo.
+> Competências: Professor, treinador, Arduino, LEGO, C/C++, Python, Java, Javascript, NodeJS, PHP, Wordpress, HTML, CSS, Linux, Windows.
 
-    A experiência como monitor na UniLeão foi gratificante, permitindo-me aprimorar minhas habilidades de ensino, comunicação e liderança, ao mesmo tempo em que auxiliava os alunos em seu percurso acadêmico.
+### CreateLab
 
-    > Competências: Monitoria, Algorítimos, Java, C/C++.
+Trabalhei na [CreateLab](#), uma startup voltada para educação tecnológica, como co-fundador. A empresa tinha como foco o desenvolvimento de material didático para o ensino de robótica educacional destinado a crianças e adolescentes, além de oferecer capacitação para professores nessa área.
+
+Minha contribuição na CreateLab incluiu a elaboração de material didático para o ensino de robótica educacional e também atuei como instrutor de professores. Além disso, fui responsável pelo desenvolvimento de toda a parte tecnológica relacionada à distribuição digital do material didático para escolas, alunos e professores, incluindo a área de compra de materiais e kits de robótica.
+
+Durante o ano de 2019, tive a oportunidade de fazer parte dessa equipe e contribuir para o avanço da educação tecnológica, oferecendo recursos e conhecimentos valiosos para estudantes e professores interessados em robótica educacional.
+
+> Competências: Professor, instrutor, Arduino, LEGO, C/C++, PHP, Javascript, NodeJS, PHP, Wordpress, HTML, CSS, Linux, Windows.
+
+### Cronos Cariri
+
+Trabalhei na empresa [Cronos Cariri](https://dev.cronoscariri.com.br/), onde tenho desempenhado atividades de desenvolvimento de software. Nessa função, tenho adquirido conhecimentos e experiência no uso de leitores RFID da [Impinj](https://www.impinj.com/), com foco em performance. Um dos projetos que desenvolvi foi a criação de um coletor de TAGs, utilizado em corridas de rua, incluindo corridas de motobike e outras modalidades esportivas, com o objetivo de registrar o tempo dos corredores.
+
+Durante os anos de 2019 e 2020, tive a oportunidade de aplicar meus conhecimentos no desenvolvimento desse projeto e contribuir para aprimorar o monitoramento e controle de tempo nas corridas. Através do uso do leitor RFID da Impinj e do coletor de TAGs que construí, foi possível obter resultados mais precisos e eficientes, proporcionando uma experiência aprimorada para os corredores e organizadores de eventos esportivos.
+
+> Competências: Python, Java, MongoDB, Websocket, Tags RFID, Angular, JavaScript, NodeJS, Linux, Windows.
+
+### UniLeão
+
+Durante minha graduação no Centro Universitário Leão Sampaio (UniLeão), tive a oportunidade de ser monitor da disciplina de Introdução ao Algoritmo. Como monitor, desempenhei um papel ativo no ambiente de sala de aula, auxiliando os alunos em diversas atividades, como ministrar aulas, revisar conteúdos, tirar dúvidas e resolver exercícios.
+
+Através da monitoria, pude fornecer suporte individualizado aos estudantes, ajudando-os a compreender os conceitos fundamentais da disciplina e aprimorar suas habilidades em algoritmos. Estive presente durante as aulas, colaborando com o professor e proporcionando um ambiente de aprendizado enriquecedor.
+
+Fui supervisionado pelos [MSc. Aldeivo Thiago](#) e [MSc. Herlon Cortez](#), cuja orientação e experiência foram essenciais para o desenvolvimento da monitoria. Durante os anos de 2013 a 2014, pude contribuir de forma significativa para o sucesso dos estudantes na disciplina de Introdução ao Algoritmo.
+
+A experiência como monitor na UniLeão foi gratificante, permitindo-me aprimorar minhas habilidades de ensino, comunicação e liderança, ao mesmo tempo em que auxiliava os alunos em seu percurso acadêmico.
+
+> Competências: Monitoria, Algorítimos, Java, C/C++.
 
 ## Organização
 
