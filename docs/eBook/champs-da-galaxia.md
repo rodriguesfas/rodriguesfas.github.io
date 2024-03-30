@@ -1,6 +1,6 @@
 ---
 id: champs-da-galaxia
-title: Sumário
+title: Champs da Galáxia - Introdução ao Desenvolvimento de Jogos com Java
 ---
 
 ## Introdução ao desenvolvimento de jogos com java
