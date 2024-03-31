@@ -1,7 +1,7 @@
 ---
 id: 10
 title: Atlas Terapêutico - Um Repositório Multicondicional de Atividades Adaptadas 
-tags: [Atlas, Terapêutico, Repositório, Atividades, Adaptadas]
+tags: [Atlas, Terapêutico, Repositório, Atividades, Adaptadas, LLM]
 ---
 
 

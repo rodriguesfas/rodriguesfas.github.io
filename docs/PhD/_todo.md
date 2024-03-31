@@ -7,6 +7,3 @@
 - Entender os operantes verbais.
 
 - Math 2 sample 
-
-- Geração Automática de Atividades. (LLM)
-- Geração de Relatório Explicado.   (LLM)
