@@ -1,5 +1,5 @@
 ---
-id: bem-vindo
+id: welcome
 title: Bem vindo!
 sidebar_label: Bem vindo!
 slug: /
