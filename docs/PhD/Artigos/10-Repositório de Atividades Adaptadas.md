@@ -1,7 +1,7 @@
 ---
 id: 10
 title: Atlas Terapêutico - Um Repositório Multicondicional de Atividades Adaptadas 
-tags: []
+tags: [Atlas, Terapêutico, Repositório, Atividades, Adaptadas]
 ---
 
 
@@ -79,7 +79,7 @@ Ao seguir essas etapas, você poderá construir um Repositório de Atividades Ad
             "description": "Treino de leitura, através da discriminação visual e auditiva de palavras compostas por encontros vocálicos.",
             "objectives": "Desenvolver a habilidade de leitura por meio da discriminação visual e auditiva de palavras compostas por encontros vocálicos.",
             "difficulty_level": 1,
-            "ages": [4, 5],
+            "ages": ["5a2d614d-50bb-4d0e-972b-5a028956ca85", "03d3b70b-4685-4cf1-9e8a-fb2bb1ccae51"],
             "cover_image": "",
             "shuffle_cards": true,
             "shuffle_enunciation": false,
@@ -144,6 +144,124 @@ Ao seguir essas etapas, você poderá construir um Repositório de Atividades Ad
                     "answer": "UI",
                     "answer_audio": "",
                     "answer_image": ""
+                }
+            ]
+        },
+        {
+            "uuid": "f0c845d4-6aa5-42bb-8848-5fbb7261f4e2",
+            "title": "Reconhecimento de Cores e Formas",
+            "subtitle": "Identificando Cores e Formas",
+            "description": "Esta atividade visa desenvolver a habilidade de reconhecimento de cores e formas através de atividades interativas e lúdicas.",
+            "objectives": "Desenvolver a capacidade de identificar e nomear diferentes cores e formas geométricas.",
+            "difficulty_level": 2,
+            "ages": [3, 4],
+            "cover_image": "",
+            "shuffle_cards": true,
+            "shuffle_enunciation": false,
+            "visual_effect_chosen_card": true,
+            "remove_card_after_chosen": true,
+            "play_error_sound": true,
+            "categories": [2],
+            "tags": ["Cores", "Formas", "Reconhecimento", "Interativo"],
+            "questions": [
+                {
+                    "enunciation": "Qual é a cor do círculo vermelho?",
+                    "enunciation_audio": "",
+                    "visual_track": "",
+                    "answer": "Vermelho",
+                    "answer_audio": "",
+                    "answer_image": ""
+                },
+                {
+                    "enunciation": "Encontre o triângulo amarelo.",
+                    "enunciation_audio": "",
+                    "visual_track": "",
+                    "answer": "Amarelo",
+                    "answer_audio": "",
+                    "answer_image": ""
+                },
+                {
+                    "enunciation": "Identifique a cor do quadrado azul.",
+                    "enunciation_audio": "",
+                    "visual_track": "",
+                    "answer": "Azul",
+                    "answer_audio": "",
+                    "answer_image": ""
+                },
+                {
+                    "enunciation": "Qual é a forma do círculo?",
+                    "enunciation_audio": "",
+                    "visual_track": "",
+                    "answer": "Círculo",
+                    "answer_audio": "",
+                    "answer_image": ""
+                },
+                {
+                    "enunciation": "Encontre o retângulo verde.",
+                    "enunciation_audio": "",
+                    "visual_track": "",
+                    "answer": "Verde",
+                    "answer_audio": "",
+                    "answer_image": ""
+                },
+                {
+                    "enunciation": "Identifique a forma do triângulo.",
+                    "enunciation_audio": "",
+                    "visual_track": "",
+                    "answer": "Triângulo",
+                    "answer_audio": "",
+                    "answer_image": ""
+                }
+            ]
+        },
+        {
+            "uuid": "5f9c4e7c-5cf0-4d57-8ad5-2dd71ac2433a",
+            "title": "Atividade de Contagem de Objetos",
+            "subtitle": "Contando e Identificando Quantidades",
+            "description": "Esta atividade tem como objetivo desenvolver a habilidade de contar objetos e identificar quantidades através de uma abordagem prática e visualmente estimulante.",
+            "objectives": "Desenvolver a capacidade de contar objetos de maneira precisa e identificar quantidades em contextos diversos.",
+            "difficulty_level": 2,
+            "ages": [4, 5],
+            "cover_image": "",
+            "shuffle_cards": true,
+            "shuffle_enunciation": false,
+            "visual_effect_chosen_card": true,
+            "remove_card_after_chosen": true,
+            "play_error_sound": true,
+            "categories": ["905c0e7d-98c4-4388-b674-5d7a9db5a74c"],
+            "tags": ["Contagem", "Quantidades", "Identificação", "Prática", "Estimulante"],
+            "questions": [
+                {
+                    "enunciation": "Quantos patos estão na imagem?",
+                    "enunciation_audio": "",
+                    "visual_track": "",
+                    "answer": "3",
+                    "answer_audio": "",
+                    "answer_image": "url_da_imagem_dos_patos"
+                },
+                {
+                    "enunciation": "Conte quantas borboletas você vê.",
+                    "enunciation_audio": "",
+                    "visual_track": "",
+                    "answer": "5",
+                    "answer_audio": "",
+                    "answer_image": "url_da_imagem_das_borboletas"
+                },
+                {
+                    "enunciation": "Quantos lápis estão na caixa?",
+                    "enunciation_audio": "",
+                    "visual_track": "",
+                    "answer": "6",
+                    "answer_audio": "",
+                    "answer_image": "url_da_imagem_dos_lapis"
+                },
+                {
+                    "enunciation": "Conte quantos balões estão voando.",
+                    "enunciation_audio": "",
+                    "visual_track": "",
+                    "answer": "4",
+                    "answer_audio": "",
+                    "answer_image": "url_da_imagem_dos_baloes"
                 }
             ]
         }
