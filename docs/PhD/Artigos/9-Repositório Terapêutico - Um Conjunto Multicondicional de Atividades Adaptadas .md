@@ -1,7 +1,7 @@
 ---
 id: 10
-title: Atlas Terapêutico - Um Repositório Multicondicional de Atividades Adaptadas 
-tags: [Atlas, Terapêutico, Repositório, Atividades, Adaptadas, LLM]
+title: Repositório Terapêutico - Um Conjunto Multicondicional de Atividades Adaptadas 
+tags: [Repositório Terapêutico, Multicondicional, Atividades Adaptadas, LLM]
 ---
 
 
@@ -25,6 +25,11 @@ Algumas etapas que devem ser consideradas para construir esse Repositório de At
 7. **Atualização e Manutenção Contínua**: Mantenha o Repositório de Atividades Adaptadas atualizado com novas atividades, revisões e melhorias com base no feedback dos usuários e nos avanços na pesquisa e prática clínica.
 
 Ao seguir essas etapas, você poderá construir um Repositório de Atividades Adaptadas abrangente e eficaz, que servirá como uma base sólida para desenvolver uma plataforma mais ampla para terapias em várias condições e necessidades de desenvolvimento.
+
+## Repositórios de Atividades
+
+- [Boardmaker Logo](https://www.myboardmaker.com/Login.aspx)
+- [Expressia Central de Atividades Adaptadas](https://expressia.life/central/)
 
 
 ## Schema de Dados

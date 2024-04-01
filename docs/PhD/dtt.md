@@ -31,8 +31,14 @@ Comparativamente, em um grupo de 40 crianças, somente 2% do grupo controle (aqu
 
 Esta tabela mostra um resumo dos dados de seguimento de 19 crianças que receberam intervenção intensiva ABA desenvolvida por Lovaas versus dados de seguimento de 40 crianças de um grupo controle que não receberam a intervenção ABA desenvolvida por Lovaas. Behavioral treatment and normal and intellectual functioning in young autistic children. Ivar O. Lovaas, Journal of Consulting and Clinical Psychology, 1987, v. 55, n.1, p. 3-9
 
+## Planilha de Registro DTT
+
+https://www.youtube.com/watch?v=QT7wBi3HMq8
+
 ## Referêcias
 
 Copiado exatamente como está do livro: 
 
 - [AJUDE-NOS A APRENDER – MANUAL DE TREINAMENTO EM ABA ]([htps://](http://www.recife.pe.gov.br/efaerpaulofreire/sites/default/files/arquivos/noticias/AADEE%20-%2020-JUL%20%20-%20TEA%20-%20APOSTILA%20-%20ABA.pdf))
+
+- [Planilha de Registro DTT](https://www.youtube.com/watch?v=QT7wBi3HMq8)

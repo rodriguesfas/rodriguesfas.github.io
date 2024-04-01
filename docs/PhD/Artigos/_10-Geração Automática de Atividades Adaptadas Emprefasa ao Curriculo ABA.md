@@ -1,7 +1,7 @@
 ---
 id: 09
-title: Geração Automática de Atividades Adaptadas Emprefasa ao Curriculo ABA
-tags: []
+title: Geração Automática de Atividades Adaptadas Emprefasa ao Curriculo ABA com LLM
+tags: [Geração Automática, Atividades Adaptadas, Curriculo ABA, LLM]
 ---
 
 Para desenvolver uma plataforma para atividades adaptadas com análise de resultados que emprega a abordagem da Análise do Comportamento Aplicada (ABA) e incorporar a geração automática de atividades, você pode seguir algumas etapas:

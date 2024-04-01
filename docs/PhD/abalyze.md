@@ -3,6 +3,12 @@ id: abalyze
 title: ABALyze
 ---
 
+## Problemática
+
+Semanalmente, os indivíduos que participam de terapia ABA devem dedicar de 20 a 40 horas a sessões de treinamento. No entanto, esse compromisso pode representar um ônus financeiro significativo para muitas famílias, dada a natureza dispendiosa da mão de obra especializada envolvida. Além disso, a escassez de profissionais qualificados muitas vezes dificulta ainda mais o acesso a esses serviços.
+
+Diante desse panorama, é se faz necessário desenvolver uma solução tecnológica que possa elaborar um currículo personalizado para cada indivíduo, propondo atividades adequadas, registrando o progresso em tempo real e apresentando informações de forma clara e intuitiva por meio de gráficos e relatórios. Esse sistema permitiria a qualquer pessoa (terapeltas e/ou familiares) acompanhar a evolução do paciente, identificar áreas de dificuldade e monitorar o progresso alcançado, garantindo um acompanhamento embasado em dados concretos.
+
 ## Porque ABALyze?
 
 O nome "ABAlyze" é uma combinação de "ABA" (Análise do Comportamento Aplicada) e "Analyze" (Analisar, em inglês), transmitindo a ideia de análise baseada nos princípios da ABA. Aqui estão algumas razões pelas quais esse nome pode ser adequado:
