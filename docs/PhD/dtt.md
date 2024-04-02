@@ -35,6 +35,10 @@ Esta tabela mostra um resumo dos dados de seguimento de 19 crianças que receber
 
 https://www.youtube.com/watch?v=QT7wBi3HMq8
 
+## Aplicação Pŕatica
+
+- [Aplicação ABA na prática e registro - Programa Identificação de Animais | Por Regina Bérgamo](https://www.youtube.com/watch?v=uv9JcH1MtxA)
+
 ## Referêcias
 
 Copiado exatamente como está do livro: 
