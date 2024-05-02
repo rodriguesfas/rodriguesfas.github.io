@@ -55,16 +55,6 @@ Esses campos despertam minha curiosidade e entusiasmo, e estou constantemente bu
 
 ## Experiência Profissionais
 
-### ImmoNex
-
-### qHoras
-
-### Zafie
-
-### Prime Flight
-
-### CoWatch
-
 ### Realm 
 
 Trabalho na [Realm](https://realm.com.br/), uma startup de tecnologia focada no desenvolvimento de soluções inovadoras. Na empresa, tive a oportunidade de criar o produto revolucionário chamado BagLed, destinado à publicação de anúncios digitais móveis DOOH. Além disso, participei do desenvolvimento de canais de vendas, inteligência de negócios, agendamento online.
