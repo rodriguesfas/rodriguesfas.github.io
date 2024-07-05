@@ -152,7 +152,7 @@ Durante o ano de 2019, tive a oportunidade de fazer parte dessa equipe e contrib
 
 > Competências: Professor, instrutor, Arduino, LEGO, C/C++, PHP, Javascript, NodeJS, PHP, Wordpress, HTML, CSS, Linux, Windows.
 
-Essas são algumas para citar, entretanto estive e estou envouvido emdesenvolviemnto de diveras startups no ramos publicidade, saúde, imóveis, food, segurança da informação, educação, aviação, entre outros.
+Essas são algumas para citar, entretanto estive e estou envolvido em desenvolvimento de diversas startups no ramos publicidade, saúde, imóveis, food, segurança da informação, educação, aviação, entre outros.
 
 [Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Yaakov](https://yaakov.com.br/), [CoWatch](https://cowatch.com.br).
 
@@ -178,7 +178,7 @@ Essas são algumas para citar, entretanto estive e estou envouvido emdesenvolvie
 
 [DeepNLPF](https://deepnlpf.github.io/site/) Um framework para integrar análise linguística e anotação semântica de documentos de texto. Universidade Federal de Pernambuco (UFPE), Centro de Informática (CIn). Financiamento: CAPES. Orientador PhD. [Robson Fidalgo] e Coorientador Rinaldo Lima.
 
-Ver portfólio completo em [Protifólio](https://rodriguesfas.github.io/docs/portfolio)
+Ver portfólio completo em [portfólio](https://rodriguesfas.github.io/docs/portfolio)
 
 ## Orientação de Projetos
 
