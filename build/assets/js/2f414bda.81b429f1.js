@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrodriguesfas_github_io=self.webpackChunkrodriguesfas_github_io||[]).push([[8229],{1714:a=>{a.exports=JSON.parse('{"label":"unileao","permalink":"/blog/tags/unileao","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,49 @@
+{
+  "permalink": "/fr/blog/flisol",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2014-04-26-flisol.md",
+  "source": "@site/blog/2014-04-26-flisol.md",
+  "title": "FLISOL",
+  "description": "Na FLISOL - Festival Latino-Americano De Instalação De Software Livre, que acontecerá no SEST/SENAT Crato – CE, no dia 26/04/2014, estarei ministrando uma palestra sobre Ubuntu - O Começo Para o Mundo Livre.",
+  "date": "2014-04-26T00:00:00.000Z",
+  "formattedDate": "26 avril 2014",
+  "tags": [
+    {
+      "label": "flisol",
+      "permalink": "/fr/blog/tags/flisol"
+    },
+    {
+      "label": "2014",
+      "permalink": "/fr/blog/tags/2014"
+    }
+  ],
+  "readingTime": 0.165,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "RodriguesFAS",
+      "title": "Docusaurus Core Team",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png",
+      "imageURL": "https://github.com/wgao19.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "flisol",
+    "title": "FLISOL",
+    "authors": {
+      "name": "RodriguesFAS",
+      "title": "Docusaurus Core Team",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png",
+      "imageURL": "https://github.com/wgao19.png"
+    },
+    "tags": [
+      "flisol",
+      "2014"
+    ]
+  },
+  "prevItem": {
+    "title": "SEPROTEC – Semana Profissional Tecnologia",
+    "permalink": "/fr/blog/seprotec"
+  }
+}

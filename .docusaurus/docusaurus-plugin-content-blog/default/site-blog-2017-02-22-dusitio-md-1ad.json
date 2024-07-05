@@ -1,0 +1,63 @@
+{
+  "permalink": "/fr/blog/dusitio",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2017-02-22-dusitio.md",
+  "source": "@site/blog/2017-02-22-dusitio.md",
+  "title": "DuSitio",
+  "description": "Evento de Lançamento do App DuSitio",
+  "date": "2017-02-22T00:00:00.000Z",
+  "formattedDate": "22 février 2017",
+  "tags": [
+    {
+      "label": "dusitio",
+      "permalink": "/fr/blog/tags/dusitio"
+    },
+    {
+      "label": "2017",
+      "permalink": "/fr/blog/tags/2017"
+    },
+    {
+      "label": "enactus",
+      "permalink": "/fr/blog/tags/enactus"
+    },
+    {
+      "label": "unileao",
+      "permalink": "/fr/blog/tags/unileao"
+    }
+  ],
+  "readingTime": 0.195,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "RodriguesFAS",
+      "title": "Docusaurus Core Team",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png",
+      "imageURL": "https://github.com/wgao19.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "dusitio",
+    "title": "DuSitio",
+    "authors": {
+      "name": "RodriguesFAS",
+      "title": "Docusaurus Core Team",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png",
+      "imageURL": "https://github.com/wgao19.png"
+    },
+    "tags": [
+      "dusitio",
+      "2017",
+      "enactus",
+      "unileao"
+    ]
+  },
+  "prevItem": {
+    "title": "III Robots",
+    "permalink": "/fr/blog/iiirobots"
+  },
+  "nextItem": {
+    "title": "Momento Inspiração - CEBRAC",
+    "permalink": "/fr/blog/cebrac"
+  }
+}

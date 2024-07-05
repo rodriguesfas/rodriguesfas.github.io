@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Robótica/6ano/sumario",
+  "id": "Robótica/6ano/sumario",
+  "title": "Sumário",
+  "description": "- Apresentação",
+  "source": "@site/docs/Robótica/6ano/sumario.md",
+  "sourceDirName": "Robótica/6ano",
+  "slug": "/Robótica/6ano/sumario",
+  "permalink": "/fr/docs/Robótica/6ano/sumario",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Robótica/6ano/sumario.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sumario",
+    "title": "Sumário"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bem vindo!",
+    "permalink": "/fr/docs/Programação/sumario"
+  },
+  "next": {
+    "title": "Sumário",
+    "permalink": "/fr/docs/Robótica/7ano/sumario"
+  }
+}

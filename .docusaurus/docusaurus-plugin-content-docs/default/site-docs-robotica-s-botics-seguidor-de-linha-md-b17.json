@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Robótica/sBotics/seguidor-de-linha",
+  "id": "Robótica/sBotics/seguidor-de-linha",
+  "title": "Seguidor de Linha",
+  "description": "Segue linha para frente.",
+  "source": "@site/docs/Robótica/sBotics/seguidor-de-linha.md",
+  "sourceDirName": "Robótica/sBotics",
+  "slug": "/Robótica/sBotics/seguidor-de-linha",
+  "permalink": "/fr/docs/Robótica/sBotics/seguidor-de-linha",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Robótica/sBotics/seguidor-de-linha.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "seguidor-de-linha",
+    "title": "Seguidor de Linha"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sumário",
+    "permalink": "/fr/docs/Robótica/Simulator/sumario"
+  },
+  "next": {
+    "title": "sBotics",
+    "permalink": "/fr/docs/Robótica/sBotics/sumario"
+  }
+}

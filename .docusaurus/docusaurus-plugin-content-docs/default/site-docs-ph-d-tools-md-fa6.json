@@ -1,0 +1,27 @@
+{
+  "unversionedId": "PhD/tolls",
+  "id": "PhD/tolls",
+  "title": "Ferramentas de Apedizagem",
+  "description": "Algumas derramentas de aprendizagem.",
+  "source": "@site/docs/PhD/tools.md",
+  "sourceDirName": "PhD",
+  "slug": "/PhD/tolls",
+  "permalink": "/docs/PhD/tolls",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/PhD/tools.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "tolls",
+    "title": "Ferramentas de Apedizagem"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Folhas de Registros",
+    "permalink": "/docs/PhD/record-sheets"
+  },
+  "next": {
+    "title": "VB - Verbal Behavior",
+    "permalink": "/docs/PhD/vb"
+  }
+}

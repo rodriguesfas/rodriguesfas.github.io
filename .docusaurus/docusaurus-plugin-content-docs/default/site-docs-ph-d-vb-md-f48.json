@@ -1,0 +1,27 @@
+{
+  "unversionedId": "PhD/vb",
+  "id": "PhD/vb",
+  "title": "VB - Verbal Behavior",
+  "description": "Comportamento Verbal",
+  "source": "@site/docs/PhD/vb.md",
+  "sourceDirName": "PhD",
+  "slug": "/PhD/vb",
+  "permalink": "/docs/PhD/vb",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/PhD/vb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "vb",
+    "title": "VB - Verbal Behavior"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ferramentas de Apedizagem",
+    "permalink": "/docs/PhD/tolls"
+  },
+  "next": {
+    "title": "Juvelino",
+    "permalink": "/docs/Programa Espacial/foguete"
+  }
+}

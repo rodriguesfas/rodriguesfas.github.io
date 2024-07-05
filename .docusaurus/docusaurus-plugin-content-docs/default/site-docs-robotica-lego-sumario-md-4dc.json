@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Robótica/Lego/sumario",
+  "id": "Robótica/Lego/sumario",
+  "title": "Sumário",
+  "description": "Treinador de Robô",
+  "source": "@site/docs/Robótica/Lego/sumario.md",
+  "sourceDirName": "Robótica/Lego",
+  "slug": "/Robótica/Lego/sumario",
+  "permalink": "/fr/docs/Robótica/Lego/sumario",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Robótica/Lego/sumario.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sumario",
+    "title": "Sumário"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sumário",
+    "permalink": "/fr/docs/Robótica/Ensíno Médio/sumario"
+  },
+  "next": {
+    "title": "Sumário",
+    "permalink": "/fr/docs/Robótica/Print 3D/sumario"
+  }
+}

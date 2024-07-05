@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Bíblia/Devocional/relacionamentos-empatia",
+  "id": "Bíblia/Devocional/relacionamentos-empatia",
+  "title": "Relacionamentos/Empatia",
+  "description": "Introdução",
+  "source": "@site/docs/Bíblia/Devocional/relacionamentos-empatia.md",
+  "sourceDirName": "Bíblia/Devocional",
+  "slug": "/Bíblia/Devocional/relacionamentos-empatia",
+  "permalink": "/fr/docs/Bíblia/Devocional/relacionamentos-empatia",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Bíblia/Devocional/relacionamentos-empatia.md",
+  "tags": [
+    {
+      "label": "Relacionamentos",
+      "permalink": "/fr/docs/tags/relacionamentos"
+    },
+    {
+      "label": "Empatia",
+      "permalink": "/fr/docs/tags/empatia"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "relacionamentos-empatia",
+    "title": "Relacionamentos/Empatia",
+    "authors": {
+      "name": "RodriguesFAS"
+    },
+    "tags": [
+      "Relacionamentos",
+      "Empatia"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meu Relacionamento com Deus",
+    "permalink": "/fr/docs/Bíblia/Devocional/relacionamentos-deus"
+  },
+  "next": {
+    "title": "AA",
+    "permalink": "/fr/docs/Bíblia/Diário/aa"
+  }
+}

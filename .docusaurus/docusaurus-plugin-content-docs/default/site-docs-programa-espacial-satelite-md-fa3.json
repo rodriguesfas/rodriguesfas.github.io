@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Programa Espacial/satelite",
+  "id": "Programa Espacial/satelite",
+  "title": "Severino",
+  "description": "Em breve",
+  "source": "@site/docs/Programa Espacial/satelite.md",
+  "sourceDirName": "Programa Espacial",
+  "slug": "/Programa Espacial/satelite",
+  "permalink": "/fr/docs/Programa Espacial/satelite",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Programa Espacial/satelite.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "satelite",
+    "title": "Severino"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Celestino",
+    "permalink": "/fr/docs/Programa Espacial/programa-espacial"
+  },
+  "next": {
+    "title": "Bem vindo!",
+    "permalink": "/fr/docs/Programação/sumario"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "permalink": "/fr/blog/calug",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2016-03-12-calug.md",
+  "source": "@site/blog/2016-03-12-calug.md",
+  "title": "CALUG",
+  "description": "Neste fim de semana, dia 12 de março de 2016, aconteceu o evento CALUG. Realizado pelo grupo da comunidade Linux e Software Livre do Cariri. Esse evento aconteceu no SEST/SENAT – Crato – Ceará, e conteve diversas palestras fantásticas, dentre elas, uma realizada por mim. Clube dos Geeks.",
+  "date": "2016-03-12T00:00:00.000Z",
+  "formattedDate": "12 mars 2016",
+  "tags": [
+    {
+      "label": "calug",
+      "permalink": "/fr/blog/tags/calug"
+    },
+    {
+      "label": "2016",
+      "permalink": "/fr/blog/tags/2016"
+    }
+  ],
+  "readingTime": 0.285,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "RodriguesFAS",
+      "title": "Docusaurus Core Team",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png",
+      "imageURL": "https://github.com/wgao19.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "calug",
+    "title": "CALUG",
+    "authors": {
+      "name": "RodriguesFAS",
+      "title": "Docusaurus Core Team",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png",
+      "imageURL": "https://github.com/wgao19.png"
+    },
+    "tags": [
+      "calug",
+      "2016"
+    ]
+  },
+  "prevItem": {
+    "title": "IV Robots",
+    "permalink": "/fr/blog/genuinoday"
+  },
+  "nextItem": {
+    "title": "I TEC - Tecnologia e Empreendedorismo Cariri",
+    "permalink": "/fr/blog/i-tec"
+  }
+}

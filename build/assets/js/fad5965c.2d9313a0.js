@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrodriguesfas_github_io=self.webpackChunkrodriguesfas_github_io||[]).push([[7780],{1650:s=>{s.exports=JSON.parse('{"label":"setai","permalink":"/blog/tags/setai","allTagsPath":"/blog/tags","count":1}')}}]);

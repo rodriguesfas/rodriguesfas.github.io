@@ -1,0 +1,14 @@
+{
+  "label": "Overfitting",
+  "permalink": "/en/docs/tags/overfitting",
+  "allTagsPath": "/en/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Machine Leaning/overfitting",
+      "title": "Overfitting",
+      "description": "Overfitting é um fenômeno comum em aprendizado de máquina e modelagem estatística, onde um modelo se ajusta excessivamente aos dados de treinamento, capturando padrões específicos dos dados que não são generalizáveis para novos dados. Em outras palavras, o modelo se adapta muito bem aos dados de treinamento, mas não consegue generalizar corretamente para dados não vistos, levando a um desempenho ruim em conjunto de dados de teste ou em situações do mundo real.",
+      "permalink": "/en/docs/Machine Leaning/overfitting"
+    }
+  ]
+}

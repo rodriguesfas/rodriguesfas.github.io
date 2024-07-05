@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Programação/sumario",
+  "id": "Programação/sumario",
+  "title": "Bem vindo!",
+  "description": "Aqui você encontra materiais sobre programação.",
+  "source": "@site/docs/Programação/sumario.md",
+  "sourceDirName": "Programação",
+  "slug": "/Programação/sumario",
+  "permalink": "/fr/docs/Programação/sumario",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Programação/sumario.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sumario",
+    "title": "Bem vindo!"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Severino",
+    "permalink": "/fr/docs/Programa Espacial/satelite"
+  },
+  "next": {
+    "title": "Sumário",
+    "permalink": "/fr/docs/Robótica/6ano/sumario"
+  }
+}
