@@ -9,7 +9,7 @@ const config = {
   title: "Francisco Rodrigues",
   tagline:
     "Bem-vindo ao meu site pessoal! Aqui você encontrará informações sobre mim e minhas paixões. Permita-me compartilhar um pouco sobre quem eu sou e o que me motiva.",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.ico",
 
   // Set the production url of your site here
   url: "http://rodriguesfas.github.io",
