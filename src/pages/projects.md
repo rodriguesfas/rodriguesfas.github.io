@@ -1,19 +1,27 @@
 ---
-id: portfolio
-title: Portfolio
+id: projects
+title: Projetos
 ---
 
-Aqui estão alguns dos trabalhos que desenvolvi ao longo dos anos...
+# Projetos
+
+![#](https://media.licdn.com/dms/image/D4D12AQHIgHPxuT8wlw/article-cover_image-shrink_720_1280/0/1685473745935?e=2147483647&v=beta&t=-QLIf9wbAoQixbRNmUN0ezhhyBaMBeWW3pUhLJ-4PBw)
+
+Ao longo da minha carreira, tive o privilégio de liderar e participar de diversos projetos inovadores que visam resolver problemas reais e promover avanços significativos em tecnologia. Cada projeto representa uma oportunidade para aplicar conhecimentos teóricos em soluções práticas, desenvolvendo produtos e serviços que impactam positivamente diferentes áreas. Nesta seção, você encontrará uma seleção dos projetos em que estive envolvido, cada um com sua própria história, desafios e conquistas. Explore e conheça as iniciativas que têm moldado minha trajetória profissional e contribuído para o desenvolvimento tecnológico.
 
 ## Websites
 
-[Clube dos Geeks](http://clubedosgeeks.com.br/) blog que fala de noticias de tecnologia e tutorias de desenvolvimento. 
+### [Clube dos Geeks](https://clubedosgeeks.com.br/)
+
+nasceu durante minha graduação em Análise e Desenvolvimento de Software, [com outros 3 amigos](https://clubedosgeeks.com.br/sobre-nos) em 04/12/2013, com o objetivo de compartilhar o conhecimento adquirido ao longo dos meus estudos. O blog se dedica a oferecer notícias atualizadas sobre tecnologia e tutoriais detalhados sobre desenvolvimento. É um espaço para trocar experiências, aprender e se manter informado sobre as últimas tendências e inovações do setor tecnológico.
 
 Stacks: ```Wordpress```, ```PHP```, ```MySQL```, ```HTML```, ```CSS```, ```Javascript``` e ```Bootstrap```.
 
 ---
 
-[Colégio Objetivo Juazeiro](http://objetivojuazeiro.com.br/), site institucional escolar.
+### [Colégio Objetivo Juazeiro](http://objetivojuazeiro.com.br/)
+
+Site institucional do Colégio Objetivo Juazeiro do Norte, desenvolvido com prazer em 2019.
 
 Stacks: ```Wordpress```, ```PHP```, ```MySQL```, ```HTML```, ```CSS```, ```Javascript``` e ```Bootstrap```.
 

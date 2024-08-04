@@ -2,7 +2,6 @@
 id: bem-vindo
 title: Bem vindo!
 sidebar_label: Bem vindo!
-slug: /
 ---
 
 Aqui você encontra-rá ```slides```, ```code``` entre outros.

@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Francisco Rodrigues",
+  title: "Olá! Eu sou Francisco Rodrigues",
   tagline:
-    "Bem-vindo ao meu site pessoal! Aqui você encontrará informações sobre mim e minhas paixões. Permita-me compartilhar um pouco sobre quem eu sou e o que me motiva.",
+    "Bem-vindo ao meu site pessoal! Aqui, você encontrará informações sobre mim e minhas paixões. Permita-me compartilhar um pouco sobre quem sou e o que me motiva.",
   favicon: "img/logo.ico",
 
   // Set the production url of your site here
@@ -31,7 +31,6 @@ const config = {
     defaultLocale: "pt",
     locales: ["pt", "en", "fr"],
   },
-
   presets: [
     [
       "classic",
@@ -57,7 +56,6 @@ const config = {
       }),
     ],
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -71,13 +69,17 @@ const config = {
         },
         items: [
           {
+            to: "/bem-vindo",
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Artigos",
+            label: "Descobertas",
           },
           { to: "/blog", label: "Blog", position: "left" },
-          { to: "/about", label: "Sobre", position: "left" },
+          { to: "/startups", label: "Startups", position: "left" },
+          { to: "/publications", label: "Publicações", position: "left" },
+          { to: "/projects", label: "Projetos", position: "left" },
+          { to: "/cv", label: "CV", position: "left" },
           {
             href: "http://github.com/rodriguesfas",
             label: "GitHub",

@@ -1,7 +1,7 @@
 ---
-id: about
+id: cv
 title: Francisco de Assis de Souza Rodrigues
-tags: []
+tags: [cv]
 ---
 
 # Francisco de Assis de Souza Rodrigues
