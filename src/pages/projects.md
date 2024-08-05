@@ -5,8 +5,6 @@ title: Projetos
 
 # Projetos
 
-![#](https://media.licdn.com/dms/image/D4D12AQHIgHPxuT8wlw/article-cover_image-shrink_720_1280/0/1685473745935?e=2147483647&v=beta&t=-QLIf9wbAoQixbRNmUN0ezhhyBaMBeWW3pUhLJ-4PBw)
-
 Ao longo da minha carreira, tive o privilégio de liderar e participar de diversos projetos inovadores que visam resolver problemas reais e promover avanços significativos em tecnologia. Cada projeto representa uma oportunidade para aplicar conhecimentos teóricos em soluções práticas, desenvolvendo produtos e serviços que impactam positivamente diferentes áreas. Nesta seção, você encontrará uma seleção dos projetos em que estive envolvido, cada um com sua própria história, desafios e conquistas. Explore e conheça as iniciativas que têm moldado minha trajetória profissional e contribuído para o desenvolvimento tecnológico.
 
 ## Websites
@@ -140,21 +138,36 @@ Stacks: ```C/C++```, ```Arduino```, ```Fritzing```.
 Stacks: ```C/C++```, ```Arduino```, ```Fritzing```.
 
 ## Bibliotecas
-[DMPH L298N](https://github.com/rodriguesfas/DMPH_L298N) uma biblioteca arduino para controlar um drive motor ponte H L298N.
+
+### [NanoML](https://github.com/rodriguesfas/NanoML)
+
+Uma biblioteca Nano de Machine Learning para placas Arduino Uno R3, ESP32.
 
 Stacks: ```C/C++```, ```Arduino```, ```Fritzing```.
 
 ---
 
-[LM35](https://github.com/rodriguesfas/LM35) uma biblioteca arduino para controlar sensor de temperatura LM35.
+### [PySupWSDPocket](https://github.com/rodriguesfas/PySupWSDPocket)
 
-Stacks: ```C/C++```, ```Arduino```, ```Fritzing```.
-
----
-
-[PySupWSDPocket](https://github.com/rodriguesfas/PySupWSDPocket) apenas uma versão em Python do [SupWSD Pocket](https://supwsd.net/supwsd/pocket.jsp).
+Apenas uma versão em Python do [SupWSD Pocket](https://supwsd.net/supwsd/pocket.jsp).
 
 Stacks: ```Java```, ```Python```, ```Pip```.
+
+---
+
+### [DMPH L298N](https://github.com/rodriguesfas/DMPH_L298N)
+
+Uma biblioteca Arduino para controlar um Drive motor ponte H L298N.
+
+Stacks: ```C/C++```, ```Arduino```, ```Fritzing```.
+
+---
+
+### [LM35](https://github.com/rodriguesfas/LM35)
+
+Uma biblioteca arduino para controlar sensor de temperatura LM35.
+
+Stacks: ```C/C++```, ```Arduino```, ```Fritzing```.
 
 ---
 
@@ -227,25 +240,33 @@ Stacks: ```Java```, ```Android Studio```.
 
 ## Framework
 
-[DeepNLPF](https://deepnlpf.github.io/site/) um framework para integrar análise linguística e anotação semântica de documentos de texto.
+### [DeepNLPF](https://deepnlpf.github.io/site/)
+
+Um framework para integrar análise linguística e anotação semântica de documentos de texto.
 
 Stacks: ```Java```, ```Python```, ```C/C++```, ```Bash```, ```Jupyter Notebook```.
 
 ## Software
 
-[PyCheckPoint](#)
+### [QuoFyi](https://quo.fyi/)
+
+Um software que monitora status page de serviços web.
+
+Stacks: ```PHP```, ```Codeigniter 4```, ```CSS```, ```HTML```, ```Javascript```, ```Json```.
+
+### [PyCheckPoint](#)
 
 Um Software raspberrypi, para cronometragem de corridas através de chips RFID.
 
 ---
 
-[CheckPoint](#)
+### [CheckPoint](#)
 
 Um Software desktop, para cronometragem de corridas através de chips RFID.
 
 ---
 
-[Bible](#) 
+### [Bible](#) 
 
 Um progessivo web app de uma biblia sagrada.
 
@@ -253,7 +274,7 @@ Um progessivo web app de uma biblia sagrada.
 
 ---
 
-[Cron](#) 
+### [Cron](#) 
 
 Um software para cronometragem automática de provas para robôs solucionadores de labirinto.
 
@@ -261,7 +282,7 @@ Um software para cronometragem automática de provas para robôs solucionadores 
 
 ---
 
-[JResitor](#) 
+### [JResitor](#) 
 
 Uma calculadora gráfica de resitores.
 
@@ -269,15 +290,17 @@ Uma calculadora gráfica de resitores.
 
 ---
 
-[CifraDeCesar](#) 
+### [Cifra De Cesar](#) 
 
 Encriptador de mensagens baseado na cifra de Cesar (Criptografia monoalfabética).
 
 [https://github.com/rodriguesfas/Cifra-de-Cesar](https://github.com/rodriguesfas/Cifra-de-Cesar)
 
+
+
 ## Embarcados/Robótica
 
-[Injury Prevention Monitor](#) 
+### [Injury Prevention Monitor](#) 
 
 Protótipo de sistema de assistência de enfermagem que visa a prevenção de lesões por pressão.
 
@@ -285,7 +308,7 @@ Protótipo de sistema de assistência de enfermagem que visa a prevenção de le
 
 ---
 
-[Bumblebee](#) 
+### [Bumblebee](#) 
 
 Um firmware para robô seguidor de linha.
 
@@ -293,7 +316,7 @@ Um firmware para robô seguidor de linha.
 
 ---
 
-[Dick](#) 
+### [Dick](#) 
 
 Firmware para robô seguidor de linha.
 
@@ -301,7 +324,7 @@ Firmware para robô seguidor de linha.
 
 ---
 
-[Bunoide](#) 
+### [Bunoide](#) 
 
 Um firmware para dança de robôs humanoide.
 
@@ -309,7 +332,7 @@ Um firmware para dança de robôs humanoide.
 
 ---
 
-[Ardrums](#) 
+### [Ardrums](#) 
 
 Um firmware para bateria instrumento musical eletrônica feita com arduino.
 
@@ -319,7 +342,7 @@ Stacks: ```Arduino```, ```C/C++```, ```Bootstrap```, ```HTML```, ```CSS```, ```J
 
 ---
 
-[Claw](#) 
+### [Claw](#) 
 
 Um firmware para controlar garra articulada.
 
@@ -329,7 +352,7 @@ Stacks: ```Arduino```, ```C/C++```.
 
 ---
 
-[Sonar](#) 
+### [Sonar](#) 
 
 Arduino detector de obstáculos com sensor ultrassônico com vizualização.
 
@@ -339,7 +362,7 @@ Stacks: ```Arduino```, ```Processing```, ```C/C++```, ```Java```.
 
 ---
 
-[Pecsino](#) 
+### [Pecsino](#) 
 
 Um interpretador touch capacitivo.
 
@@ -349,7 +372,7 @@ Stacks: ```Arduino```, ```Android```, ```Android Studio```.
 
 ---
 
-[Rastreamento facial](#) 
+### [Rastreamento facial](#) 
 
 Um projeto robótico para detecção e rastreamento de face.
 
@@ -359,7 +382,7 @@ Stacks: ```Arduino```, ```C/C++```, ```Processing```, ```Java```, ```OpenCV```, 
 
 ## Algoritmos
 
-[Detecção de face](#)
+### [Detecção de face](#)
 
 Implementação do método DOG para detecção de faces em imagens.
 
@@ -373,7 +396,7 @@ Stack: ```Python```, ```SciPy```, ```OpenCV```.
 
 ---
 
-[JAVA RUN Length Encoding](#)
+### [JAVA RUN Length Encoding](#)
 
 Um algorítimo simples pra compressão de imagem bitmap.
 
@@ -383,7 +406,7 @@ Stack: ```Java```.
 
 ---
 
-[TestCase](#) 
+### [TestCase](#) 
 
 Um algorítimo para testar automaticamente resultados de algoritmos de maratona de programação.
 
@@ -393,7 +416,7 @@ Um algorítimo para testar automaticamente resultados de algoritmos de maratona 
 
 ---
 
-[AAC Report](#) 
+### [AAC Report](#) 
 
 Um software para emitir relatórios de desempenho de fala de crianças.
 
@@ -403,7 +426,7 @@ Stacks: ```NodeJS```, ```Python```, ```Pandas```, ```NLTK```, ```Bootstrap```, `
 
 ---
 
-[Classificação de Palavras](#) 
+### [Classificação de Palavras](#) 
 
 Classificação de palavras por similaridade com WordNet.
 
@@ -413,7 +436,7 @@ Stack: ```Python```, ```WordNet```.
 
 ---
 
-[KNN](#) 
+### [KNN](#) 
 
 Uma implementação do método KNN para dataset textuais.
 
@@ -423,7 +446,7 @@ Stack: ```Python```, ```Jupyter Notebook```.
 
 ## Scripts
 
-[TinyCluster](#) 
+### [TinyCluster](#) 
 
 Um Script para instanciar rapidamente um Cluster HPC pequeno e de alto desempenho para experiências localhost.
 
@@ -433,7 +456,7 @@ Stacks: ```Docker```, ```Kubernetes```, ```Vagrant```, ```MPI```, ```Linux Ubunt
 
 ---
 
-[Childes Analitics](#) 
+### [Childes Analitics](#) 
 
 Um gerador de estatística (MLU, TTR) para o dataset [Childes](https://www.sketchengine.eu/childes-corpora/?gclid=CjwKCAiA9tyQBhAIEiwA6tdCrH211hN1HFi5fgK950g8lLM0rcJJ4T7TP3l2xuvgqNtpBB26eSLJXRoCzHUQAvD_BwE).
 
