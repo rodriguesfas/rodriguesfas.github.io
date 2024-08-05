@@ -75,14 +75,14 @@ const config = {
             position: "left",
             label: "Descobertas",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "Eventos", position: "left" },
           { to: "/docs/Startups", label: "Startups", position: "left" },
-          { to: "/publications", label: "Publicações", position: "left" },
           {
-            to: "/projects",
+            to: "/docs/Projetos",
             label: "Projetos",
             position: "left",
           },
+          { to: "/publications", label: "Publicações", position: "left" },
           { to: "/cv", label: "CV", position: "left" },
           {
             href: "http://github.com/rodriguesfas",

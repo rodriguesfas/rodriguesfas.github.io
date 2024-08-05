@@ -256,14 +256,6 @@ Os detalhes completos, como autores, títulos, nome dos periódicos, volumes, n�
 
 * Ebook: [Se Aventure Nessa Introdução ao Desenvolvimento de Jogos com Java](docs/ebook/champs-da-galaxia). 2015.
 
-## Apresentações
-
-Participei ativamente de uma variedade de eventos enriquecedores, nos quais contribuí por meio de conversas, oficinas, mini-cursos, workshops, entrevistas em rádio e TV, bem como em mesas-redondas. Essas oportunidades foram oferecidas em eventos renomados, como FLISOL, Genuino Day, CeproTec, SeTAi, Calug, SinFor e CEBRAC. 
-
-Nesses eventos, pude compartilhar meu conhecimento, experiências e insights sobre temas relevantes e atuais. Tive a oportunidade de interagir com profissionais e entusiastas da área, ampliando meu network e aprendendo com as diversas perspectivas apresentadas.
-
-Além disso, alguns registros dessas participações podem ser encontrados [aqui](https://rodriguesfas.github.io/blog), permitindo que você acesse e reviva essas experiências. Esses registros servem como evidência da minha ativa participação e envolvimento nessas importantes iniciativas, que contribuem para o desenvolvimento e disseminação do conhecimento em nossas áreas de interesse.
-
 ## Idiomas
 
 Inglês: Compreende Pouco, Fala Pouco, Lê Razoavelmente, Escreve Razoavelmente.
@@ -273,47 +265,3 @@ Espanhol: Compreende Pouco, Fala Pouco, Lê Razoavelmente, Escreve Pouco.
 Francês: Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco.
 
 Português: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
-
-## Stacks
-
-Possuo ampla experiência em várias stacks tecnológicas:
-
-Linguagens de programação: ```Python```, ```PHP```, ```Java```, ```JavaScript```, ```NodeJS```, ```C/C++``` ```Erlang```, ```Elixis```, ```Arduino```, ```Bash```, ```Matlab```, ```R```.
-
-Linguagens de marcação: ```HTML```, ```CSS```, ```Markdown```, ```LaTeX```, ```Jinja```.
-
-Framework: ```Flask```, ```FastAPI```, ```Wordpress``` , ```CodeIgniter```, ```Jekyll```.
-
-Banco de Dados: ```MySQL```, ```MongoDB```, ```SQLite```, ```PostgreSQL```, ```NeDB```.
-
-SO: ```Linux```, ```Windows```, ```Android```.
-
-Infra: ```AWS (Serveless, Container Registry, Lambda, API Gateway, S3 Bucket)```, ```Azure (VM, Bucket)```, ```Google Cloud (VM)```, ```VPS```, ```Docker```, ```Vagrant```.
-
-Jobs: ```Cron```, ```AirFlow```.
-
-Virtualização: ```VirtualBox``` .
-
-Testes: ```Unit```, ```Locust```.
-
-Monitoramento: ```Sentry```, ```Clarity```.
-
-Versionamento: ```Git```, ```Github```, ```Github Action```, ```Bitbucket```, ```GitFlow```.
-
-Empacotadores: ```Pip```, ```Anaconda```, ```Composer```, ```NPM```, ```Yarn```.
-
-Embarcado: ```Fritzing```, ```Proteus```.
-
-Hardwares: ```Arduino UNO R3```, ```Arduino Mega```, ```Node MCU V3```, ```Raspberry Pi```, entre outras placas, drives, sensores e atuadores.
-
-Métodos ágeis: ```Scrum```, ```Kanban```.
-
-NLP: ```Stanford CoreNLP```, ```Stanza```, ```SpaCy```, ```CogComp NLP```, ```FreeLing```, ```NLTK```, ```SEMAFOR```, ```SupWSD```, ```WordNet```, ```VerbNet```, entre outras.
-
-Visão Computacional: ```OpenCV```.
-
-Notebook: ```Jupyter```, ```Google Colab```.
-
-Documentação: ```MKDocs```, ```Docussaurus```, ```Redoc```, ```OpenAPI```, ```Swagger```.
-
-Além disso, adquiri conhecimento e experiência em várias outras áreas, mesmo que eu não me lembre de todas no momento :)

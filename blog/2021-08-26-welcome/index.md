@@ -1,25 +1,12 @@
 ---
 slug: welcome
-title: Welcome
+title: Bem vindo
 authors: [fasr]
-tags: [facebook, hello, docusaurus]
+tags: []
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Participei ativamente de uma variedade de eventos enriquecedores, nos quais contribuí por meio de conversas, oficinas, mini-cursos, workshops, entrevistas em rádio e TV, bem como em mesas-redondas. Essas oportunidades foram oferecidas em eventos renomados, como FLISOL, Genuino Day, CeproTec, SeTAi, Calug, SinFor e CEBRAC. 
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Nesses eventos, pude compartilhar meu conhecimento, experiências e insights sobre temas relevantes e atuais. Tive a oportunidade de interagir com profissionais e entusiastas da área, ampliando meu network e aprendendo com as diversas perspectivas apresentadas.
 
-Regular blog authors can be added to `authors.yml`.
-
-The blog post date can be extracted from filenames, such as:
-
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+Além disso, alguns registros dessas participações podem ser encontrados aqui, permitindo que você acesse e reviva essas experiências. Esses registros servem como evidência da minha ativa participação e envolvimento nessas importantes iniciativas, que contribuem para o desenvolvimento e disseminação do conhecimento em nossas áreas de interesse.
