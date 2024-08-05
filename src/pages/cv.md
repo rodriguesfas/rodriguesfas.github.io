@@ -126,17 +126,14 @@ Como empreendedor, tenho o orgulho de ser fundador e co-fundador de diversas Sta
 
 ## Outros Links
 
-- Projetos: [https://rodriguesfas.github.io/docs/projects](/docs/projects)
+- Cursos e Certificados: [https://rodriguesfas.github.io/courses](/courses/)
+- Projetos: [https://rodriguesfas.github.io/docs/Projetos](/docs/Projetos/)
 - Publicações: [https://rodriguesfas.github.io/publications](/publications)
+- Honras e Prémios: [https://rodriguesfas.github.io/honras-e-premios](/honras-e-premios)
 - Blog Metodologia em Computação [https://metodologiaemcomputacao.github.io](https://metodologiaemcomputacao.github.io/)
 - Blog Clube dos Geeks: [https://clubedosgeeks.com.br](https://clubedosgeeks.com.br)
 
-## Idiomas
 
-Inglês: Compreende Pouco, Fala Pouco, Lê Razoavelmente, Escreve Razoavelmente.
+---
 
-Espanhol: Compreende Pouco, Fala Pouco, Lê Razoavelmente, Escreve Pouco.
-
-Francês: Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco.
-
-Português: Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+The real development of the person is not in what he demonstrates to know, but in the mistakes he fails to make. (Allan Kelvin Sales - 2015).
