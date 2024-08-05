@@ -122,7 +122,7 @@ Durante os anos de 2019 e 2020, tive a oportunidade de aplicar meus conhecimento
 
 Como empreendedor, tenho o orgulho de ser fundador e co-fundador de diversas Startups inovadoras, incluindo a [Realm](https://realm.com.br/), [qHoras](https://qhoras.com.br/), [Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Yaakov](https://yaakov.com.br/), [CoWatch](https://cowatch.com.br), [CreateLab](#).
 
-[https://rodriguesfas.github.io/startups](/startups)
+[https://rodriguesfas.github.io/startups](/docs/Startups/)
 
 ## Outros Links
 
