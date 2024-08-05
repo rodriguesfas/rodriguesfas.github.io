@@ -8,8 +8,6 @@ tags: [cv]
 
 Doutorando em Ciência da Computação pelo CIn da UFPE, Mestre em Ciência da Computação pelo CIn da UFPE, MBA em Docência do Ensino Superior pelo IDJ, graduação em Automação Industrial pelo IFCE (trancado), e graduação em Análise e Desenvolvimento de Sistemas pela UniLeão. Atualmente, é professor do curso de Produção Multimídia EAD da UFCA.
 
-Como empreendedor, tenho o orgulho de ser fundador e co-fundador de diversas Startups inovadoras, incluindo a [Realm](https://realm.com.br/), [qHoras](https://qhoras.com.br/), [Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Yaakov](https://yaakov.com.br/), [CoWatch](https://cowatch.com.br), [CreateLab](#).
-
 Meus interesses são vastos e abrangem diversas áreas da computação. Tenho uma paixão especial por tópicos como Machine Learning, Deep Learning, Learning Analytics, Processamento de Linguagem Natural, Text Mining, Análise de Dados, Extração de Informação, Motores de Busca, Deduplicação de Dados, Tecnologia Assistiva, Processamento de Imagem, Visão Computacional, Robótica, Automação, e Internet das Coisas (IoT).
 
 
@@ -122,139 +120,16 @@ Durante os anos de 2019 e 2020, tive a oportunidade de aplicar meus conhecimento
 
 ## Experiências no Empreendedorismo
 
-### Startup Realm 
+Como empreendedor, tenho o orgulho de ser fundador e co-fundador de diversas Startups inovadoras, incluindo a [Realm](https://realm.com.br/), [qHoras](https://qhoras.com.br/), [Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Yaakov](https://yaakov.com.br/), [CoWatch](https://cowatch.com.br), [CreateLab](#).
 
-Sou co-fundador da [Realm](https://realm.com.br/), uma startup de tecnologia focada no desenvolvimento de soluções inovadoras. Na empresa, tive a oportunidade de criar o produto revolucionário chamado BagLed, destinado à publicação de anúncios digitais móveis DOOH. Além disso, participei do desenvolvimento de canais de vendas, inteligência de negócios, agendamento online.
+[https://rodriguesfas.github.io/startups](/startups)
 
-Atuo como empreendedor, co-fundador e CTO, desempenhando principalmente a função de engenheiro de software. Minhas responsabilidades incluíam análise, desenvolvimento, teste, manutenção e documentação de software. Também fui encarregado da infraestrutura de serviços, construção de APIs REST para integração e micro-aplicações, automação de processos de venda por meio de chatbots e desenvolvimento de um marketplace para a venda de produtos e serviços. Além disso, liderei a criação de diversos portais, como o portal do parceiro, área de clientes, portal administrativo e portal para afiliados. Também tive a oportunidade de prototipar e construir hardwares e produtos.
+## Outros Links
 
-Durante esse período, concentrei-me na melhoria contínua da usabilidade do sistema, por meio de um monitoramento contínuo do uso pelos usuários, prevenção de bugs e monitoramento de desempenho por meio de logs. Essa experiência tem sido um grande desafio e oportunidade de aprendizado constante, onde tenho aprimorado minhas habilidades técnicas e pessoais.
-
-Minha atuação na Realm ocorre em Juazeiro do Norte - CE desde 2020 até o presente momento.
-
-> Competências: Natural Language Processing, Python, PHP, JavaScritp, MySQL, TinyDB, Codeigniter, Ratchet, Socket.IO, Clarity, Sentry, FastAPI, Flask, Docker, AWS (Serveless, Container Registry, Lambda, API Gateway, S3 Bucket), Bootstrap, HTML, CSS, Linux, Windows.
-
-### Startup qHoras
-
-Sou co-fundador da startup [qHoras](http://qhoras.com.br/), uma plataforma de gestão voltada para profissionais da saúde. A qHoras oferece ferramentas para simplificar a administração de consultórios médicos, reduzindo ausências de pacientes e melhorando a eficiência no atendimento.
-
-Minhas responsabilidades incluem desenvolvimento de funcionalidades para gestão de agendamentos, acompanhamento de faturamento, automação de confirmações via WhatsApp, e implementação de alertas de estoque e contas a pagar. Além disso, liderei a criação de uma interface intuitiva para monitoramento de métricas e feedbacks dos pacientes, aprimorando a experiência do usuário e a segurança dos dados.
-
-> Competências: Desenvolvimento de software, automação, segurança de dados, gestão de projetos, integração de sistemas.
-
-### CreateLab
-
-Fui co-fundador da [CreateLab](#), uma startup voltada para educação tecnológica, como co-fundador. A empresa tinha como foco o desenvolvimento de material didático para o ensino de robótica educacional destinado a crianças e adolescentes, além de oferecer capacitação para professores nessa área.
-
-Minha contribuição na CreateLab incluiu a elaboração de material didático para o ensino de robótica educacional e também atuei como instrutor de professores. Além disso, fui responsável pelo desenvolvimento de toda a parte tecnológica relacionada à distribuição digital do material didático para escolas, alunos e professores, incluindo a área de compra de materiais e kits de robótica.
-
-Durante o ano de 2019, tive a oportunidade de fazer parte dessa equipe e contribuir para o avanço da educação tecnológica, oferecendo recursos e conhecimentos valiosos para estudantes e professores interessados em robótica educacional.
-
-> Competências: Professor, instrutor, Arduino, LEGO, C/C++, PHP, Javascript, NodeJS, PHP, Wordpress, HTML, CSS, Linux, Windows.
-
-Essas são algumas para citar, entretanto estive e estou envolvido em desenvolvimento de diversas startups no ramos publicidade, saúde, imóveis, food, segurança da informação, educação, aviação, entre outros.
-
-[Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Yaakov](https://yaakov.com.br/), [CoWatch](https://cowatch.com.br).
-
-## Organização
-
-[Olimpíada Brasileira do Saber (OBS)](http://obssaberes.org/) Uma competição nacional de alto nível de excelência para estimular o interesse dos estudantes brasileiros para a Arte, Matemática, Língua Estrangeira a Ciência e a Tecnologia. Nessa organização, tenho desenvolvido website, sistema de cadastro no evento, software embarcado para competições, elaboração de editais, provas e suporte ao usuário. (2016 - 2021)
-
-[Robots](http://www.robots.objetivojuazeiro.com.br/) Um campeonato que visa difundir a robótica para estudantes. Nessa organização tenho desenvolvido e avaliado as provas da competição, participo da organização do evento e treinamento de equipes. (2014 - 2021)
-
-[ENACTUS UniLeão](http://www.enactus.org.br/) Uma organização internacional sem fins lucrativos dedicada a inspirar os alunos a melhorar o mundo através da Ação Empreendedora. Nessa organização tenho desenvolvidos aplicativos mobile, website e mentor de projetos. (2014 - atualmente)
-
-
-
-## Grupo de Pesquisa
-
-[Text Mining Grup](https://tmgufrpe.github.io/) Membro do Grupo de Mineração de Texto, que tem como principal objetivo conduzir pesquisas e desenvolvimento de ponta em aplicativos de Processamento de Linguagem Natural (PNL), Mineração de Texto e Aprendizado de Máquina. Programa de [Pós-Graduação em Informática Aplicada](#) da Universidade Federal Rural do Pernambuco (UFRPE). Nesse grupo de pesquisa tenho orientado alunos de graduação no desenvolvimento de seus projetos. (2018 - atualmente)
-
-[Crash Robots](http://crashrobots.github.io/) Grupo de pesquisa de Robótica e Automação. Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte. Nesse grupo de pesquisa, participei do desenvolvimento de robôs para competições. (2016 - 2017)
-
-
-
-## Projetos
-
-[DeepNLPF](https://deepnlpf.github.io/site/) Um framework para integrar análise linguística e anotação semântica de documentos de texto. Universidade Federal de Pernambuco (UFPE), Centro de Informática (CIn). Financiamento: CAPES. Orientador PhD. [Robson Fidalgo] e Coorientador Rinaldo Lima.
-
-Ver portfólio completo em [portfólio](https://rodriguesfas.github.io/docs/portfolio)
-
-## Orientação de Projetos
-
-2019
-
-* [Injury Prevention Monitor ](https://github.com/rodriguesfas/ipm) Protótipo de sistema de assistência de enfermagem que visa a prevenção de lesões por pressão. Aluna de Mestrado Jennifer Cabral. [Universidade de Fortaleza (UNIFOR)](https://www.unifor.br/). Financiamento CAPES. Orientador: PhD. Luís Rafael Leite Sampaio.
-
-2016
-
-* [VTron](https://github.com/vtronboard) O projeto consiste em uma placa e um aplicativo móvel, capaz de receber comandos de um dispositivo móvel que executa tarefas como ligar e desligar o veículo, alarme, faróis, abrir o porta-malas, trancar e destrancar as portas e tocar a buzina. O projeto pode ser utilizado em veículos, automação residencial e também como ferramenta no ensino de robótica educacional. Alunos do Ensino Médio: Ytalo e Luian. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues. Premium MOCINN/MOCICA (2016). Credenciado para [Expo-Sciences International (ESI)](https://milset.org/milset/web/programs-events/expo-sciences) [MILSET](https://milset.org/milset/web/) (2017). [Premium MCTEA](https://www.mctea.com.br/) (2016). [Premium MNR ](http://www.mnr.org.br/) (2016).
-
-* [Garduino](https://github.com/rodriguesfas/garduino) Projeto de braço robotico para regadores. Desenvolvido por alunos do ensino fundamental Pedro do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
-
-* [Semaphore](https://github.com/rodriguesfas/semaphore) Projeto Semaforo interativo para deficientes. Desenvolvido pelo aluno do ensino fundamental do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
-
-* [Elecplants](https://github.com/rodriguesfas/elecplants) Monitor de plantas. Desenvolvido por alunos do ensino fundamental do Colégio Objetivo Juazeiro do Norte. Orientador: Alex Ferreira e Coorientador: MSc. Francisco Rodrigues.
-
-* [Nutri Organic](https://nutriorganic.github.io/) Um simples app, para receitas saborosas usando frutas como ingredientes, visando o desperdício. Colégio Objetivo Juazeiro do Norte. Orientado: José Vinícius; Orientador: MSc. Francisco Rodrigues.
-
-
-## Honras e Prémios
-
-2016
-
-- MOCINN/[MOCICA](http://www.mocica.com.br/) Finalista: Projeto [Hidropoino](https://github.com/hidropoino) - Jardim Hidropônico Inteligente e Sustentável
-    - Participação no MOCINN/MOCICA, sendo selecionado como finalista com o projeto "Hidropoino: Jardim Hidropônico Inteligente e Sustentável".
-    - Credenciamento para a FENECIT 2017.
-    - Demonstrei habilidades em inovação, tecnologia e sustentabilidade ao desenvolver esse projeto.
-    - Orgulhosamente representei meu trabalho e conquistei um lugar na FENECIT 2017.
-
-- 3º lugar na competição Robô Seguidor de Linha
-    - Conquistado o 3º lugar na competição de Robô Seguidor de Linha realizada pelo GERIS UniLeão.
-    - Demonstração de habilidades em robótica, programação e resolução de problemas.
-    - Trabalho em equipe e dedicação foram fundamentais para alcançar esse resultado significativo.
-
-- Certificado de Conquista, Competição Internacional de Programação ICPC patrocinada pela [ACM](https://www.acm.org/icpc-winners) e IBM
-    - Reconhecimento pela participação bem-sucedida na prestigiosa Competição Internacional de Programação [ICPC](https://icpc.baylor.edu/).
-    - Conquistado no Instituto Federal do Ceará (IFCE) - Campus Crato, 2013 e 2014.
-    - Demonstração de habilidades em programação, resolução de problemas e trabalho em equipe.
-    - Competição de alto nível, patrocinada por instituições líderes na área de tecnologia e computação.
-
-- Certificado de Ouro pela Melhor Apresentação de Projetos na II Sinfor - Semana de Informática e IV Mostra de Projetos Integradores do Centro Universitário Leão Sampaio (UniLeão)
-    - Reconhecimento pela excelente apresentação do projeto VANT: Veículo Aéreo Não Tripulado Aplicado à Segurança Patrimonial.
-    - Destaque entre os demais projetos apresentados, demonstrando qualidade, inovação e relevância.
-    - Obtido em 2011 durante a II Sinfor e IV Mostra de Projetos Integradores no Centro Universitário Leão Sampaio (UniLeão).
-
-## Escritos/Blog
-
-* Apresento o website [Metodologia em Computação](https://metodologiaemcomputacao.github.io/), onde tive a oportunidade de contribuir escrevendo artigos com o objetivo de orientar estudantes de Ciência da Computação em suas pesquisas. Essa colaboração ocorreu no ano de 2018, e foi uma forma gratificante de compartilhar conhecimentos e auxiliar aqueles que estavam envolvidos em suas jornadas acadêmicas.
-
-* Apresento o website [Clube dos Geeks](https://clubedosgeeks.com.br/), onde tive a oportunidade de contribuir na elaboração de notícias e tutoriais voltados para estudantes de tecnologia. Essa colaboração ocorreu no ano de 2013, e foi uma experiência enriquecedora ao compartilhar conhecimentos e fornecer recursos úteis para aqueles que estavam interessados em aprimorar suas habilidades e se manter atualizados no campo da tecnologia.
-
-## Publicações
-
-Os seguintes artigos foram publicados em periódicos científicos:
-
-> RODRIGUES, F. A. S.; Robson Fidalgo; Rinaldo Lima; [William Domingues](http://www.lsis.org/dominguesw/index.php); [Adrian Chifu](https://adrianchifu.com/); Bernard Espinasse; [Sébastien Fournier](https://pageperso.lis-lab.fr/sebastien.fournier/). [DeepNLPF: A Framework for Integrating Third-Party NLP Tools](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.895.pdf). [LREC](https://lrec2020.lrec-conf.org/en/) 2020, TWELFTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION. , v.12, p.7246 - 7253, 2020.
-Trabalhos completos publicados em anais de congressos
-
-> PEREIRA, JAYR; DE MELO, MARIANA; FRANCO, NATALIA; RODRIGUES, FRANCISCO; COELHO, ALEXSANDRO; FIDALGO, ROBSON. [Using Assistive Robotics for Aphasia Rehabilitation](https://ieeexplore.ieee.org/document/9018569) In: 2019 Latin American Robotics Symposium (LARS), 2019 [Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE)](https://ieeexplore.ieee.org/xpl/conhome/8995608/proceeding), 2019, Rio Grande. 2019 Latin American Robotics Symposium (LARS), 2019 Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE). , 2019. p.387.
-
-> PEREIRA, J. A. ; RODRIGUES, F. A. S. ; Neto, E. A. C. ; BRITO, J. L. S. ; MAURICIO, P. H. . [Dispositivo de Apoio a Deficientes Visuais - DAVI](http://conic-semesp.org.br/anais/files/2013/trabalho-1000015588.pdf). In: Conic-Semesp, 2013, Campinas. CONIC/SEMESP - 13º Congresso de Iniciação Cientifica, 2013.
-
-Resumos publicados em anais de congressos
-
-> RODRIGUES, F. A. S.; Neto, E. A. C. ; SOUZA, T. A. ; FERNANDES, F. J. S. . [Jean - Uma Interface Cérebro-Máquina de Baixo Custo - Ajudando Deficientes a Mover Coisas no Mundo](http://www.fjn.edu.br/iniciacaocientifica/anais-vii-semana/wp-content/uploads/2016/01/Anais-VII-SEMANA-DE-INICIA%C3%87%C3%83O-2015.pdf). In: VII Semana de Iniciação Científica, 2015, Juazeiro do Norte. Diversidade Cultural e Movimentos Sociais: consolidação da ciência a serviço da sociedade., 2015.
-
-Esses trabahos abordam temas diversos dentro da área de estudo, fornecendo contribuições significativas para o conhecimento acadêmico. Eles foram submetidos a rigorosos processos de revisão por pares, garantindo a qualidade e confiabilidade dos resultados apresentados.
-
-A publicação desses artigos em periódicos científicos demonstra o comprometimento com a pesquisa e a disseminação do conhecimento na comunidade acadêmica. Essas contribuições são relevantes para o avanço do campo de estudo e servem como referência para outros pesquisadores interessados no tema.
-
-Os detalhes completos, como autores, títulos, nome dos periódicos, volumes, números de edição, páginas e identificadores DOI, podem ser encontrados nas respectivas publicações.
-
-## Livros
-
-* Ebook: [Se Aventure Nessa Introdução ao Desenvolvimento de Jogos com Java](docs/ebook/champs-da-galaxia). 2015.
+- Projetos: [https://rodriguesfas.github.io/docs/projects](/docs/projects)
+- Publicações: [https://rodriguesfas.github.io/publications](/publications)
+- Blog Metodologia em Computação [https://metodologiaemcomputacao.github.io](https://metodologiaemcomputacao.github.io/)
+- Blog Clube dos Geeks: [https://clubedosgeeks.com.br](https://clubedosgeeks.com.br)
 
 ## Idiomas
 

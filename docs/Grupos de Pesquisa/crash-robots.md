@@ -1,0 +1,1 @@
+[Crash Robots](http://crashrobots.github.io/) Grupo de pesquisa de Robótica e Automação. Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte. Nesse grupo de pesquisa, participei do desenvolvimento de robôs para competições. (2016 - 2017)

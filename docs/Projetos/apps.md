@@ -1,5 +1,5 @@
 ---
-id: mobile
+id: apps
 title: Apps
 ---
 
@@ -35,7 +35,12 @@ Stacks: ```Java```, ```Android Studio```.
 
 Stacks: ```Java```, ```Android Studio```.
 
+---
 
 [DuSitio](https://rodriguesfas.github.io/docs/portfolio#) Uma app android para venda de alimentos naturais.
 
 Stacks: ```Java```, ```Android Studio```.
+
+---
+
+[Nutri Organic](https://nutriorganic.github.io/) Um simples app, para receitas saborosas usando frutas como ingredientes, visando o desperdício. Colégio Objetivo Juazeiro do Norte. Orientado: José Vinícius; Orientador: MSc. Francisco Rodrigues.
