@@ -17,6 +17,7 @@ npm install
 ### Local Development
 
 ```bash
+nvm use v18.17.0
 npx docusaurus start
 ```
 
@@ -35,6 +36,7 @@ This command generates static content into the `build` directory and can be serv
 Using SSH:
 
 ```bash
+npx docusaurus build
 export USE_SSH=true
 export DEPLOYMENT_BRANCH=gh-pages
 npx docusaurus deploy

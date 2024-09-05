@@ -1,7 +1,7 @@
 ---
-id: index
-title: Biofeedback
-sidebar_label: Biofeedback
+id: O que é Biofeedback
+title: O que é Biofeedback
+sidebar_label: O que é Biofeedback
 tags: ['Biofeedback']
 ---
 
