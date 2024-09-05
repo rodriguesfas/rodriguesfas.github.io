@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrodriguesfas_github_io=self.webpackChunkrodriguesfas_github_io||[]).push([[6120],{845:a=>{a.exports=JSON.parse('{"label":"genuinoday","permalink":"/blog/tags/genuinoday","allTagsPath":"/blog/tags","count":1}')}}]);
