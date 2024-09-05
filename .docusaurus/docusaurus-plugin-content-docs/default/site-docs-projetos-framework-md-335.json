@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Projetos/frameworks",
+  "id": "Projetos/frameworks",
+  "title": "Frameworks",
+  "description": "DeepNLPF",
+  "source": "@site/docs/Projetos/framework.md",
+  "sourceDirName": "Projetos",
+  "slug": "/Projetos/frameworks",
+  "permalink": "/docs/Projetos/frameworks",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projetos/framework.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "frameworks",
+    "title": "Frameworks"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bibliotecas",
+    "permalink": "/docs/Projetos/bibliotecas"
+  },
+  "next": {
+    "title": "games",
+    "permalink": "/docs/Projetos/games"
+  }
+}

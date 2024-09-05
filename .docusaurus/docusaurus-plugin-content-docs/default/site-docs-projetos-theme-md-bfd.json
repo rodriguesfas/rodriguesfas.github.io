@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Projetos/theme",
+  "id": "Projetos/theme",
+  "title": "Themes",
+  "description": "Temas",
+  "source": "@site/docs/Projetos/theme.md",
+  "sourceDirName": "Projetos",
+  "slug": "/Projetos/theme",
+  "permalink": "/fr/docs/Projetos/theme",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projetos/theme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "theme",
+    "title": "Themes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tecnologia Assistiva",
+    "permalink": "/fr/docs/Projetos/tecnologia-assistiva"
+  },
+  "next": {
+    "title": "Visão Computacional",
+    "permalink": "/fr/docs/Projetos/vision-computer"
+  }
+}

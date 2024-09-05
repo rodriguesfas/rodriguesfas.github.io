@@ -1,0 +1,24 @@
+{
+  "unversionedId": "organization",
+  "id": "organization",
+  "title": "organization",
+  "description": "Organização",
+  "source": "@site/docs/organization.md",
+  "sourceDirName": ".",
+  "slug": "/organization",
+  "permalink": "/docs/organization",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/organization.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Olimpíadas",
+    "permalink": "/docs/olympics"
+  },
+  "next": {
+    "title": "Citações",
+    "permalink": "/docs/"
+  }
+}

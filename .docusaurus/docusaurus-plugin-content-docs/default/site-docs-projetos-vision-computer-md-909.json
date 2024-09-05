@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Projetos/vision-computer",
+  "id": "Projetos/vision-computer",
+  "title": "Visão Computacional",
+  "description": "Rastreamento facial",
+  "source": "@site/docs/Projetos/vision-computer.md",
+  "sourceDirName": "Projetos",
+  "slug": "/Projetos/vision-computer",
+  "permalink": "/fr/docs/Projetos/vision-computer",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projetos/vision-computer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "vision-computer",
+    "title": "Visão Computacional"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Themes",
+    "permalink": "/fr/docs/Projetos/theme"
+  },
+  "next": {
+    "title": "Wearable Device",
+    "permalink": "/fr/docs/Projetos/wearable-device"
+  }
+}

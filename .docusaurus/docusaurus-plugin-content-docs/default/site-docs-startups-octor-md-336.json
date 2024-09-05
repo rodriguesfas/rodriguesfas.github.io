@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Startups/octor",
+  "id": "Startups/octor",
+  "title": "Octor",
+  "description": "Sou co-fundador da startup Octor, anteriormente conhecida como qHoras, que oferece uma solução para agendamento de consultas online. A Octor expandiu seus serviços e se tornou uma plataforma completa de gestão para clínicas e consultórios. Nossa plataforma fornece ferramentas que simplificam a administração financeira, gerenciamento de prontuários, controle de colaboradores, gestão de estoque, agendamento, prescrição automática e sumarização de prontuários. Atuamos em diversos segmentos da saúde, incluindo clínicas médicas, de psicologia, fisioterapia, entre outras, com o objetivo de reduzir as ausências de pacientes e melhorar a eficiência no atendimento.",
+  "source": "@site/docs/Startups/octor.md",
+  "sourceDirName": "Startups",
+  "slug": "/Startups/octor",
+  "permalink": "/fr/docs/Startups/octor",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Startups/octor.md",
+  "tags": [
+    {
+      "label": "Startup",
+      "permalink": "/fr/docs/tags/startup"
+    },
+    {
+      "label": "Octor",
+      "permalink": "/fr/docs/tags/octor"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "octor",
+    "title": "Octor",
+    "tags": [
+      "Startup",
+      "Octor"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ImmoNex",
+    "permalink": "/fr/docs/Startups/immonex"
+  },
+  "next": {
+    "title": "Realm",
+    "permalink": "/fr/docs/Startups/realm"
+  }
+}

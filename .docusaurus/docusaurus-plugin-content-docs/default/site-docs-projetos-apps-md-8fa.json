@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Projetos/apps",
+  "id": "Projetos/apps",
+  "title": "Apps",
+  "description": "Listir App android, para rotina de crianças com autismo ou outros distúrbios.",
+  "source": "@site/docs/Projetos/apps.md",
+  "sourceDirName": "Projetos",
+  "slug": "/Projetos/apps",
+  "permalink": "/fr/docs/Projetos/apps",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projetos/apps.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "apps",
+    "title": "Apps"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Algorítimos",
+    "permalink": "/fr/docs/Projetos/algorithms"
+  },
+  "next": {
+    "title": "Automação",
+    "permalink": "/fr/docs/Projetos/auto"
+  }
+}

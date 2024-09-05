@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/curses",
+  "source": "@site/src/pages/curses.md",
+  "title": "Publicações",
+  "frontMatter": {
+    "id": "courses",
+    "title": "Publicações",
+    "tags": [
+      "Publicações"
+    ]
+  }
+}

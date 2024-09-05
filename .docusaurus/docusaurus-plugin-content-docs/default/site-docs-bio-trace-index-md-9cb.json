@@ -1,0 +1,32 @@
+{
+  "unversionedId": "BioTrace/index",
+  "id": "BioTrace/index",
+  "title": "BioTrace",
+  "description": "BioTrace é o seu guia para explorar o mundo do biofeedback. Descubra como monitorar e controlar suas funções biológicas, desde a frequência cardíaca até a atividade cerebral, para melhorar seu bem-estar físico e mental. Acompanhe nossas dicas, técnicas e inovações na área para alcançar uma vida mais equilibrada e consciente.",
+  "source": "@site/docs/BioTrace/index.md",
+  "sourceDirName": "BioTrace",
+  "slug": "/BioTrace/",
+  "permalink": "/fr/docs/BioTrace/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/BioTrace/index.md",
+  "tags": [
+    {
+      "label": "BioTrace",
+      "permalink": "/fr/docs/tags/bio-trace"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "index",
+    "title": "BioTrace",
+    "sidebar_label": "BioTrace",
+    "tags": [
+      "BioTrace"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal",
+    "permalink": "/fr/docs/BioTrace/Biofeedback/Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal"
+  }
+}

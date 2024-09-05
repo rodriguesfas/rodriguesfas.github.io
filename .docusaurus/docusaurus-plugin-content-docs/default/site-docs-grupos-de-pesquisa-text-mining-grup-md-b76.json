@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Grupos de Pesquisa/text-mining-grup",
+  "id": "Grupos de Pesquisa/text-mining-grup",
+  "title": "text-mining-grup",
+  "description": "Text Mining Grup Membro do Grupo de Mineração de Texto, que tem como principal objetivo conduzir pesquisas e desenvolvimento de ponta em aplicativos de Processamento de Linguagem Natural (PNL), Mineração de Texto e Aprendizado de Máquina. Programa de Pós-Graduação em Informática Aplicada da Universidade Federal Rural do Pernambuco (UFRPE). Nesse grupo de pesquisa tenho orientado alunos de graduação no desenvolvimento de seus projetos. (2018 - atualmente)",
+  "source": "@site/docs/Grupos de Pesquisa/text-mining-grup.md",
+  "sourceDirName": "Grupos de Pesquisa",
+  "slug": "/Grupos de Pesquisa/text-mining-grup",
+  "permalink": "/fr/docs/Grupos de Pesquisa/text-mining-grup",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Grupos de Pesquisa/text-mining-grup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "crash-robots",
+    "permalink": "/fr/docs/Grupos de Pesquisa/crash-robots"
+  },
+  "next": {
+    "title": "Books",
+    "permalink": "/fr/docs/Machine Leaning/books"
+  }
+}

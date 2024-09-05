@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Projetos/tecnologia-assistiva",
+  "id": "Projetos/tecnologia-assistiva",
+  "title": "Tecnologia Assistiva",
+  "description": "Injury Prevention Monitor",
+  "source": "@site/docs/Projetos/tecnologia-assistiva.md",
+  "sourceDirName": "Projetos",
+  "slug": "/Projetos/tecnologia-assistiva",
+  "permalink": "/fr/docs/Projetos/tecnologia-assistiva",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projetos/tecnologia-assistiva.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "tecnologia-assistiva",
+    "title": "Tecnologia Assistiva"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Softwares",
+    "permalink": "/fr/docs/Projetos/software"
+  },
+  "next": {
+    "title": "Themes",
+    "permalink": "/fr/docs/Projetos/theme"
+  }
+}

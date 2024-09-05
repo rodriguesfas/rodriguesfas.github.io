@@ -1,0 +1,14 @@
+{
+  "type": "mdx",
+  "permalink": "/publicacoes",
+  "source": "@site/src/pages/publicacoes.md",
+  "title": "Startups",
+  "description": "#",
+  "frontMatter": {
+    "id": "startups",
+    "title": "Startups",
+    "tags": [
+      "startups"
+    ]
+  }
+}

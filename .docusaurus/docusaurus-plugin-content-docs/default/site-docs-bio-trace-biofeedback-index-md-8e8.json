@@ -1,0 +1,36 @@
+{
+  "unversionedId": "BioTrace/Biofeedback/index",
+  "id": "BioTrace/Biofeedback/index",
+  "title": "Biofeedback",
+  "description": "!#",
+  "source": "@site/docs/BioTrace/Biofeedback/index.md",
+  "sourceDirName": "BioTrace/Biofeedback",
+  "slug": "/BioTrace/Biofeedback/",
+  "permalink": "/docs/BioTrace/Biofeedback/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/BioTrace/Biofeedback/index.md",
+  "tags": [
+    {
+      "label": "Biofeedback",
+      "permalink": "/docs/tags/biofeedback"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "index",
+    "title": "Biofeedback",
+    "sidebar_label": "Biofeedback",
+    "tags": [
+      "Biofeedback"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BioTrace",
+    "permalink": "/docs/BioTrace/"
+  },
+  "next": {
+    "title": "Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal",
+    "permalink": "/docs/BioTrace/Biofeedback/Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal"
+  }
+}

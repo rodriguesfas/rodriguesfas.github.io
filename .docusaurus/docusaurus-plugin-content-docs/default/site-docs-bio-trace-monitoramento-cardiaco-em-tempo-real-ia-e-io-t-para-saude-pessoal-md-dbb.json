@@ -1,0 +1,76 @@
+{
+  "unversionedId": "BioTrace/Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal",
+  "id": "BioTrace/Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal",
+  "title": "Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal",
+  "description": "!#",
+  "source": "@site/docs/BioTrace/Monitoramento Cardíaco em Tempo Real: IA e IoT para Saúde Pessoal.md",
+  "sourceDirName": "BioTrace",
+  "slug": "/BioTrace/Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal",
+  "permalink": "/docs/BioTrace/Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/BioTrace/Monitoramento Cardíaco em Tempo Real: IA e IoT para Saúde Pessoal.md",
+  "tags": [
+    {
+      "label": "Biofeedback",
+      "permalink": "/docs/tags/biofeedback"
+    },
+    {
+      "label": "IA",
+      "permalink": "/docs/tags/ia"
+    },
+    {
+      "label": "IoT",
+      "permalink": "/docs/tags/io-t"
+    },
+    {
+      "label": "Monitoramento Cardíaco",
+      "permalink": "/docs/tags/monitoramento-cardiaco"
+    },
+    {
+      "label": "Saúde Pessoal",
+      "permalink": "/docs/tags/saude-pessoal"
+    },
+    {
+      "label": "PWA",
+      "permalink": "/docs/tags/pwa"
+    },
+    {
+      "label": "NodeMCU",
+      "permalink": "/docs/tags/node-mcu"
+    },
+    {
+      "label": "ESP8266",
+      "permalink": "/docs/tags/esp-8266"
+    },
+    {
+      "label": "Pulse Sensor",
+      "permalink": "/docs/tags/pulse-sensor"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal",
+    "title": "Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal",
+    "sidebar_label": "Monitoramento Cardíaco em Tempo Real - IA e IoT para Saúde Pessoal",
+    "tags": [
+      "Biofeedback",
+      "IA",
+      "IoT",
+      "Monitoramento Cardíaco",
+      "Saúde Pessoal",
+      "PWA",
+      "NodeMCU",
+      "ESP8266",
+      "Pulse Sensor"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Biofeedback",
+    "permalink": "/docs/BioTrace/Biofeedback/"
+  },
+  "next": {
+    "title": "Meu Relacionamento com Deus",
+    "permalink": "/docs/Bíblia/Devocional/relacionamentos-deus"
+  }
+}
