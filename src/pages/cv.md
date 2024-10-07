@@ -6,7 +6,7 @@ tags: [cv]
 
 # Francisco de Assis de Souza Rodrigues
 
-Doutorando em Ciência da Computação pelo CIn da UFPE, Mestre em Ciência da Computação pelo CIn da UFPE, MBA em Docência do Ensino Superior pelo IDJ, graduação em Automação Industrial pelo IFCE (trancado), e graduação em Análise e Desenvolvimento de Sistemas pela UniLeão. Atualmente, é professor do curso de Produção Multimídia EAD da UFCA.
+Doutorando em Ciência da Computação pelo CIn da UFPE, Mestre em Ciência da Computação pelo CIn da UFPE, MBA em Docência do Ensino Superior pelo IDJ. Possui graduação em Automação Industrial (trancada) pelo IFCE e em Análise e Desenvolvimento de Sistemas pela UniLeão. Atualmente, atuo como advisor na Clínica NeuroEspectro, além de ser empreendedor e desenvolvedor.
 
 Meus interesses são vastos e abrangem diversas áreas da computação. Tenho uma paixão especial por tópicos como Machine Learning, Deep Learning, Learning Analytics, Processamento de Linguagem Natural, Text Mining, Análise de Dados, Extração de Informação, Motores de Busca, Deduplicação de Dados, Tecnologia Assistiva, Processamento de Imagem, Visão Computacional, Robótica, Automação, e Internet das Coisas (IoT).
 
@@ -61,7 +61,7 @@ Atualmente, sou professor na [Universidade Federal do Cariri](https://ufca.edu.b
 
 Desempenho minhas funções ministrando aulas teóricas e práticas, desenvolvendo e atualizando o conteúdo programático da disciplina, alinhando-o às inovações tecnológicas e às demandas do mercado. Aplico avaliações e atividades que promovem o aprendizado prático e teórico dos alunos.
 
-Participo de reuniões acadêmicas e colaboro com a coordenação dos cursos para a melhoria contínua dos programas de ensino. Além disso, oriento e acompanho projetos dos alunos, contribuindo para o desenvolvimento de suas habilidades.
+Participo de reuniões acadêmicas e colaboro com a coordenação dos cursos para a melhoria contínua dos programas de ensino. Além disso, oriento e acompanho projetos dos alunos, contribuindo para o desenvolvimento de suas habilidades. Período de atuação: 2024.
 
 ### Colégio Nossa Senhora de Fátima
 
@@ -96,6 +96,27 @@ A experiência como monitor na UniLeão foi gratificante, permitindo-me aprimora
 
 ## Experiência Profissionais
 
+### Clínica NeuroEspectro
+
+Atualmente, sou advisor de tecnologia e estratégias na [Clínica NeuroEspectro](https://neuroespectro.com.br/), uma clínica especializada no atendimento a pacientes com transtornos cognitivos e distúrbios do desenvolvimento. Minha atuação envolve a consultoria em soluções tecnológicas e a elaboração de estratégias para otimizar o atendimento aos pacientes, modernizar a infraestrutura digital da clínica e integrar novas ferramentas tecnológicas para melhorar a experiência dos pacientes e da equipe clínica.
+
+Com foco em inovação, trabalho em estreita colaboração com a equipe da NeuroEspectro para implementar soluções de telemedicina, prontuário eletrônico inteligente e automação de processos, visando maior eficiência no tratamento dos pacientes. Também auxilio na definição de estratégias de crescimento e expansão da clínica, utilizando análise de dados e tecnologia para promover um atendimento mais inclusivo e personalizado.
+
+> **Competências**: Tecnologia em Saúde, Estratégia Digital, Automação de Processos, Telemedicina, Prontuário Eletrônico, Análise de Dados, Consultoria Tecnológica.
+
+### Octor
+
+Atualmente, sou engenheiro de software e cientista da computação na [Octor](https://qhoras.com.br/), uma startup focada no desenvolvimento de um software para gestão de consultórios, clínicas médicas e profissionais de saúde em geral. Na Octor, nossa missão é oferecer soluções tecnológicas que otimizam o fluxo de trabalho, melhoram a eficiência no atendimento ao paciente e facilitam a gestão de práticas de saúde.
+
+Minhas responsabilidades incluem a implementação de soluções inovadoras, como telemedicina, prontuário eletrônico inteligente e automação de processos. Trabalho no ciclo completo de desenvolvimento, desde a concepção e arquitetura até a entrega e manutenção de funcionalidades. Também sou responsável por integrar sistemas com APIs externas, otimizar o desempenho da plataforma e desenvolver algoritmos de análise de dados para fornecer insights detalhados aos nossos usuários.
+
+Além disso, aplico técnicas de machine learning e ciência de dados para criar recomendações personalizadas que ajudam nossos clientes a tomarem decisões informadas no cuidado de seus pacientes.
+
+> **Competências**: Engenharia de Software, Desenvolvimento Backend, Microserviços, APIs, Análise de Dados, Machine Learning, Python, PHP, MySQL, SQLite, PaaS.
+
+
+
+
 ### NoVerde/Dotz
 
 Durante minha passagem pelo time de TechFin no produto de crédito da [NoVerde](https://noverde.com.br/)/[Dotz](https://www.dotz.com.br/home), concentrei meus esforços no sistema de pagamento de empréstimos. Essa experiência proporcionou-me a oportunidade de trabalhar com diversas tecnologias e pessoas incríveis, além de me inserir no universo fascinante do mundo financeiro. No papel de desenvolvedor backend Python, fui responsável pelo desenvolvimento de novos recursos para APIs existentes, realização de testes (unitários e de integração) e migração de um legado em Ruby para tecnologias mais recentes, como Python, Lamda Cron, AirFlow e sistemas de monitoramento ELK. Além disso, desempenhei um papel ativo na resolução de problemas operacionais do dia a dia. Atuei nessa função de janeiro de 2023 a maio de 2023.
@@ -120,7 +141,7 @@ Durante os anos de 2019 e 2020, tive a oportunidade de aplicar meus conhecimento
 
 ## Experiências no Empreendedorismo
 
-Como empreendedor, tenho o orgulho de ser fundador e co-fundador de diversas Startups inovadoras, incluindo a [Realm](https://realm.com.br/), [qHoras](https://qhoras.com.br/), [Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Yaakov](https://yaakov.com.br/), [CoWatch](https://cowatch.com.br), [CreateLab](#).
+Como empreendedor, tenho o orgulho de ser fundador e co-fundador de diversas Startups inovadoras, incluindo a [Realm](https://realm.com.br/), [Octor](https://qhoras.com.br/), [Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Yaakov](https://yaakov.com.br/), [CoWatch](https://cowatch.com.br), [CreateLab](#).
 
 [https://rodriguesfas.github.io/startups](/docs/Startups/)
 
