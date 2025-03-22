@@ -2,7 +2,7 @@
 id: 0 - Início
 title: Início
 sidebar_label: 0 - Início
-tags: ['Tópicos Especiais em Sistemas de Informação', 'Início']
+tags: ['Tópicos Especiais', 'Início']
 ---
 
 # Ementa
