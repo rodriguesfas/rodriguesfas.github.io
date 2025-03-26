@@ -4,15 +4,15 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    Svg: require("@site/static/img/logo.svg",).default,
+    img: require("@site/static/img/profile-pic3.jpg").default,
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ img, title, description }) {
   return (
     <div className={clsx("col col--12")}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={img} className={styles.featureSvg} alt="Profile" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
