@@ -1,7 +1,7 @@
 ---
-id: index
-title: Início
-sidebar_label: Indice
+id: Índice
+title: Índice
+sidebar_label: Índice
 tags: ['Desenvolvimento para Dispositivos Móveis']
 ---
 

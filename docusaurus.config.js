@@ -73,7 +73,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Descobertas",
+            label: "Explorador",
           },
           { to: "/blog", label: "Eventos", position: "left" },
           { to: "/docs/Startups", label: "Startups", position: "left" },
@@ -93,51 +93,6 @@ const config = {
             type: "localeDropdown",
           },
         ],
-      },
-      footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Docs",
-                to: "/docs/bem-vindo",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "#",
-              },
-              {
-                label: "Discord",
-                href: "#",
-              },
-              {
-                label: "Twitter",
-                href: "#",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

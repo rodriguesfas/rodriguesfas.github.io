@@ -6,7 +6,7 @@ tags: [cv]
 
 # Francisco de Assis de Souza Rodrigues
 
-Doutorando em Ciência da Computação pelo CIn da UFPE, Mestre em Ciência da Computação pelo CIn da UFPE, MBA em Docência do Ensino Superior pelo IDJ. Possui graduação em Automação Industrial (trancada) pelo IFCE e em Análise e Desenvolvimento de Sistemas pela UniLeão. Atualmente, atuo como advisor na Clínica NeuroEspectro, além de ser empreendedor e desenvolvedor.
+Doutorando em Ciência da Computação pelo [CIn](http://cin.ufpe.br/) da [UFPE](https://www.ufpe.br/), Mestre em Ciência da Computação pelo CIn da UFPE, MBA em Docência do Ensino Superior pelo [IDJ](https://www.idj.com.br/). Possui graduação em Automação Industrial (trancada) pelo [IFCE](https://ifce.edu.br/) e em Análise e Desenvolvimento de Sistemas pela [UniLeão](https://unileao.edu.br/). Atualmente, é professor na UniFAP, e Coordenador do Núcleo de Extensão em Tecnologia da Informação - [NExTI](https://nexti.fapce.edu.br/), Advisor na Clínica [NeuroEspectro](https://neuroespectro.com.br/), Engenheiro de Software na [Octor](https://octor.com.br) e empreendedor.
 
 Meus interesses são vastos e abrangem diversas áreas da computação. Tenho uma paixão especial por tópicos como Machine Learning, Deep Learning, Learning Analytics, Processamento de Linguagem Natural, Text Mining, Análise de Dados, Extração de Informação, Motores de Busca, Deduplicação de Dados, Tecnologia Assistiva, Processamento de Imagem, Visão Computacional, Robótica, Automação, e Internet das Coisas (IoT).
 
