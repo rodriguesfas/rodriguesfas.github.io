@@ -5,6 +5,8 @@ title: Champs da Galáxia - Introdução ao Desenvolvimento de Jogos com Java
 
 # Champs da Galáxia - Introdução ao Desenvolvimento de Jogos com Java
 
+![Capa do livro](assets/images/image-000.png)
+
 **Autor:** Francisco A. S. Rodrigues  
 **Licença:** Creative Commons (CC) - Alguns Direitos Reservados  
 **Local/Data:** Juazeiro do Norte – CE, BRA, Julho de 2014  
@@ -62,9 +64,13 @@ Francisco de Assis de Souza Rodrigues, servo de Deus, Tecnólogo em Análise e D
 
 O clássico Super Mario Bros foi praticamente o primeiro jogo que joguei, por volta de 1996, na plataforma Nintendo. Lançado em 1985, foi o primeiro jogo com rolagem lateral — recurso conhecido como slide-scrolling. O jogo é o mais vendido da história dos videogames e inspirou incontáveis imitações que ajudaram a fixar esse estilo.
 
+![Super Mario Bros](assets/images/image-010.png)
+
 O jogador controlava o protagonista da série, Mario. O objetivo do jogo é percorrer o Reino do Cogumelo, sobreviver às forças do vilão Bowser e salvar a princesa Peach e seu reino do domínio dos Koop Troopas.
 
 Outro dos meus jogos favoritos foi Aero Fighters, conhecido como Sonic Wings no Japão — um jogo de nave estilo shoot 'em up com rolagem vertical. Lançado originalmente para fliperama em 1992, teve seu nome alterado em 1994 ao ser lançado para SNES. Nele, você pilota uma nave militar e precisa eliminar bases inimigas, conquistar territórios e adquirir novas armas.
+
+![Aero Fighters](assets/images/image-014.png)
 
 ### 1.1 Objetivo
 
@@ -74,6 +80,8 @@ Inspirar e motivar estudantes — sejam novatos ou veteranos — a explorarem a 
 
 Usaremos Aero Fighters como inspiração para o protótipo que desenvolveremos: Champs da Galáxia.
 
+![Champs da Galáxia](assets/images/image-015.png)
+
 Trata-se de um jogo espacial com batalhas galácticas entre espécies. O jogador controla uma nave, coleta power-ups e destrói inimigos. A missão é combater o exército do General Grong e impedir que ele cause caos no hiperespaço.
 
 > **Nota:** O documento que contém a história, personagens, cenários, desafios e lógica do jogo é conhecido como Game Design Document (GDD). Não será nosso foco neste livro.
@@ -81,6 +89,8 @@ Trata-se de um jogo espacial com batalhas galácticas entre espécies. O jogador
 ### 1.3 Visão Industrial
 
 Programar é apenas uma parte do desenvolvimento de um jogo. Estúdios profissionais contam com roteiristas, designers, engenheiros de som, especialistas em interface e experiência do usuário, entre outros.
+
+![Champs da Galáxia](assets/images/image-017.png)
 
 Por exemplo, o jogo Crysis chegou a ter mais de 650 pessoas envolvidas em sua produção.
 
@@ -208,6 +218,8 @@ protected Game() {
 
 Sprites são imagens bidimensionais ou animações usadas em jogos, como blocos de movimento.
 
+![Exemplo de Sprite](assets/images/image-044.png)
+
 Por exemplo, se tivermos uma imagem com 7 naves lado a lado (364x62 pixels), podemos dividir horizontalmente e usar índices para alternar o sprite de acordo com a movimentação do jogador.
 
 ## 3. Criando o Player
@@ -292,6 +304,8 @@ grafico.drawImage(
     nave.getAlt() + 1, null
 );
 ```
+
+![Nave do jogador](assets/images/image-047.png)
 
 ### 3.2 Movendo o Player
 
@@ -495,6 +509,7 @@ public class Inimigo {
     public int getLar() { return LARGURA; }
 }
 ```
+
 
 ### Adicionando inimigos no Game.java
 
@@ -924,4 +939,4 @@ Este livro é destinado a inspirar e motivar estudantes — novatos ou veteranos
 
 No final, você terá desafios extras para expandir seu projeto. Se aventure!
 
-[Download do PDF do livro](assets/champs-da-galaxia.pdf)
+<a href="/assets/Se Aventure Nessa Introdução ao Desenvolvimento.pdf" download>Download do PDF do livro</a>
