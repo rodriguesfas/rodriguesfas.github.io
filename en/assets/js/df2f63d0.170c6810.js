@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrodriguesfas_github_io=globalThis.webpackChunkrodriguesfas_github_io||[]).push([[7232],{2524(o){o.exports=JSON.parse('{"permalink":"/en/blog/tags/robots","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

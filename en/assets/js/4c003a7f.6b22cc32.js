@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrodriguesfas_github_io=globalThis.webpackChunkrodriguesfas_github_io||[]).push([[3587],{2010(s){s.exports=JSON.parse('{"label":"dusitio","permalink":"/en/blog/tags/dusitio","allTagsPath":"/en/blog/tags","count":1}')}}]);

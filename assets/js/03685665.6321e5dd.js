@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrodriguesfas_github_io=self.webpackChunkrodriguesfas_github_io||[]).push([[7040],{6827:e=>{e.exports=JSON.parse('{"label":"Docker","permalink":"/docs/tags/docker","allTagsPath":"/docs/tags","count":1,"items":[{"id":"DevOps/index","title":"DevOps","description":"Bem-vindo \xe0 minha p\xe1gina sobre DevOps!","permalink":"/docs/DevOps/"}]}')}}]);

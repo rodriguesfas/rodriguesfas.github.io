@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrodriguesfas_github_io=globalThis.webpackChunkrodriguesfas_github_io||[]).push([[8837],{6992(a){a.exports=JSON.parse('{"label":"enactus","permalink":"/fr/blog/tags/enactus","allTagsPath":"/fr/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrodriguesfas_github_io=globalThis.webpackChunkrodriguesfas_github_io||[]).push([[16],{3002(e){e.exports=JSON.parse('{"permalink":"/en/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":13,"previousPage":"/en/blog","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

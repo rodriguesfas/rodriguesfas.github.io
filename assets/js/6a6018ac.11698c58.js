@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrodriguesfas_github_io=globalThis.webpackChunkrodriguesfas_github_io||[]).push([[2401],{7107(i){i.exports=JSON.parse('{"label":"Scrum","permalink":"/docs/tags/scrum","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Agilidade/index","title":"Agilidade","description":"Metodologias \xc1geis e Scrum","permalink":"/docs/Agilidade/"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrodriguesfas_github_io=globalThis.webpackChunkrodriguesfas_github_io||[]).push([[1309],{6299(s){s.exports=JSON.parse('{"label":"robots","permalink":"/fr/blog/tags/robots","allTagsPath":"/fr/blog/tags","count":3}')}}]);
