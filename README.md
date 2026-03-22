@@ -1,12 +1,12 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 3](https://docusaurus.io/), a modern static website generator.
 
-### NVM Version
+### Requisitos
 
-```bash
-nvm use v18.17.0
-```
+- **Node.js 18+** (Docusaurus 3; o projeto declara `engines.node >= 18`).
+
+### NVM (exemplo)
 
 ### Installation
 
@@ -17,7 +17,7 @@ npm install
 ### Local Development
 
 ```bash
-nvm use v18.17.0
+nvm use v20
 npx docusaurus start
 ```
 
