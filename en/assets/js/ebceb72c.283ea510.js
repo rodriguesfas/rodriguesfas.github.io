@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkrodriguesfas_github_io=globalThis.webpackChunkrodriguesfas_github_io||[]).push([[5778],{1237(o){o.exports=JSON.parse('{"permalink":"/en/blog/tags/cebrac","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

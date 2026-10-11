@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkrodriguesfas_github_io=globalThis.webpackChunkrodriguesfas_github_io||[]).push([[6938],{1330(s){s.exports=JSON.parse('{"label":"seprotec","permalink":"/en/blog/tags/seprotec","allTagsPath":"/en/blog/tags","count":1}')}}]);

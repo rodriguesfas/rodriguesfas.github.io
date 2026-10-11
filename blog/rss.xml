@@ -1,58 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Olá! Eu sou Francisco Rodrigues Blog</title>
-        <link>http://rodriguesfas.github.io/blog</link>
-        <description>Olá! Eu sou Francisco Rodrigues Blog</description>
+        <title>Francisco Rodrigues Blog</title>
+        <link>https://rodriguesfas.github.io/blog</link>
+        <description>Francisco Rodrigues Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <language>pt</language>
+        <language>pt-BR</language>
         <item>
-            <title><![CDATA[Bem vindo]]></title>
-            <link>http://rodriguesfas.github.io/blog/welcome</link>
-            <guid>http://rodriguesfas.github.io/blog/welcome</guid>
+            <title><![CDATA[Bem-vindo]]></title>
+            <link>https://rodriguesfas.github.io/blog/welcome</link>
+            <guid>https://rodriguesfas.github.io/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Participei ativamente de uma variedade de eventos enriquecedores, nos quais contribuí por meio de conversas, oficinas, mini-cursos, workshops, entrevistas em rádio e TV, bem como em mesas-redondas. Essas oportunidades foram oferecidas em eventos renomados, como FLISOL, Genuino Day, CeproTec, SeTAi, Calug, SinFor e CEBRAC.]]></description>
-            <content:encoded><![CDATA[<p>Participei ativamente de uma variedade de eventos enriquecedores, nos quais contribuí por meio de conversas, oficinas, mini-cursos, workshops, entrevistas em rádio e TV, bem como em mesas-redondas. Essas oportunidades foram oferecidas em eventos renomados, como FLISOL, Genuino Day, CeproTec, SeTAi, Calug, SinFor e CEBRAC. </p><p>Nesses eventos, pude compartilhar meu conhecimento, experiências e insights sobre temas relevantes e atuais. Tive a oportunidade de interagir com profissionais e entusiastas da área, ampliando meu network e aprendendo com as diversas perspectivas apresentadas.</p><p>Além disso, alguns registros dessas participações podem ser encontrados aqui, permitindo que você acesse e reviva essas experiências. Esses registros servem como evidência da minha ativa participação e envolvimento nessas importantes iniciativas, que contribuem para o desenvolvimento e disseminação do conhecimento em nossas áreas de interesse.</p>]]></content:encoded>
+            <description><![CDATA[Participei de vários eventos como palestrante e facilitador — conversas, oficinas, minicursos, workshops, entrevistas em rádio e TV, e mesas-redondas. Entre eles: FLISOL, Genuino Day, CeproTec, SeTAi, Calug, SinFor e CEBRAC.]]></description>
+            <content:encoded><![CDATA[<p>Participei de vários eventos como palestrante e facilitador — conversas, oficinas, minicursos, workshops, entrevistas em rádio e TV, e mesas-redondas. Entre eles: FLISOL, Genuino Day, CeproTec, SeTAi, Calug, SinFor e CEBRAC.</p>
+<p>Aqui ficam os registros dessas participações. Use o blog como linha do tempo dos eventos.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IV Robots]]></title>
-            <link>http://rodriguesfas.github.io/blog/ivrobots</link>
-            <guid>http://rodriguesfas.github.io/blog/ivrobots</guid>
+            <link>https://rodriguesfas.github.io/blog/ivrobots</link>
+            <guid>https://rodriguesfas.github.io/blog/ivrobots</guid>
             <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Cobertura da competição IV Robots e da etapa regional do Torneio Juvenil de Robótica - TJR. Os eventos aconteceram no dia 06 de junho de 2018, em Juazeiro do Norte/CE. IV Robots e TJR | Colégio Objetivo Juazeiro.]]></description>
-            <content:encoded><![CDATA[<p>Cobertura da competição IV <a href="https://www.robots.objetivojuazeiro.com.br/" target="_blank" rel="noopener noreferrer">Robots</a> e da etapa regional do Torneio Juvenil de Robótica - TJR. Os eventos aconteceram no dia 06 de junho de 2018, em Juazeiro do Norte/CE. <a href="https://www.youtube.com/watch?v=Qcs-3IouN-0" target="_blank" rel="noopener noreferrer">IV Robots e TJR | Colégio Objetivo Juazeiro</a>.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Cobertura da competição IV <a href="https://www.robots.objetivojuazeiro.com.br/" target="_blank" rel="noopener noreferrer" class="">Robots</a> e da etapa regional do Torneio Juvenil de Robótica - TJR. Os eventos aconteceram no dia 06 de junho de 2018, em Juazeiro do Norte/CE. <a href="https://www.youtube.com/watch?v=Qcs-3IouN-0" target="_blank" rel="noopener noreferrer" class="">IV Robots e TJR | Colégio Objetivo Juazeiro</a>.</p>]]></content:encoded>
             <category>robots</category>
             <category>2018</category>
         </item>
         <item>
             <title><![CDATA[II Robots]]></title>
-            <link>http://rodriguesfas.github.io/blog/iirobots</link>
-            <guid>http://rodriguesfas.github.io/blog/iirobots</guid>
+            <link>https://rodriguesfas.github.io/blog/iirobots</link>
+            <guid>https://rodriguesfas.github.io/blog/iirobots</guid>
             <pubDate>Fri, 16 Jun 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Cobertura da competição II Robots. O evento acontecerá no dia 16 de junho de 2016, em Juazeiro do Norte/CE. II Robots do Colégio Objetivo Juazeiro do Norte | II ROBOTS na TV Verde Vale Cariri.]]></description>
-            <content:encoded><![CDATA[<p>Cobertura da competição II Robots. O evento acontecerá no dia 16 de junho de 2016, em Juazeiro do Norte/CE. <a href="https://www.youtube.com/watch?v=Qcs-3IouN-0" target="_blank" rel="noopener noreferrer">II Robots do Colégio Objetivo Juazeiro do Norte</a> | <a href="https://www.youtube.com/watch?v=j7zXXstwzsM&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer">II ROBOTS na TV Verde Vale Cariri</a>.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Cobertura da competição II Robots. O evento acontecerá no dia 16 de junho de 2016, em Juazeiro do Norte/CE. <a href="https://www.youtube.com/watch?v=Qcs-3IouN-0" target="_blank" rel="noopener noreferrer" class="">II Robots do Colégio Objetivo Juazeiro do Norte</a> | <a href="https://www.youtube.com/watch?v=j7zXXstwzsM&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer" class="">II ROBOTS na TV Verde Vale Cariri</a>.</p>]]></content:encoded>
             <category>robots</category>
             <category>2016</category>
         </item>
         <item>
             <title><![CDATA[III Robots]]></title>
-            <link>http://rodriguesfas.github.io/blog/iiirobots</link>
-            <guid>http://rodriguesfas.github.io/blog/iiirobots</guid>
+            <link>https://rodriguesfas.github.io/blog/iiirobots</link>
+            <guid>https://rodriguesfas.github.io/blog/iiirobots</guid>
             <pubDate>Tue, 13 Jun 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Cobertura da competição IV Robots e da etapa regional do Torneio Juvenil de Robótica - TJR. Os eventos aconteceram no dia 06 de junho de 2017, em Juazeiro do Norte/CE. IV Robots e TJR | Colégio Objetivo Juazeiro.]]></description>
-            <content:encoded><![CDATA[<p>Cobertura da competição IV <a href="https://www.robots.objetivojuazeiro.com.br/" target="_blank" rel="noopener noreferrer">Robots</a> e da etapa regional do Torneio Juvenil de Robótica - TJR. Os eventos aconteceram no dia 06 de junho de 2017, em Juazeiro do Norte/CE. <a href="https://www.youtube.com/watch?v=Qcs-3IouN-0" target="_blank" rel="noopener noreferrer">IV Robots e TJR | Colégio Objetivo Juazeiro</a>.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Cobertura da competição IV <a href="https://www.robots.objetivojuazeiro.com.br/" target="_blank" rel="noopener noreferrer" class="">Robots</a> e da etapa regional do Torneio Juvenil de Robótica - TJR. Os eventos aconteceram no dia 06 de junho de 2017, em Juazeiro do Norte/CE. <a href="https://www.youtube.com/watch?v=Qcs-3IouN-0" target="_blank" rel="noopener noreferrer" class="">IV Robots e TJR | Colégio Objetivo Juazeiro</a>.</p>]]></content:encoded>
             <category>robots</category>
             <category>2017</category>
         </item>
         <item>
             <title><![CDATA[DuSitio]]></title>
-            <link>http://rodriguesfas.github.io/blog/dusitio</link>
-            <guid>http://rodriguesfas.github.io/blog/dusitio</guid>
+            <link>https://rodriguesfas.github.io/blog/dusitio</link>
+            <guid>https://rodriguesfas.github.io/blog/dusitio</guid>
             <pubDate>Wed, 22 Feb 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Evento de Lançamento do App DuSitio]]></description>
-            <content:encoded><![CDATA[<p>Evento de Lançamento do App DuSitio</p><p>Diário do Nordeste: <a href="http://blogs.diariodonordeste.com.br/cariri/cidades/juazeiro-do-norte/estudantes-de-juazeiro-do-norte-criam-aplicativo-que-auxilia-agricultores-nas-vendas/14897" target="_blank" rel="noopener noreferrer">Estudantes de Juazeiro do Norte criam aplicativo que auxilia agricultores nas vendas</a>.</p><p>Gazeta do Cariri: <a href="http://www.gazetadocariri.com/2017/03/estudantes-de-juazeiro-do-norte-criam.html" target="_blank" rel="noopener noreferrer">Estudantes de Juazeiro do Norte criam aplicativo que auxilia agricultores nas vendas</a>.</p><p>Facebook: <a href="https://www.facebook.com/enactusleaosampaio/community/" target="_blank" rel="noopener noreferrer">ENACTUS UNILEÃO</a></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Evento de Lançamento do App DuSitio</p>
+<p>Diário do Nordeste: <a href="http://blogs.diariodonordeste.com.br/cariri/cidades/juazeiro-do-norte/estudantes-de-juazeiro-do-norte-criam-aplicativo-que-auxilia-agricultores-nas-vendas/14897" target="_blank" rel="noopener noreferrer" class="">Estudantes de Juazeiro do Norte criam aplicativo que auxilia agricultores nas vendas</a>.</p>
+<p>Gazeta do Cariri: <a href="http://www.gazetadocariri.com/2017/03/estudantes-de-juazeiro-do-norte-criam.html" target="_blank" rel="noopener noreferrer" class="">Estudantes de Juazeiro do Norte criam aplicativo que auxilia agricultores nas vendas</a>.</p>
+<p>Facebook: <a href="https://www.facebook.com/enactusleaosampaio/community/" target="_blank" rel="noopener noreferrer" class="">ENACTUS UNILEÃO</a></p>]]></content:encoded>
             <category>dusitio</category>
             <category>2017</category>
             <category>enactus</category>
@@ -60,68 +64,74 @@
         </item>
         <item>
             <title><![CDATA[Momento Inspiração - CEBRAC]]></title>
-            <link>http://rodriguesfas.github.io/blog/cebrac</link>
-            <guid>http://rodriguesfas.github.io/blog/cebrac</guid>
+            <link>https://rodriguesfas.github.io/blog/cebrac</link>
+            <guid>https://rodriguesfas.github.io/blog/cebrac</guid>
             <pubDate>Wed, 18 Jan 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[Paletra motivacional, ministrada na instituição CEBRAC.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docs.google.com/presentation/d/e/2PACX-1vSq-RRB88d6rYlTlDdQzJ4l2wPlNUWfXeO51wv-5CWqpMApNpYWjN8jWKe_pW7Zs0CUIz5i0aMnQknu/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p" target="_blank" rel="noopener noreferrer">Paletra motivacional, ministrada na instituição CEBRAC</a>.</p>]]></content:encoded>
+            <description><![CDATA[Palestra motivacional, ministrada na instituição CEBRAC.]]></description>
+            <content:encoded><![CDATA[<p><a href="https://docs.google.com/presentation/d/e/2PACX-1vSq-RRB88d6rYlTlDdQzJ4l2wPlNUWfXeO51wv-5CWqpMApNpYWjN8jWKe_pW7Zs0CUIz5i0aMnQknu/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p" target="_blank" rel="noopener noreferrer" class="">Palestra motivacional, ministrada na instituição CEBRAC</a>.</p>]]></content:encoded>
             <category>cebrac</category>
             <category>2017</category>
         </item>
         <item>
             <title><![CDATA[IV Robots]]></title>
-            <link>http://rodriguesfas.github.io/blog/genuinoday</link>
-            <guid>http://rodriguesfas.github.io/blog/genuinoday</guid>
+            <link>https://rodriguesfas.github.io/blog/genuinoday</link>
+            <guid>https://rodriguesfas.github.io/blog/genuinoday</guid>
             <pubDate>Sun, 20 Mar 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[Um evento que visa promover e difundir o Arduino.]]></description>
-            <content:encoded><![CDATA[<p>Um evento que visa promover e difundir o Arduino.</p><p><a href="https://www.youtube.com/watch?v=OmEpWjOzG1Q&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer">Materia TV Verde Vale</a></p><p><a href="https://www.youtube.com/watch?v=XQE3942WXSA" target="_blank" rel="noopener noreferrer">Arduino/Genuino Day Cariri 2016</a></p><p>Palestra: <a href="https://docs.google.com/presentation/d/e/2PACX-1vShyt4s8VqRe5dBb6_Xl3kDLmLpslVaO3DEZc9YydOqRvaIilkvncweLi3eooBLFTxcQO0EIf7_RdWq/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p" target="_blank" rel="noopener noreferrer">Robô Seguidor de Linha</a>.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Um evento que visa promover e difundir o Arduino.</p>
+<p><a href="https://www.youtube.com/watch?v=OmEpWjOzG1Q&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer" class="">Matéria TV Verde Vale</a></p>
+<p><a href="https://www.youtube.com/watch?v=XQE3942WXSA" target="_blank" rel="noopener noreferrer" class="">Arduino/Genuino Day Cariri 2016</a></p>
+<p>Palestra: <a href="https://docs.google.com/presentation/d/e/2PACX-1vShyt4s8VqRe5dBb6_Xl3kDLmLpslVaO3DEZc9YydOqRvaIilkvncweLi3eooBLFTxcQO0EIf7_RdWq/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p" target="_blank" rel="noopener noreferrer" class="">Robô Seguidor de Linha</a>.</p>]]></content:encoded>
             <category>genuinoday</category>
             <category>2016</category>
         </item>
         <item>
             <title><![CDATA[CALUG]]></title>
-            <link>http://rodriguesfas.github.io/blog/calug</link>
-            <guid>http://rodriguesfas.github.io/blog/calug</guid>
+            <link>https://rodriguesfas.github.io/blog/calug</link>
+            <guid>https://rodriguesfas.github.io/blog/calug</guid>
             <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[Neste fim de semana, dia 12 de março de 2016, aconteceu o evento CALUG. Realizado pelo grupo da comunidade Linux e Software Livre do Cariri. Esse evento aconteceu no SEST/SENAT – Crato – Ceará, e conteve diversas palestras fantásticas, dentre elas, uma realizada por mim. Clube dos Geeks.]]></description>
-            <content:encoded><![CDATA[<p>Neste fim de semana, dia 12 de março de 2016, aconteceu o evento CALUG. Realizado pelo grupo da comunidade Linux e Software Livre do Cariri. Esse evento aconteceu no SEST/SENAT – Crato – Ceará, e conteve diversas palestras fantásticas, dentre elas, uma realizada por mim. Clube dos Geeks.</p><p>Palestra: <a href="https://docs.google.com/presentation/d/e/2PACX-1vRgmrEySSWPmbSTia65CZ4MXWF4D6HYUHvm2LYWavcoBGwaFeqbX30jGyz3Wp4xLRprEF22Z8Z8RMFR/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p15" target="_blank" rel="noopener noreferrer">Reconhecimento Facial com Processing + Arduino + OpenCV</a>.</p>]]></content:encoded>
+            <description><![CDATA[Neste fim de semana, dia 12 de março de 2016, aconteceu o evento CALUG. Realizado pelo grupo da comunidade Linux e Software Livre do Cariri. Esse evento aconteceu no SEST/SENAT – Crato – Ceará, e contou com diversas palestras fantásticas, dentre elas, uma realizada por mim. Clube dos Geeks.]]></description>
+            <content:encoded><![CDATA[<p>Neste fim de semana, dia 12 de março de 2016, aconteceu o evento CALUG. Realizado pelo grupo da comunidade Linux e Software Livre do Cariri. Esse evento aconteceu no SEST/SENAT – Crato – Ceará, e contou com diversas palestras fantásticas, dentre elas, uma realizada por mim. Clube dos Geeks.</p>
+<p>Palestra: <a href="https://docs.google.com/presentation/d/e/2PACX-1vRgmrEySSWPmbSTia65CZ4MXWF4D6HYUHvm2LYWavcoBGwaFeqbX30jGyz3Wp4xLRprEF22Z8Z8RMFR/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p15" target="_blank" rel="noopener noreferrer" class="">Reconhecimento Facial com Processing + Arduino + OpenCV</a>.</p>]]></content:encoded>
             <category>calug</category>
             <category>2016</category>
         </item>
         <item>
             <title><![CDATA[I TEC - Tecnologia e Empreendedorismo Cariri]]></title>
-            <link>http://rodriguesfas.github.io/blog/i-tec</link>
-            <guid>http://rodriguesfas.github.io/blog/i-tec</guid>
+            <link>https://rodriguesfas.github.io/blog/i-tec</link>
+            <guid>https://rodriguesfas.github.io/blog/i-tec</guid>
             <pubDate>Sat, 19 Dec 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[Com o objetivo de unir e disseminar o espírito empreendedor nos entusiastas e profissionais de tecnologia, surge o TEC, um evento gratuíto com o foco alavancar empresas na área de tecnologia.]]></description>
-            <content:encoded><![CDATA[<p>Com o objetivo de unir e disseminar o espírito empreendedor nos entusiastas e profissionais de tecnologia, surge o TEC, um evento gratuíto com o foco alavancar empresas na área de tecnologia.</p><p>12 de dezembro de 2015, 07h00 até 19 de dezembro de 2015, 18h30. Faculdade de Juazeiro do Norte, Juazeiro do Norte, CE. <a href="https://doity.com.br/tec" target="_blank" rel="noopener noreferrer">Inscrição</a>.</p><p>Minicurso: <a href="https://docs.google.com/presentation/d/e/2PACX-1vTSDYKuEe-Q4GJrYq1OzmVkq2mQfNv9oIUx6pqksiK5QNQ4-X2aIXz12PWNzMiz5Rr5Qs7bSkJWNde5/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p" target="_blank" rel="noopener noreferrer">Introdução ao Desenvolvimento de Projetos com Arduino</a>.</p>]]></content:encoded>
+            <description><![CDATA[Com o objetivo de unir e disseminar o espírito empreendedor nos entusiastas e profissionais de tecnologia, surge o TEC, um evento gratuito com o foco de alavancar empresas na área de tecnologia.]]></description>
+            <content:encoded><![CDATA[<p>Com o objetivo de unir e disseminar o espírito empreendedor nos entusiastas e profissionais de tecnologia, surge o TEC, um evento gratuito com o foco de alavancar empresas na área de tecnologia.</p>
+<p>12 de dezembro de 2015, 07h00 até 19 de dezembro de 2015, 18h30. Faculdade de Juazeiro do Norte, Juazeiro do Norte, CE. <a href="https://doity.com.br/tec" target="_blank" rel="noopener noreferrer" class="">Inscrição</a>.</p>
+<p>Minicurso: <a href="https://docs.google.com/presentation/d/e/2PACX-1vTSDYKuEe-Q4GJrYq1OzmVkq2mQfNv9oIUx6pqksiK5QNQ4-X2aIXz12PWNzMiz5Rr5Qs7bSkJWNde5/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p" target="_blank" rel="noopener noreferrer" class="">Introdução ao Desenvolvimento de Projetos com Arduino</a>.</p>]]></content:encoded>
             <category>i-tec</category>
             <category>2015</category>
         </item>
         <item>
             <title><![CDATA[I TEC - Tecnologia e Empreendedorismo Cariri]]></title>
-            <link>http://rodriguesfas.github.io/blog/snct</link>
-            <guid>http://rodriguesfas.github.io/blog/snct</guid>
+            <link>https://rodriguesfas.github.io/blog/snct</link>
+            <guid>https://rodriguesfas.github.io/blog/snct</guid>
             <pubDate>Fri, 20 Nov 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[Na Semana Nacional de Ciência e Tecnologia (SNCT), que acontecerá no Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte, no período de 19 à 20/11/2015, estarei ministrando um Minicurso com o tema Debate das Políticas Sociais de Inclusão Social e Tecnologia (Tecnologia Assistiva).]]></description>
-            <content:encoded><![CDATA[<p>Na Semana Nacional de Ciência e Tecnologia (SNCT), que acontecerá no Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte, no período de 19 à 20/11/2015, estarei ministrando um Minicurso com o tema: <a href="https://docs.google.com/presentation/d/e/2PACX-1vRyjsKbG-kgbVoblhgJa0IhSfDUxB5QMHfiIzCKyVhH0UIN8DBvx3At4oH_Of9v84h1VRSWE6aBhN4b/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p" target="_blank" rel="noopener noreferrer">Desenvolvimento de Bibliotecas para Arduino</a> e participando do Forum com tema: Debate das Políticas Sociais de Inclusão Social e Tecnologia (Tecnologia Assistiva).</p>]]></content:encoded>
+            <description><![CDATA[Na Semana Nacional de Ciência e Tecnologia (SNCT), que acontecerá no Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte, no período de 19 a 20/11/2015, estarei ministrando um Minicurso com o tema Debate das Políticas Sociais de Inclusão Social e Tecnologia (Tecnologia Assistiva).]]></description>
+            <content:encoded><![CDATA[<p>Na Semana Nacional de Ciência e Tecnologia (SNCT), que acontecerá no Instituto Federal do Ceará (IFCE) - Campus Juazeiro do Norte, no período de 19 a 20/11/2015, estarei ministrando um Minicurso com o tema: <a href="https://docs.google.com/presentation/d/e/2PACX-1vRyjsKbG-kgbVoblhgJa0IhSfDUxB5QMHfiIzCKyVhH0UIN8DBvx3At4oH_Of9v84h1VRSWE6aBhN4b/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p" target="_blank" rel="noopener noreferrer" class="">Desenvolvimento de Bibliotecas para Arduino</a> e participando do Fórum com tema: Debate das Políticas Sociais de Inclusão Social e Tecnologia (Tecnologia Assistiva).</p>]]></content:encoded>
             <category>snct</category>
             <category>2015</category>
         </item>
         <item>
             <title><![CDATA[SeTAI – Semana Automação Industrial]]></title>
-            <link>http://rodriguesfas.github.io/blog/setai</link>
-            <guid>http://rodriguesfas.github.io/blog/setai</guid>
+            <link>https://rodriguesfas.github.io/blog/setai</link>
+            <guid>https://rodriguesfas.github.io/blog/setai</guid>
             <pubDate>Fri, 29 May 2015 00:00:00 GMT</pubDate>
-            <description><![CDATA[Na SeTAI – Semana Automação Industrial (SNCT), que acontecerá no Instituto Federal do Ceará (IFCE) - campus Juazeiro do Norte em 20/05/2015, estarei palestrando sobre o DAVI- Dispositivo de Apoio para Deficientes Visuais.]]></description>
-            <content:encoded><![CDATA[<p>Na SeTAI – Semana Automação Industrial (SNCT), que acontecerá no Instituto Federal do Ceará (IFCE) - campus Juazeiro do Norte em 20/05/2015, estarei palestrando sobre o <a href="https://docs.google.com/presentation/d/e/2PACX-1vTTFICRGgX8FHI0gfmeaY4qeR4FW_LpqQ0_gQE5IqkukXWb2GlXMILRoEaf7CbGGQ-tvnDWsuCTkpIS/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p4" target="_blank" rel="noopener noreferrer">DAVI- Dispositivo de Apoio para Deficientes Visuais</a>.</p>]]></content:encoded>
+            <description><![CDATA[Na SeTAI – Semana de Tecnologia em Automação Industrial, que acontecerá no Instituto Federal do Ceará (IFCE) - campus Juazeiro do Norte em 20/05/2015, estarei palestrando sobre o DAVI- Dispositivo de Apoio para Deficientes Visuais.]]></description>
+            <content:encoded><![CDATA[<p>Na SeTAI – Semana de Tecnologia em Automação Industrial, que acontecerá no Instituto Federal do Ceará (IFCE) - campus Juazeiro do Norte em 20/05/2015, estarei palestrando sobre o <a href="https://docs.google.com/presentation/d/e/2PACX-1vTTFICRGgX8FHI0gfmeaY4qeR4FW_LpqQ0_gQE5IqkukXWb2GlXMILRoEaf7CbGGQ-tvnDWsuCTkpIS/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p4" target="_blank" rel="noopener noreferrer" class="">DAVI- Dispositivo de Apoio para Deficientes Visuais</a>.</p>]]></content:encoded>
             <category>setai</category>
             <category>2015</category>
         </item>
         <item>
             <title><![CDATA[SEPROTEC – Semana Profissional Tecnologia]]></title>
-            <link>http://rodriguesfas.github.io/blog/seprotec</link>
-            <guid>http://rodriguesfas.github.io/blog/seprotec</guid>
+            <link>https://rodriguesfas.github.io/blog/seprotec</link>
+            <guid>https://rodriguesfas.github.io/blog/seprotec</guid>
             <pubDate>Fri, 19 Dec 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Na SEPROTEC – Semana Profissional Tecnologia, que acontecerá no SEST/SENAT Crato – CE, no dia 09/12/2014, estarei ministrando uma palestra sobre o DAVI - Dispositivo de Apoio para Deficientes Visuais.]]></description>
             <content:encoded><![CDATA[<p>Na SEPROTEC – Semana Profissional Tecnologia, que acontecerá no SEST/SENAT Crato – CE, no dia 09/12/2014, estarei ministrando uma palestra sobre o DAVI - Dispositivo de Apoio para Deficientes Visuais.</p>]]></content:encoded>
@@ -130,11 +140,11 @@
         </item>
         <item>
             <title><![CDATA[FLISOL]]></title>
-            <link>http://rodriguesfas.github.io/blog/2014-04-26-flisol</link>
-            <guid>http://rodriguesfas.github.io/blog/2014-04-26-flisol</guid>
+            <link>https://rodriguesfas.github.io/blog/2014-04-26-flisol</link>
+            <guid>https://rodriguesfas.github.io/blog/2014-04-26-flisol</guid>
             <pubDate>Sat, 26 Apr 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Na FLISOL - Festival Latino-Americano De Instalação De Software Livre, que acontecerá no SEST/SENAT Crato – CE, no dia 26/04/2014, estarei ministrando uma palestra sobre Ubuntu - O Começo Para o Mundo Livre.]]></description>
-            <content:encoded><![CDATA[<p>Na FLISOL - Festival Latino-Americano De Instalação De Software Livre, que acontecerá no SEST/SENAT Crato – CE, no dia 26/04/2014, estarei ministrando uma palestra sobre Ubuntu - <a href="https://docs.google.com/presentation/d/e/2PACX-1vS893hLpd8_PKAyyOV_QObq5YxSLOra7db1jXmYc8AkdtTxBBN0ZGWs2jgJqNE6_5VZ_8nXPNYqFgyu/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p3" target="_blank" rel="noopener noreferrer">O Começo Para o Mundo Livre</a>.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Na FLISOL - Festival Latino-Americano De Instalação De Software Livre, que acontecerá no SEST/SENAT Crato – CE, no dia 26/04/2014, estarei ministrando uma palestra sobre Ubuntu - <a href="https://docs.google.com/presentation/d/e/2PACX-1vS893hLpd8_PKAyyOV_QObq5YxSLOra7db1jXmYc8AkdtTxBBN0ZGWs2jgJqNE6_5VZ_8nXPNYqFgyu/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p3" target="_blank" rel="noopener noreferrer" class="">O Começo Para o Mundo Livre</a>.</p>]]></content:encoded>
             <category>flisol</category>
             <category>2014</category>
         </item>
