@@ -28,7 +28,7 @@ Desde o momento em que nascemos, nossos primeiros relacionamentos são estabelec
 
 > 1 Coríntios 13:11 nos lembra que o crescimento espiritual e emocional está intrinsecamente ligado à forma como nos relacionamos com os outros. À medida que crescemos, também devemos crescer em empatia, responsabilidade e maturidade nos nossos relacionamentos, promovendo assim relacionamentos mais saudáveis e amorosos. 
 
-> A Bíblia hora nos convida a sermos como criança, e hora ela nos chama a atenção para não sermos com criança, mais Paulo vai dexar aclaro em 1 Coríntios 14.20, que diz: "Irmãos, não sejais meninos no entendimento, mas sede meninos na malícia e adultos no entendimento.".
+> A Bíblia hora nos convida a sermos como criança, e hora ela nos chama a atenção para não agirmos como criança; mas Paulo vai deixar claro em 1 Coríntios 14.20, que diz: "Irmãos, não sejais meninos no entendimento, mas sede meninos na malícia e adultos no entendimento.".
 
 ## A Bíblia
 
@@ -72,7 +72,7 @@ Essas passagens destacam a importância do amor, do perdão, da bondade, da paci
 
 ### Cultivando Relacionamentos com Empatia
 
-O objetivo  desse devocional é crescer em amor e empatia em seus relacionamentos, seguindo os ensinamentos da Bíblia.
+O objetivo desse devocional é crescer em amor e empatia em seus relacionamentos, seguindo os ensinamentos da Bíblia.
 
 #### Dia 1: Amando como fomos amados
 

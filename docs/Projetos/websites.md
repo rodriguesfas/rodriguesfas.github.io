@@ -63,19 +63,19 @@ Stacks: ```HTML```, ```CSS```, ```Javascript``` e ```Bootstrap``` e ```Github Pa
 
 ---
 
-[Metodologia em Computação](https://rodriguesfas.github.io/docs/metodologiaemcomputacao.github.io), guia de metodologia cientifica para computeiros.
+[Metodologia em Computação](https://rodriguesfas.github.io/docs/metodologiaemcomputacao.github.io), guia de metodologia científica para cientistas da computação.
 
 Stacks: ```Jekyll```, ```HTML```, ```CSS```, ```Javascript```, ```Bootstrap``` e ```Github Page```.
 
 ## Portal
 
-[Thor](https://thor.obssaberes.org/) um portal para cadastro de escolas no evento Olimpída Brasileira do Saber - OBS.
+[Thor](https://thor.obssaberes.org/) um portal para cadastro de escolas no evento Olimpíada Brasileira do Saber - OBS.
 
 Stacks: ```Codeigniter```, ```PHP```, ```HTML```, ```CSS```, ```Javascript```, ```Bootstrap```, ```MySQL```.
 
 ---
 
-[Loki](https://loki.obssaberes.org/) um portal para realizar exames online no evento Olimpiada Brasileira do Saber - OBS.
+[Loki](https://loki.obssaberes.org/) um portal para realizar exames online no evento Olimpíada Brasileira do Saber - OBS.
 
 Stacks: ```Codeigniter```, ```PHP```, ```HTML```, ```CSS```, ```Javascript```, ```Bootstrap```, ```MySQL```.
 
@@ -83,4 +83,4 @@ Stacks: ```Codeigniter```, ```PHP```, ```HTML```, ```CSS```, ```Javascript```, `
 
 [CreateLab](https://portal.createlab.com.br/) um portal para acesso de materiais didáticos de robótica educacional.
 
-Stacks: ```Laravel```, ```Angula```, ```PHP```, ```HTML```, ```CSS```, ```Javascript```, ```Bootstrap```, ```MySQL```, ```API REST```.
+Stacks: ```Laravel```, ```Angular```, ```PHP```, ```HTML```, ```CSS```, ```Javascript```, ```Bootstrap```, ```MySQL```, ```API REST```.

@@ -1,8 +1,9 @@
 ---
 id: bem-vindo
-title: Bem vindo!
-sidebar_label: Bem vindo!
+title: Bem-vindo!
+sidebar_label: Bem-vindo!
 ---
 
-Aqui você encontra-rá ```slides```, ```code``` entre outros.
-Não espere encontrar o melhor contúdo da internet nesse lugar, e sim, um norte(tópicos) para seus estudos. A final,  esse é apenas um website pessoal que utilizo para organizar minhas coisas.
+Aqui você encontra slides, código e anotações — um norte de tópicos para estudo, não um curso acabado.
+
+Não espere o “melhor conteúdo da internet”. Este é um site pessoal: o lugar onde organizo o que aprendo, ensino e construo.

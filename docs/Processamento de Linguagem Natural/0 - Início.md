@@ -5,7 +5,7 @@ sidebar_label: 0 - Início
 tags: ['Processamento de Linguagem Natural', 'Início', 'IA']
 ---
 
-# Indice
+# Índice
 
 1. **Introdução ao PLN**
    - Definição e aplicações

@@ -4,9 +4,10 @@ title: Zafie
 tags: [Startups, Zafie]
 ---
 
-
 # Zafie
 
-Em 06/2021 co-fundei o [Zafie](https://zafie.com.br/), um gestor de pedidos online completo, projetado para otimizar as operações e aumentar as vendas de empresas de Food e varejo em geral. Com recursos como cardápio digital, QRCode de mesa, integrações com WhatsApp, PDV, e muito mais, a Zafie simplifica a administração de pedidos e melhora a experiência do cliente. Além disso, oferece ferramentas para promoções, cupons de desconto e cashback.
+Em junho de 2021, co-fundei a [Zafie](https://zafie.com.br/): gestor de pedidos online para food e varejo.
 
-> Competências: Desenvolvimento de software, análise de mercado, gestão de restaurantes, criação de dashboards, integração de sistemas, PHP, Codeigniter 3, CSS, HTML, Javascript, Bootstrap, MySQL, AJAX.
+Cardápio digital, QR Code de mesa, integrações com WhatsApp e PDV, promoções, cupons e cashback — para simplificar pedidos e melhorar a experiência do cliente.
+
+> Competências: desenvolvimento de software, análise de mercado, gestão de restaurantes, dashboards, integração de sistemas, PHP, CodeIgniter 3, CSS, HTML, JavaScript, Bootstrap, MySQL, AJAX.

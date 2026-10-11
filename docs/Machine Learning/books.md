@@ -2,7 +2,7 @@
 id: books
 title: Books
 sidebar_label: Books
-tags: ['Machine Leaning', 'Books']
+tags: ['Machine Learning', 'Books']
 ---
 
 - [Machine Learning - A First Course for Engineers and Scientists](https://smlbook.org/)

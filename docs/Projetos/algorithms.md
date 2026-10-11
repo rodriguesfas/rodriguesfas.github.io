@@ -1,6 +1,6 @@
 ---
 id: algorithms
-title: Algorítimos
+title: Algoritmos
 ---
 
 ## [JAVA RUN Length Encoding](#)
@@ -8,7 +8,7 @@ title: Algorítimos
 ![!#](https://github.com/rodriguesfas/Java-Run-Length-Encoding/raw/master/Java-Run-Length-Encoding/img/matriz1.png)
 ![!#](https://github.com/rodriguesfas/Java-Run-Length-Encoding/raw/master/Java-Run-Length-Encoding/img/matriz2.png)
 
-Um algorítimo pra compressão de imagem bitmap.
+Um algoritmo pra compressão de imagem bitmap.
 
 - Stack: ```Java```.
 - Github: [https://github.com/rodriguesfas/Java-Run-Length-Encoding](https://github.com/rodriguesfas/Java-Run-Length-Encoding)
@@ -18,7 +18,7 @@ Um algorítimo pra compressão de imagem bitmap.
 
 ### [TestCase](#) 
 
-Um algorítimo para testar automaticamente resultados de algoritmos de maratona de programação.
+Um algoritmo para testar automaticamente resultados de algoritmos de maratona de programação.
 
 
 

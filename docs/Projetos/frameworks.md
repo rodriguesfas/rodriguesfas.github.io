@@ -5,6 +5,8 @@ title: Frameworks
 
 ### [DeepNLPF](https://deepnlpf.github.io/site/)
 
-Um framework para integrar análise linguística e anotação semântica de documentos de texto.
+Framework do mestrado (UFPE/CIn) para integrar análise linguística e anotação semântica. Publicado no [LREC 2020](https://aclanthology.org/2020.lrec-1.895/). Código e plugins: [`deepnlpf`](https://github.com/deepnlpf).
 
-Stacks: ```Java```, ```Python```, ```C/C++```, ```Bash```, ```Jupyter Notebook```.
+Stacks: Python, Java, C/C++, Bash, Jupyter.
+
+Ver também: [destaques](/docs/Projetos/).

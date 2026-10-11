@@ -15,8 +15,13 @@
 .env.test.local
 .env.production.local
 
+# make up / logs / pid
+.make/
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
 tips.md
+
+.env

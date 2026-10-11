@@ -1,23 +1,302 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
+.hero {
   position: relative;
   overflow: hidden;
+  padding: 5.5rem 0 4.5rem;
+  min-height: min(88vh, 720px);
+  display: flex;
+  align-items: center;
+  background:
+    radial-gradient(ellipse 80% 60% at 15% 20%, rgba(45, 158, 130, 0.22), transparent 55%),
+    radial-gradient(ellipse 70% 50% at 90% 10%, rgba(232, 168, 88, 0.14), transparent 50%),
+    linear-gradient(165deg, #0b1418 0%, #132028 45%, #0e1a1f 100%);
+  color: #e8eef0;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
+.heroGlow {
+  position: absolute;
+  inset: auto -10% -40% 40%;
+  height: 70%;
+  background: radial-gradient(circle, rgba(45, 158, 130, 0.18), transparent 65%);
+  pointer-events: none;
+  animation: drift 14s ease-in-out infinite alternate;
+}
+
+@keyframes drift {
+  from {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  to {
+    transform: translate3d(-4%, -3%, 0) scale(1.08);
   }
 }
 
-.buttons {
-  display: flex;
+.heroInner {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 3rem;
   align-items: center;
+}
+
+.eyebrow,
+.sectionEyebrow {
+  margin: 0 0 0.75rem;
+  font-family: var(--fasr-font-display);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #7ecfb8;
+}
+
+.brand {
+  margin: 0 0 1.25rem;
+  font-family: var(--fasr-font-display);
+  font-size: clamp(2.6rem, 6vw, 4.1rem);
+  font-weight: 700;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+  color: #f4f8f7;
+}
+
+.lede {
+  margin: 0 0 2rem;
+  max-width: 34rem;
+  font-size: 1.15rem;
+  line-height: 1.65;
+  color: rgba(232, 238, 240, 0.82);
+}
+
+.ctaRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+}
+
+.ctaPrimary {
+  border: none;
+  background: #2d9e82;
+  color: #061018;
+  font-weight: 650;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, background 0.25s ease;
+}
+
+.ctaPrimary:hover {
+  background: #3cb894;
+  color: #061018;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px rgba(45, 158, 130, 0.35);
+}
+
+.ctaGhost {
+  border-color: rgba(232, 238, 240, 0.35);
+  color: #e8eef0;
+  background: transparent;
+  transition: border-color 0.25s ease, background 0.25s ease, transform 0.25s ease;
+}
+
+.ctaGhost:hover {
+  border-color: #e8a858;
+  color: #fff;
+  background: rgba(232, 168, 88, 0.08);
+  transform: translateY(-2px);
+}
+
+.heroVisual {
+  display: flex;
   justify-content: center;
+  width: min(100%, 420px);
+  margin-inline: auto;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0 28px 60px rgba(0, 0, 0, 0.45);
+}
+
+.portrait {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* Cobre o soft-edge branco do crop circular do JPG */
+  transform: scale(1.06);
+  animation: rise 0.9s ease-out both;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.section {
+  padding: 4.5rem 0;
+}
+
+.sectionAlt {
+  background:
+    linear-gradient(180deg, rgba(45, 158, 130, 0.06), transparent 40%),
+    var(--ifm-background-surface-color);
+  border-block: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.sectionTitle {
+  margin: 0 0 0.75rem;
+  font-family: var(--fasr-font-display);
+  font-size: clamp(1.75rem, 3.5vw, 2.35rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+.sectionLead {
+  margin: 0 0 2.5rem;
+  max-width: 36rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.pathGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+
+.pathCard {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  padding: 1.5rem 1.4rem;
+  border-radius: 0.9rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  background:
+    linear-gradient(145deg, rgba(45, 158, 130, 0.05), transparent 55%),
+    var(--ifm-background-color);
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.pathCard:hover {
+  text-decoration: none;
+  color: inherit;
+  transform: translateY(-3px);
+  border-color: rgba(45, 158, 130, 0.45);
+  box-shadow: 0 16px 36px rgba(15, 30, 35, 0.1);
+}
+
+.pathTitle {
+  margin: 0;
+  font-family: var(--fasr-font-display);
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.pathDesc {
+  margin: 0;
+  flex: 1;
+  font-size: 0.98rem;
+  line-height: 1.55;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.pathGo {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 650;
+  color: var(--ifm-color-primary);
+}
+
+.aboutGrid {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.aboutBody p {
+  margin: 0 0 1.1rem;
+  font-size: 1.08rem;
+  line-height: 1.7;
+  color: var(--ifm-color-emphasis-800);
+}
+
+.inlineLink {
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.inlineLink:hover {
+  text-decoration: underline;
+}
+
+.socialList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.85rem;
+}
+
+.socialItem {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 1.1rem 1.2rem;
+  border-radius: 0.75rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.socialItem:hover {
+  text-decoration: none;
+  color: inherit;
+  border-color: rgba(45, 158, 130, 0.4);
+  background: rgba(45, 158, 130, 0.05);
+}
+
+.socialLabel {
+  font-family: var(--fasr-font-display);
+  font-weight: 700;
+  font-size: 1.05rem;
+}
+
+.socialNote {
+  font-size: 0.92rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+@media screen and (max-width: 996px) {
+  .hero {
+    min-height: auto;
+    padding: 3.5rem 0 3rem;
+  }
+
+  .heroInner,
+  .aboutGrid,
+  .pathGrid,
+  .socialList {
+    grid-template-columns: 1fr;
+  }
+
+  .heroVisual {
+    order: -1;
+  }
+
+  .heroVisual {
+    width: min(72vw, 280px);
+  }
+
+  .brand {
+    font-size: clamp(2.2rem, 9vw, 3rem);
+  }
 }

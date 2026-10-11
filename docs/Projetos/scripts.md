@@ -13,7 +13,7 @@ Stacks: ```Docker```, ```Kubernetes```, ```Vagrant```, ```MPI```, ```Linux Ubunt
 
 ---
 
-### [Childes Analitics](#) 
+### [Childes Analytics](#) 
 
 Um gerador de estatística (MLU, TTR) para o dataset [Childes](https://www.sketchengine.eu/childes-corpora/?gclid=CjwKCAiA9tyQBhAIEiwA6tdCrH211hN1HFi5fgK950g8lLM0rcJJ4T7TP3l2xuvgqNtpBB26eSLJXRoCzHUQAvD_BwE).
 

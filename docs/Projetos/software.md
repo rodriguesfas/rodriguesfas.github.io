@@ -23,7 +23,7 @@ Um Software desktop, para cronometragem de corridas através de chips RFID.
 
 ### [Bible](#) 
 
-Um progessivo web app de uma biblia sagrada.
+Um progressivo web app de uma bíblia sagrada.
 
 [https://github.com/rodriguesfas/biblie](https://github.com/rodriguesfas/biblie)
 
@@ -39,7 +39,7 @@ Um software para cronometragem automática de provas para robôs solucionadores 
 
 ### [JResitor](#) 
 
-Uma calculadora gráfica de resitores.
+Uma calculadora gráfica de resistores.
 
 [https://github.com/rodriguesfas/JResistor](https://github.com/rodriguesfas/JResistor)
 

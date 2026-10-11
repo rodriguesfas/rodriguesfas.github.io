@@ -6,8 +6,10 @@ tags: [Startups, CoWatch]
 
 # CoWatch
 
-Sou co-fundador da [CoWatch](https://cowatch.com.br), uma startup que visa revolucionar a gestão de rebanhos com tecnologia de ponta. A plataforma permite monitorar a alimentação de cada animal com precisão, otimizando a produção e maximizando os lucros. Oferecemos: Monitoramento em tempo real, Análises avançadas, Integração com diversas ferramentas, Protocolos de segurança robustos.
+Sou co-fundador da [CoWatch](https://cowatch.com.br): gestão de rebanho com monitoramento da alimentação de cada animal — para otimizar produção e reduzir desperdício.
 
-- [https://cowatch.com.br/](https://cowatch.com.br/)
+A plataforma cobre monitoramento em tempo real, análises, integrações e protocolos de segurança.
 
-> Competências: Desenvolvimento de software, análise de mercado, gestão de fazenda, criação de dashboards, integração de sistemas, PHP, Codeigniter 4, CSS, HTML, Javascript, Framework7, Python, FastAPI, MySQL, Arduino, Sensores, IoT, IA, LLM, Machine Leaning, Deep Leaning.
+- [cowatch.com.br](https://cowatch.com.br/)
+
+> Competências: desenvolvimento de software, análise de mercado, gestão de fazenda, dashboards, integração de sistemas, PHP, CodeIgniter 4, CSS, HTML, JavaScript, Framework7, Python, FastAPI, MySQL, Arduino, sensores, IoT, IA, LLM, Machine Learning, Deep Learning.

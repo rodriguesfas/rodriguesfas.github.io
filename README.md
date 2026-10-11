@@ -18,10 +18,36 @@ npm install
 
 ```bash
 nvm use v20
-npx docusaurus start
+npm start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Most changes are reflected live without having to restart the server.
+
+### Idiomas (i18n)
+
+O seletor de idioma na navbar funciona no **build completo** (GitHub Pages e `npm run preview`). Traduções de UI + home + CV estão em `i18n/en` e `i18n/fr`.
+
+#### Por que `http://localhost:3000/en/` dá “Página não encontrada” com `npm start`?
+
+Com **`npm start`**, o modo desenvolvimento só carrega **um** locale: o padrão (**pt-BR**). As rotas **`/en/`** e **`/fr/` simplesmente não existem** nesse modo (limitação do Docusaurus, [explicação oficial](https://docusaurus.io/docs/i18n/tutorial#start-your-localized-site)).
+
+- **Trabalhar no site em inglês:** `npm run start:en` (base `/en/`).
+- **Trabalhar em francês:** `npm run start:fr` (base `/fr/`).
+- **Testar os três idiomas + seletor** (como em produção):
+
+```bash
+npm run preview
+```
+
+Seletor: **`/`** = Português (Brasil), **`/en/`** = English, **`/fr/`** = Français.
+
+### CV em PDF
+
+```bash
+make cv-pdf   # ou: npm run cv:pdf
+```
+
+Gera `static/cv/Francisco-Rodrigues-CV-{pt-BR,en,fr}.pdf`. O botão no final da página `/cv` baixa o PDF do idioma atual.
 
 ### Build
 

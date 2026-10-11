@@ -5,7 +5,7 @@ title: Olimpíadas
 
 Segue uma pequena lista de olimpíadas de Programação e Robótica.
 
-## Olimpídas
+## Olimpíadas
 
 ### Programação
 

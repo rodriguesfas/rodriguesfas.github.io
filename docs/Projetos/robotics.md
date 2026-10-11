@@ -24,7 +24,7 @@ Firmware para robô seguidor de linha.
 
 Um firmware para dança de robôs humanoide.
 
-[https://github.com/rodriguesfas/bunoide][https://github.com/rodriguesfas/bunoide]
+[https://github.com/rodriguesfas/bunoide](https://github.com/rodriguesfas/bunoide)
 
 ---
 
@@ -50,7 +50,7 @@ Stacks: ```Arduino```, ```C/C++```.
 
 ### [Sonar](#) 
 
-Arduino detector de obstáculos com sensor ultrassônico com vizualização.
+Arduino detector de obstáculos com sensor ultrassônico com visualização.
 
 Stacks: ```Arduino```, ```Processing```, ```C/C++```, ```Java```.
 

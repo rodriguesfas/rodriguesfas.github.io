@@ -1,0 +1,163 @@
+---
+id: cv
+title: Francisco de Assis de Souza Rodrigues
+tags: [cv]
+---
+
+import CvPdfDownload from "@site/src/components/CvPdfDownload";
+
+# Francisco de Assis de Souza Rodrigues
+
+**Cientista da Computação · Analista de Sistemas · Engenheiro de Software**  
+Foco: **Inteligência Artificial, LLMs, Processamento de Linguagem Natural e engenharia de backend**
+
+Doutorando e Mestre em Ciência da Computação pelo [CIn](http://cin.ufpe.br/) / [UFPE](https://www.ufpe.br/), MBA em Docência do Ensino Superior pelo [IDJ](https://www.idj.com.br/), graduado em Análise e Desenvolvimento de Sistemas pela [UniLeão](https://unileao.edu.br/). Co-fundador e engenheiro de software na [Octor](https://octor.com.br), advisor de tecnologia na [NeuroEspectro](https://neuroespectro.com.br/), professor e coordenador do [NExTI](https://nexti.fapce.edu.br/) (UniFAP).
+
+Projeto, implemento e opero sistemas de IA em produção: pipelines de LLM, decisão tipada (NLI / System One), ASR (Whisper), OCR, agentes clínicos e APIs backend em microsserviços. Trajetória acadêmica em PLN (framework [DeepNLPF](https://deepnlpf.github.io/site/), publicação no [LREC](https://aclanthology.org/2020.lrec-1.895/)) combinada com entrega de produto em saúde digital e crédito.
+
+:::note Contato
+[Email](mailto:franciscosouzaacer@gmail.com) · [WhatsApp](https://api.whatsapp.com/send/?phone=5588988480232&text=Oi%20Francisco,%20tudo%20bem?%20Vi%20seu%20CV,%20queria%20falar%20com%20voc%C3%AA.) · [LinkedIn](https://www.linkedin.com/in/rodriguesfas/) · [GitHub](https://github.com/rodriguesfas) · [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8165664Z5) · [ORCID](https://orcid.org/0000-0003-4258-369X) · [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=pAVFIWwAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Francisco_Rodrigues18) · [PyPI](https://pypi.org/user/rodriguesfas/)
+:::
+
+## Perfil para vagas
+
+| Alvo | Como me encaixo |
+|------|-----------------|
+| **Engenheiro / Cientista de IA & LLM** | Serving de modelos (vLLM), agentes com tools, decisões tipadas sem alucinação, ASR e OCR em produção, avaliação de pipelines |
+| **PLN / NLP** | Dissertação e framework em análise linguística + anotação semântica; busca neural; classificação/NLI; extração de informação |
+| **Backend** | APIs REST, filas Redis, microsserviços Rust/Python, integração CRM/WhatsApp, auth, observabilidade e deploy Docker |
+
+## Competências e tecnologias
+
+### Inteligência Artificial & PLN
+LLMs (serving com [vLLM](https://github.com/vllm-project/vllm), prompts, agentes com tools) · Transformers · NLI / decisões tipadas (MiniLM, [Laya](https://github.com/NandhaKishorM/laya) / System One) · ASR ([Whisper](https://github.com/openai/whisper) / whisper.cpp) · OCR (Tesseract, RapidOCR/Paddle) · RAG / chat sobre documentos · Text mining · Extração de informação · Deduplicação de dados · Learning Analytics · Visão computacional (base)
+
+### Engenharia de software & backend
+Python · Rust (Actix) · FastAPI · PHP · Node.js · APIs REST · Microsserviços · Filas (Redis) · Webhooks · Integrações (WhatsApp, CRM, pagamento) · SQL (MySQL, PostgreSQL, SQLite) · MongoDB · Docker · CI/CD · Linux · AWS (Lambda, SQS, S3, CloudWatch) · Azure (VM, storage) · ELK · Airflow · Swagger/OpenAPI · testes unitários e de integração
+
+### Domínios
+Saúde digital (prontuário, agenda, telemedicina, CID/TUSS) · TechFin / crédito · Tecnologia assistiva · Educação e robótica educacional
+
+---
+
+## Experiência profissional
+
+### Octor — Co-fundador, Cientista da Computação e Engenheiro de Software
+**[octor.com.br](https://octor.com.br/)** (antes qHoras) · atual
+
+Startup de gestão para clínicas e consultórios. Atuo no ciclo completo: arquitetura, backend, IA em produção e integração com o produto clínico.
+
+**Contribuições em IA / LLM / PLN**
+- Plataforma clínica de LLM (**Sereia**): API em Rust + filas Redis + workers GPU (Whisper para áudio→texto; vLLM com modelo instruct para chat/agente), com tools clínicas (CID, TUSS, formulário ANVISA, knowledge)
+- Serviço de **transcrição** (ASR) desacoplado do agente, com jobs assíncronos e modelos Whisper em GPU
+- Motor de **decisão tipada** em CPU (`platform-decide`): classificação de intenção, scoring e NLI (sim/não com confiança) para SDR, chat, CRM, tickets e gate de risco clínico — sem gerar prosa
+- Integração e operação do motor **Laya** (System One / decisões tipadas multilíngue) em fluxos internos (ex.: priorização de tickets)
+- Orquestração de atendimento WhatsApp (**SDR AI**): classifica com decide/NLI, responde com textos controlados e sincroniza CRM — sem alucinação clínica por LLM generativo
+- **Extração de texto** (PDF/DOCX/imagem) com OCR em cascade para alimentar CRM e migrações
+- Chat com documentos (PDF) e experimentação de modelos para produto
+
+**Backend & produto**
+- Microsserviços e APIs para agenda, prontuário, financeiro, estoque, confirmações e automações
+- Integrações com WhatsApp, CRM e sistemas externos; auth por API key; documentação OpenAPI
+- Deploy e operação em ambiente próprio (Docker, bare metal, GPU workers, VPN interna)
+
+> **Stack**: Python, Rust, FastAPI/Actix, Redis, vLLM, Whisper, Transformers/NLI, Laya, Docker, MySQL/SQLite, Linux, OpenAPI
+
+### Clínica NeuroEspectro — Advisor de Tecnologia e Estratégia
+**[neuroespectro.com.br](https://neuroespectro.com.br/)** · atual
+
+Consultoria em soluções digitais para clínica de transtornos cognitivos e do desenvolvimento: telemedicina, prontuário eletrônico, automação de processos e estratégia de crescimento com dados.
+
+> **Competências**: saúde digital, estratégia tecnológica, automação, telemedicina, prontuário eletrônico, análise de dados
+
+### NoVerde / Dotz — Desenvolvedor Backend (Python)
+Jan/2023 – Mai/2023
+
+Time de TechFin no produto de crédito. APIs de pagamento de empréstimos, testes unitários/integração, migração de legado Ruby → Python, jobs (Lambda, Airflow) e monitoramento (ELK, Sentry).
+
+> **Stack**: Python, PostgreSQL, FastAPI/Swagger, AWS (Lambda, SQS, S3, CloudWatch), Airflow, ELK, Ruby, Linux
+
+### NeuralMind — Pesquisa e Desenvolvimento em IA / PLN
+Mai/2022 – Nov/2022 · bolsa [FACEPE](https://www.facepe.br/)
+
+Startup de IA. Desenvolvimento e manutenção do [NeuralSearchX](https://nsx.ai/): busca avançada com modelos de PLN, resposta a perguntas complexas, extração de texto e deduplicação. Stack com Transformers, FastAPI e nuvem (AWS/Azure).
+
+> **Stack**: NLP, Transformers, GPT-3 / OpenAI API, FastAPI, Python, SQLAlchemy, Docker, AWS S3, Azure, Textract, Linux
+
+### Cronos Cariri — Desenvolvedor de Software
+2019 – 2020
+
+Coletor de TAGs RFID (Impinj) para cronometragem em corridas (rua, motobike), com foco em performance e precisão de tempo.
+
+> **Stack**: Python, Java, MongoDB, WebSocket, Angular, Node.js, RFID, Linux
+
+---
+
+## Formação acadêmica
+
+### Doutorado em Ciência da Computação — UFPE / CIn
+Em andamento (ingresso 2024) · bolsa CAPES  
+Ênfase em Inteligência Artificial — Learning Analytics aplicado a Tecnologia Assistiva  
+Orientação: [PhD Robson Fidalgo](http://lattes.cnpq.br/6390018491925933)
+
+### Mestrado em Ciência da Computação — UFPE / CIn
+2017 – 2019 · bolsa CAPES · ênfase em Inteligência Artificial / PLN
+
+Dissertação: *DeepNLPF: um framework para integrar análise linguística e anotação semântica de documentos de texto* ([repositório UFPE](https://repositorio.ufpe.br/handle/123456789/37648)).  
+Orientação: PhD Robson Fidalgo; coorientação: [PhD Rinaldo Lima](http://lattes.cnpq.br/7645118086647340).  
+Framework: [DeepNLPF](https://deepnlpf.github.io/site/) · publicação internacional no [LREC 2020](https://aclanthology.org/2020.lrec-1.895/).
+
+### MBA em Docência no Ensino Superior — Instituto Dom José (IDJ)
+2015 – 2016 · TCC: *As Tecnologias Como Ferramentas de Avaliação*
+
+### Análise e Desenvolvimento de Sistemas — UniLeão
+2011 – 2014 · TCC: [DAVI — Dispositivo de Apoio para Deficientes Visuais](http://clubedosgeeks.com.br/davi/)  
+Orientação: [PhD Thiago Bessa Pontes](http://lattes.cnpq.br/8581482237505248)
+
+### Automação Industrial — IFCE (Juazeiro do Norte)
+2016 – 2017 · incompleto · bolsista PIBIC · orientação: [MSc Alan Kelvin](http://lattes.cnpq.br/1827502290539759)
+
+---
+
+## Experiência no ensino
+
+### UniFAP / NExTI
+Professor e coordenador do Núcleo de Extensão em Tecnologia da Informação — [NExTI](https://nexti.fapce.edu.br/).
+
+### UFCA (UAB) — Professor
+2024 · curso Superior de Tecnologia em [Produção Multimídia](https://www.ufca.edu.br/cursos/graduacao/producao-multimidia/), disciplina Design Audiovisual (EAD).
+
+### Colégio Nossa Senhora de Fátima — Professor de robótica
+2019 – 2022 · Ensino Fundamental e Médio; preparação para OBR, OBSat, TJR, TBR.  
+> Arduino, LEGO, C/C++, Python, Linux
+
+### Colégio Objetivo — Professor de informática, programação e robótica
+2016 – 2017 e 2019 – 2021 · OCI, OBI, torneios de robótica.  
+> Arduino, LEGO, C/C++, Python, Java, JavaScript, Node.js, PHP, WordPress, HTML/CSS
+
+### UniLeão — Monitor de Introdução a Algoritmos
+2013 – 2014 · Java, C/C++
+
+---
+
+## Empreendedorismo
+
+Fundador / co-fundador: [Octor](https://octor.com.br/), [Realm](https://realm.com.br/), [Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Yaakov](https://yaakov.com.br/), [CoWatch](https://cowatch.com.br), CreateLab.  
+Detalhes: [Startups](/docs/Startups/)
+
+---
+
+## Links úteis
+
+- [Cursos e certificados](/courses/)
+- [Projetos](/docs/Projetos/)
+- [Publicações](/publications)
+- [Honras e prêmios](/honras-e-premios)
+- [Metodologia em Computação](https://metodologiaemcomputacao.github.io)
+- [Clube dos Geeks](https://clubedosgeeks.com.br)
+
+---
+
+*The real development of the person is not in what he demonstrates to know, but in the mistakes he fails to make.* — Allan Kelvin Sales, 2015
+
+<CvPdfDownload />

@@ -4,17 +4,15 @@ title: Realm
 tags: [Startup, Realm]
 ---
 
-# Realm 
+# Realm
 
-Sou co-fundador da [Realm](https://realm.com.br/), uma startup de tecnologia focada no desenvolvimento de soluções inovadoras. Na empresa, tive a oportunidade de criar o produto revolucionário chamado BagLed, destinado à publicação de anúncios digitais móveis DOOH. Além disso, participei do desenvolvimento de canais de vendas, inteligência de negócios, agendamento online.
+Sou co-fundador da [Realm](https://realm.com.br/), startup de tecnologia em Juazeiro do Norte — CE (desde 2020).
 
-Atuo como empreendedor, co-fundador e CTO, desempenhando principalmente a função de engenheiro de software. Minhas responsabilidades incluíam análise, desenvolvimento, teste, manutenção e documentação de software. Também fui encarregado da infraestrutura de serviços, construção de APIs REST para integração e micro-aplicações, automação de processos de venda por meio de chatbots e desenvolvimento de um marketplace para a venda de produtos e serviços. Além disso, liderei a criação de diversos portais, como o portal do parceiro, área de clientes, portal administrativo e portal para afiliados. Também tive a oportunidade de prototipar e construir hardwares e produtos.
+Lá criei o **BagLed**, produto de anúncios digitais móveis (DOOH), e participei de canais de venda, inteligência de negócios e agendamento online. Atuo como empreendedor, co-fundador e CTO, com foco em engenharia de software: análise, desenvolvimento, testes, manutenção e documentação.
 
-Durante esse período, concentrei-me na melhoria contínua da usabilidade do sistema, por meio de um monitoramento contínuo do uso pelos usuários, prevenção de bugs e monitoramento de desempenho por meio de logs. Essa experiência tem sido um grande desafio e oportunidade de aprendizado constante, onde tenho aprimorado minhas habilidades técnicas e pessoais.
+Também cuidei de infraestrutura, APIs REST, microaplicações, chatbots de venda, marketplace e portais (parceiro, cliente, admin e afiliados), além de prototipar hardware. O trabalho diário inclui usabilidade, prevenção de bugs e monitoramento por logs.
 
-Minha atuação na Realm ocorre em Juazeiro do Norte - CE desde 2020 até o presente momento.
+- [realm.com.br](https://realm.com.br/)
+- [Instagram](https://www.instagram.com/sou.realm/)
 
-- [https://realm.com.br/](https://realm.com.br/)
-- [https://www.instagram.com/sou.realm/](https://www.instagram.com/sou.realm/)
-
-> Competências: Natural Language Processing, Python, PHP, JavaScritp, MySQL, TinyDB, Codeigniter, Ratchet, Socket.IO, Clarity, Sentry, FastAPI, Flask, Docker, AWS (Serveless, Container Registry, Lambda, API Gateway, S3 Bucket), Bootstrap, HTML, CSS, Linux, Windows.
+> Competências: Natural Language Processing, Python, PHP, JavaScript, MySQL, TinyDB, CodeIgniter, Ratchet, Socket.IO, Clarity, Sentry, FastAPI, Flask, Docker, AWS (Serverless, Container Registry, Lambda, API Gateway, S3), Bootstrap, HTML, CSS, Linux, Windows.

@@ -24,12 +24,12 @@ tags: [Cursos, Certificados]
 - Fevereiro de 2023
 
 #### Curso de Formação em Robótica Educacional
-- Centro de Educação a distácia do Estado do Ceará (CED)
+- Centro de Educação a Distância do Estado do Ceará (CED)
 - Universidade Federal do Ceará (UFC)
 - 120h
 - Novembro de 2016 
 
-#### Java - Algorítimos
+#### Java - Algoritmos
 - Brasil Mais TI - Softex
 - 40h
 - Outubro de 2015
@@ -46,7 +46,7 @@ tags: [Cursos, Certificados]
 
 #### CONIC SEMESP
 - 13° Congresso Nacional de Iniciação Científica
-- Apresentação de Trabalho: DAVI - Sispositivo de Apoio à Deficientes Visuais
+- Apresentação de Trabalho: DAVI - Dispositivo de Apoio à Deficientes Visuais
 - Novembro de 2013
 
 #### Lógica Combinacional
@@ -59,19 +59,19 @@ tags: [Cursos, Certificados]
 - 10h
 - Novembro de 2015
 
-#### Semana Nacional de Ciencia e Tecnologia
-- Instituto Federal e Tecnologia do Ceará
-- Ministração deo Minicurso: Desenvolvendo Bibliotecas para Arduino
+#### Semana Nacional de Ciência e Tecnologia
+- Instituto Federal de Tecnologia do Ceará
+- Ministração do Minicurso: Desenvolvendo Bibliotecas para Arduino
 - 4h
 - Novembro de 2015
 
-#### Semana de Tecnologia em Automação Industrual (SeTAI)
-- Instituto Federal e Tecnologia do Ceará
-- Proferiu palestra: DAVI - Dispositivo de Apoi para Deficiente Visuais
+#### Semana de Tecnologia em Automação Industrial (SeTAI)
+- Instituto Federal de Tecnologia do Ceará
+- Proferiu palestra: DAVI - Dispositivo de Apoio para Deficientes Visuais
 - Maio de 2015
 
 #### FLISOL
-- Ministrou palestra: Ubunut - O começo para o mundo livre
+- Ministrou palestra: Ubuntu - O começo para o mundo livre
 - 2014
 
 #### Cloud Computing - Novo Panorama Computacional
@@ -109,12 +109,12 @@ tags: [Cursos, Certificados]
 ## Aviação
 
 #### Curso Operador Especializado em Raio X
-- Orbital - Serviços Auxiliares de Transpote Aério Ltda
+- Orbital - Serviços Auxiliares de Transporte Aéreo Ltda
 - 28h
 - Junho de 2011
   
 #### Curso Atualização do Básico em Segurança da Aviação
-- Orbital - Serviços Auxiliares de Transpote Aério Ltda
+- Orbital - Serviços Auxiliares de Transporte Aéreo Ltda
 - 12h
 - Março de 2011
 
@@ -133,8 +133,8 @@ tags: [Cursos, Certificados]
 - 20h
 - Agosto de 2010
 
-#### Curso Basico em Segurança da Aviação Civil
-- Orbital - Serviços Auxiliares de Transpote Aério Ltda
+#### Curso Básico em Segurança da Aviação Civil
+- Orbital - Serviços Auxiliares de Transporte Aéreo Ltda
 - 59h
 - Abril de 2010
 
@@ -146,7 +146,7 @@ tags: [Cursos, Certificados]
 
 ## Automação Industrial
 
-#### Forum - Debate das Políticas de Inclusão Social e Tecnologia
+#### Fórum — Debate das Políticas de Inclusão Social e Tecnologia
 - Semana Nacional de Ciência e Tecnologia
 - Instituto Federal de Tecnologia do Ceará - IFCE
 - Dezembro de 2025
@@ -157,7 +157,7 @@ tags: [Cursos, Certificados]
 - 4h
 - Novembro de 2015
 
-#### Serviror Web com rduino
+#### Servidor Web com Arduino
 - Semana de Tecnologia em Automação Industrial
 - Instituto Federal de Tecnologia do Ceará - IFCE
 - 4h
@@ -192,7 +192,7 @@ tags: [Cursos, Certificados]
 
 ## Militar
 - Ministério da Defesa
-- Exercito Brasileiro
+- Exército Brasileiro
 - 2009
 
 
@@ -205,7 +205,7 @@ tags: [Cursos, Certificados]
 
 #### Boas dicas para boas falas
 - CIEE
-- 2h3
+- 2h30
 - Outubro de 2012
 
 #### Qualidade no Atendimento e Vendas

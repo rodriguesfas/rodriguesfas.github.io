@@ -1,7 +1,7 @@
 ---
 id: index
 title: Início
-sidebar_label: Indice
+sidebar_label: Índice
 tags: ['Tópicos Especiais', 'Início']
 ---
 

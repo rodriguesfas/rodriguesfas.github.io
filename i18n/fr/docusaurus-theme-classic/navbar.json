@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Francisco Rodrigues",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Francisco Rodrigues",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Explorador": {
+    "message": "Explorateur",
+    "description": "Navbar item with label Explorador"
+  },
+  "item.label.Eventos": {
+    "message": "Événements",
+    "description": "Navbar item with label Eventos"
+  },
+  "item.label.Startups": {
+    "message": "Startups",
+    "description": "Navbar item with label Startups"
+  },
+  "item.label.Projetos": {
+    "message": "Projets",
+    "description": "Navbar item with label Projetos"
+  },
+  "item.label.Publicações": {
+    "message": "Publications",
+    "description": "Navbar item with label Publicações"
+  },
+  "item.label.CV": {
+    "message": "CV",
+    "description": "Navbar item with label CV"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

@@ -2,18 +2,27 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const { themes } = require("prism-react-renderer");
+const { GlobExcludeDefault } = require("@docusaurus/utils");
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
+// Docs excluídos do build: ver docsExcludePatterns abaixo (GlobExcludeDefault =
+// ficheiros e pastas cujo nome começa por _ , entre outros).
+const docsExcludePatterns = [
+  ...GlobExcludeDefault,
+  // Exemplo: pasta só no repositório, nunca no site (descomente se usar)
+  // "**/rascunhos/**",
+];
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Olá! Eu sou Francisco Rodrigues",
+  title: "Francisco Rodrigues",
   tagline:
-    "Bem-vindo ao meu site pessoal! Aqui, você encontrará informações sobre mim e minhas paixões. Permita-me compartilhar um pouco sobre quem sou e o que me motiva.",
-  favicon: "img/logo.ico",
+    "Cientista da Computação, analista de sistemas e engenheiro de software — IA, LLMs, PLN e backend. Doutorando UFPE/CIn; produtos para saúde e pesquisa em tecnologia assistiva.",
+  favicon: "img/favicon.ico",
 
-  // Set the production url of your site here
-  url: "http://rodriguesfas.github.io",
+  // URL canônica (use https para hreflang e troca de idioma em produção)
+  url: "https://rodriguesfas.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -34,8 +43,25 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "pt",
-    locales: ["pt", "en", "fr"],
+    defaultLocale: "pt-BR",
+    locales: ["pt-BR", "en", "fr"],
+    localeConfigs: {
+      "pt-BR": {
+        label: "Português (Brasil)",
+        htmlLang: "pt-BR",
+        direction: "ltr",
+      },
+      en: {
+        label: "English",
+        htmlLang: "en",
+        direction: "ltr",
+      },
+      fr: {
+        label: "Français",
+        htmlLang: "fr",
+        direction: "ltr",
+      },
+    },
   },
   presets: [
     [
@@ -44,10 +70,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             "https://github.com/rodriguesfas/rodriguesfas.github.io/tree/main/",
+          exclude: docsExcludePatterns,
         },
         blog: {
           showReadingTime: true,
@@ -65,17 +90,20 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/profile-pic3.jpg",
+      colorMode: {
+        defaultMode: "light",
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: "Francisco Rodrigues",
         logo: {
-          alt: "My Site Logo",
+          alt: "Francisco Rodrigues",
           src: "img/logo.svg",
         },
         items: [
           {
-            to: "/bem-vindo",
+            to: "/docs/bem-vindo",
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
@@ -83,22 +111,64 @@ const config = {
           },
           { to: "/blog", label: "Eventos", position: "left" },
           { to: "/docs/Startups", label: "Startups", position: "left" },
-          {
-            to: "/docs/Projetos",
-            label: "Projetos",
-            position: "left",
-          },
+          { to: "/docs/Projetos", label: "Projetos", position: "left" },
           { to: "/publications", label: "Publicações", position: "left" },
           { to: "/cv", label: "CV", position: "left" },
           {
-            href: "http://github.com/rodriguesfas",
+            href: "https://github.com/rodriguesfas",
             label: "GitHub",
             position: "right",
           },
           {
             type: "localeDropdown",
+            position: "right",
           },
         ],
+      },
+      footer: {
+        style: "dark",
+        links: [
+          {
+            title: "Explorar",
+            items: [
+              { label: "Bem-vindo", to: "/docs/bem-vindo" },
+              { label: "Startups", to: "/docs/Startups" },
+              { label: "Projetos", to: "/docs/Projetos" },
+              { label: "Eventos", to: "/blog" },
+            ],
+          },
+          {
+            title: "Acadêmico",
+            items: [
+              { label: "CV", to: "/cv" },
+              { label: "Publicações", to: "/publications" },
+              { label: "Cursos", to: "/courses" },
+              { label: "Honras e prêmios", to: "/honras-e-premios" },
+            ],
+          },
+          {
+            title: "Na rede",
+            items: [
+              {
+                label: "GitHub",
+                href: "https://github.com/rodriguesfas",
+              },
+              {
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/in/rodriguesfas/",
+              },
+              {
+                label: "ORCID",
+                href: "https://orcid.org/0000-0003-4258-369X",
+              },
+              {
+                label: "Email",
+                href: "mailto:franciscosouzaacer@gmail.com",
+              },
+            ],
+          },
+        ],
+        copyright: `© ${new Date().getFullYear()} Francisco Rodrigues. Arquivo pessoal — aberto e em construção.`,
       },
       prism: {
         theme: lightCodeTheme,

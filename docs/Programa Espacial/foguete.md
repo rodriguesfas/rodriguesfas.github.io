@@ -3,7 +3,7 @@ id: foguete
 title: Juvelino
 ---
 
-Juvelino é um foguete construido com objetivo de ser didático, para entusiasta e amantes do espaço, que gostaria de fazer seu próprio foguete espacial e aprofundar seus conhecimentos nessa ciência.
+Juvelino é um foguete construído com objetivo de ser didático, para entusiastas e amantes do espaço, que gostariam de fazer seu próprio foguete espacial e aprofundar seus conhecimentos nessa ciência.
 
 ## Foguete Espacial
 
@@ -24,11 +24,11 @@ Quais os tipos de foguetes?
 
 ![#](https://openrocket.info/screenshots/main.png)
 
-Para projetar o foguete Juvelino, foi utilizado o [OpenRocket](https://openrocket.info/), um software que contem todas as ferramentas necessárias para projetar, simular e voar foguetes melhores.
+Para projetar o foguete Juvelino, foi utilizado o [OpenRocket](https://openrocket.info/), um software que contém todas as ferramentas necessárias para projetar, simular e voar foguetes melhores.
 
 ### Design
 
-![#](https://openrocket.info/img/design.svg) O foguete Juvelino é do tipo combustível sólido, sua estrutura comtem: 
+![#](https://openrocket.info/img/design.svg) O foguete Juvelino é do tipo combustível sólido, sua estrutura contém: 
 - 45cm de comprimento 
 - 32mm de diâmetro 
 - ?gm de peso
@@ -39,7 +39,7 @@ Para projetar o foguete Juvelino, foi utilizado o [OpenRocket](https://openrocke
 
 ### Plataforma de Lançamento
 
-![#](https://openrocket.info/img/rocket-up.svg) A [plataforma de lançamento](https://pt.wikipedia.org/wiki/Plataforma_de_lan%C3%A7amento) é uma área especifica, geralmente dentro de um complexo espacial, a partir da qual o foguete será lançado. Basicamente um estrutura construída para a sustentação do foguete durante o lançamento.
+![#](https://openrocket.info/img/rocket-up.svg) A [plataforma de lançamento](https://pt.wikipedia.org/wiki/Plataforma_de_lan%C3%A7amento) é uma área específica, geralmente dentro de um complexo espacial, a partir da qual o foguete será lançado. Basicamente uma estrutura construída para a sustentação do foguete durante o lançamento.
 
 A plataforma construída para o lançamento do foguete Juvelino, foi montada em cima de: 
 
@@ -56,12 +56,12 @@ A plataforma construída para o lançamento do foguete Juvelino, foi montada em 
 
 O [ignitor elétrico](https://www.engezer.com.br/ignitores-eletricos) é uma fagulha de alta tensão para acender uma chama. Basicamente, ele realiza a conversão de energia elétrica em calor para poder sensibilizar o produto químico e iniciar o processo de transformação desse calor em combustão.
 
-Para construir o ignitor elétrico do sistema de ignição do foguete será utilizado materias comuns, que estão disponíveis em casa, ou uma venda local. Não é 100% confiável, sendo de uso didático e amador, sua reação é imediata pois seu objetivo é acender o fósforo, o suficiente para lançar o Juvelino.
+Para construir o ignitor elétrico do sistema de ignição do foguete será utilizado materiais comuns, que estão disponíveis em casa, ou em venda local. Não é 100% confiável, sendo de uso didático e amador, sua reação é imediata pois seu objetivo é acender o fósforo, o suficiente para lançar o Juvelino.
 
 Materiais:
 
 - 2 plug p10 mono macho
-- 2 plug p10 mono femea
+- 2 plug p10 mono fêmea
 - 10 metros de cabo mono
 - 1 chave botão caça tic tac com led vermelho
 - 1 botão push-button Na vermelho
@@ -69,7 +69,7 @@ Materiais:
 - 1 suporte para bateria 9v
 - fita isolante
 - uma caixa de relógio
-- palitos de fosforo
+- palitos de fósforo
 - ferro de solda
 - estanho
 
@@ -81,7 +81,7 @@ Referências
 
 ![#](https://openrocket.info/img/staging.svg) O sistema de recuperação para foguete baseado em leitura de pressão atmosférica durante o lançamento.
 
-O foguete foi equipado com um sistema de detecção de apouge, para a recuperação por paraquedas.
+O foguete foi equipado com um sistema de detecção de apogeu, para a recuperação por paraquedas.
 
 ### Sensores
 
@@ -108,7 +108,7 @@ O foguete foi equipado com um sistema de detecção de apouge, para a recuperaç
 
 #### Testes
 
-Teste são conduzidos simulando a variação da pressão atmosférica no interior de uma câmara, similar a variação ocorrida durante um lançamento.
+Testes são conduzidos simulando a variação da pressão atmosférica no interior de uma câmara, similar à variação ocorrida durante um lançamento.
 
 
 #### 

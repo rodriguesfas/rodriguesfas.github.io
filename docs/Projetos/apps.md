@@ -21,26 +21,26 @@ Stacks: ```Java```, ```Android Studio```.
 
 ---
 
-[Andruino Bluetooth](https://github.com/rodriguesfas/Andruino_Bluetooth) Aplicativo android para comunicação via bluetooth com sensores embarcados.
+[Andruino Bluetooth](https://github.com/rodriguesfas/Andruino_Bluetooth) Aplicativo Android para comunicação via Bluetooth com sensores embarcados.
 
 Stacks: ```Java```, ```Android Studio```.
 
-[Vtron Car](https://github.com/vtronboard/AppClientCar) Uma aplicativo android para controlar veículo automotivo.
-
-Stacks: ```Java```, ```Android Studio```.
-
----
-
-[Vtron Home](https://github.com/vtronboard/AppClientHome) Um aplicativo android para controle residencial.
+[Vtron Car](https://github.com/vtronboard/AppClientCar) Um aplicativo Android para controlar veículo automotivo.
 
 Stacks: ```Java```, ```Android Studio```.
 
 ---
 
-[DuSitio](https://rodriguesfas.github.io/docs/portfolio#) Uma app android para venda de alimentos naturais.
+[Vtron Home](https://github.com/vtronboard/AppClientHome) Um aplicativo Android para controle residencial.
 
 Stacks: ```Java```, ```Android Studio```.
 
 ---
 
-[Nutri Organic](https://nutriorganic.github.io/) Um simples app, para receitas saborosas usando frutas como ingredientes, visando o desperdício. Colégio Objetivo Juazeiro do Norte. Orientado: José Vinícius; Orientador: MSc. Francisco Rodrigues.
+[DuSitio](https://rodriguesfas.github.io/docs/portfolio#) Um app Android para venda de alimentos naturais.
+
+Stacks: ```Java```, ```Android Studio```.
+
+---
+
+[Nutri Organic](https://nutriorganic.github.io/) Um simples app, para receitas saborosas usando frutas como ingredientes, visando o desperdício. Colégio Objetivo Juazeiro do Norte. Orientado por José Vinícius; Orientador: MSc. Francisco Rodrigues.

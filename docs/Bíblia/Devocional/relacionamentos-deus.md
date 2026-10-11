@@ -22,13 +22,13 @@ Estes versículos destacam que Deus não apenas nos criou, mas também estabelec
 
 ### Quem Quebra o Relacionamento com Deus?
 
-> “Quando ouviram a voz do Senhor Deus, que andava no jardim pela viração do dia, esconderam-se da presença do SENHOR Deus, o homem e sua mulher, por entre as árvores do jardim”. <b>(Gênesis 3:8)</b>
+> “Quando ouviram a voz do Senhor Deus, que andava no jardim à brisa do dia, esconderam-se da presença do SENHOR Deus, o homem e sua mulher, por entre as árvores do jardim”. <b>(Gênesis 3:8)</b>
 
 O homem quebra o relacionamento com Deus quando não dá ouvidos a Ele. A partir desse ocorrido (Pecado), o relacionamento do homem para com Deus foi distanciado. O pecado faz com que nos sintamos envergonhados, tristes, desestimulados e não queiramos mais ficar na presença de Deus.
 
 ### Existem Homens que Andavam com Deus?
 
-Entretanto, apesar desse relacionamento comprometido que se ficou após o pecado de Adão e Eva, na Bíblia, há vários exemplos de homens que são descritos como "andando com Deus", o que geralmente significa que eles tinham uma relação íntima e próxima com Ele, buscavam Sua vontade e obedeciam aos Seus mandamentos. Alguns dos exemplos mais notáveis incluem:
+Entretanto, apesar desse relacionamento que ficou comprometido após o pecado de Adão e Eva, na Bíblia, há vários exemplos de homens que são descritos como "andando com Deus", o que geralmente significa que eles tinham uma relação íntima e próxima com Ele, buscavam Sua vontade e obedeciam aos Seus mandamentos. Alguns dos exemplos mais notáveis incluem:
 
 1. Enoque: Em <b>Gênesis 5:24</b>, é dito que "Enoque andou com Deus; e não apareceu mais, porquanto Deus o tomou para si". Enoque é conhecido por ter uma comunhão tão íntima com Deus que ele foi levado diretamente ao céu sem experimentar a morte.
 
@@ -42,7 +42,7 @@ Entretanto, apesar desse relacionamento comprometido que se ficou após o pecado
 
 Esses são apenas alguns exemplos, mas há outros personagens bíblicos que também são descritos como tendo uma relação próxima com Deus. Essas histórias servem como inspiração para os crentes buscando uma vida de fé e comunhão com o Senhor.
 
-### Como Restaurar Nosso Relacionamento com Deus? 
+### Como Restauramos Nosso Relacionamento com Deus? 
 
 Nosso relacionamento com Deus é restaurado por meio de Jesus.
 
@@ -50,7 +50,7 @@ Nosso relacionamento com Deus é restaurado por meio de Jesus.
 
 Andar com Deus traz consigo uma série de benefícios espirituais e emocionais.
 
-- Quais os beneficios podemos destarcar nesse texto?
+- Quais os benefícios podemos destacar nesse texto?
 
 Com base no texto citado de <b>João 14:6, 11-17</b>, podemos destacar os seguintes benefícios de andar com Deus:
 

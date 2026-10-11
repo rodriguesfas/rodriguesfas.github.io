@@ -15,6 +15,6 @@ Stacks: ```Java```.
 
 ---
 
-[Quebra cabeça](https://github.com/rodriguesfas/Quebra-Cabeca) um simples jogo de raciocínio.
+[Quebra-cabeça](https://github.com/rodriguesfas/Quebra-Cabeca) um simples jogo de raciocínio.
 
 Stacks: ```Java```.

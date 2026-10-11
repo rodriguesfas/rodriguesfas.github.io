@@ -12,7 +12,7 @@ title: Sumário
 - [Átomo - a matéria e uma de suas menores formas](https://www.youtube.com/watch?v=cBpvHGn_se4)
 - [Elétrons - e as cores dos fogos de artifício](https://www.youtube.com/watch?v=Erk_D4AQXPA)
 - [Cargas Elétricas - e as diferenças nas partículas dos átomos](https://www.youtube.com/watch?v=b6Sb2U_gmbo)
-- [Eletricidade - matériais trocando elétrons](https://www.youtube.com/watch?v=TAXStjgWBKA)
+- [Eletricidade — materiais trocando elétrons](https://www.youtube.com/watch?v=TAXStjgWBKA)
 - [Íons - átomos perdendo e ganhando elétrons](https://www.youtube.com/watch?v=jO49A04Maq4)
 - [Magnetismo - elétrons girando organizados](https://www.youtube.com/watch?v=qnSPOU3q5Vk)
   

@@ -21,7 +21,7 @@ Stacks: ```Java```, ```Python```, ```Pip```.
 
 ### [DMPH L298N](https://github.com/rodriguesfas/DMPH_L298N)
 
-Uma biblioteca Arduino para controlar um Drive motor ponte H L298N.
+Uma biblioteca Arduino para controlar um driver motor ponte H L298N.
 
 Stacks: ```C/C++```, ```Arduino```, ```Fritzing```.
 

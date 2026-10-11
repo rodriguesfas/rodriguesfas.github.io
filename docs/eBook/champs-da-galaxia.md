@@ -62,7 +62,7 @@ Francisco de Assis de Souza Rodrigues, servo de Deus, Tecnólogo em Análise e D
 
 ## 1. Introdução ao Desenvolvimento de Jogos com Java
 
-O clássico Super Mario Bros foi praticamente o primeiro jogo que joguei, por volta de 1996, na plataforma Nintendo. Lançado em 1985, foi o primeiro jogo com rolagem lateral — recurso conhecido como slide-scrolling. O jogo é o mais vendido da história dos videogames e inspirou incontáveis imitações que ajudaram a fixar esse estilo.
+O clássico Super Mario Bros foi praticamente o primeiro jogo que joguei, por volta de 1996, na plataforma Nintendo. Lançado em 1985, foi o primeiro jogo com rolagem lateral — recurso conhecido como side-scrolling. O jogo é o mais vendido da história dos videogames e inspirou incontáveis imitações que ajudaram a fixar esse estilo.
 
 ![Super Mario Bros](assets/images/image-010.png)
 

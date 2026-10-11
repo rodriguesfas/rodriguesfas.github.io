@@ -1,6 +1,6 @@
 ---
 id: o-jovem-nu
-title: O Jovem nú
+title: O Jovem Nu
 date: 
 ---
 

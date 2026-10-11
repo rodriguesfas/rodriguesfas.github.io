@@ -1,0 +1,134 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Arquitetura e Organização de Computadores": {
+    "message": "Arquitetura e Organização de Computadores",
+    "description": "The label for category 'Arquitetura e Organização de Computadores' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.BioTrace": {
+    "message": "BioTrace",
+    "description": "The label for category 'BioTrace' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Biofeedback": {
+    "message": "Biofeedback",
+    "description": "The label for category 'Biofeedback' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Bíblia": {
+    "message": "Bíblia",
+    "description": "The label for category 'Bíblia' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Devocional": {
+    "message": "Devocional",
+    "description": "The label for category 'Devocional' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Diário": {
+    "message": "Diário",
+    "description": "The label for category 'Diário' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.EBD": {
+    "message": "EBD",
+    "description": "The label for category 'EBD' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Estudos": {
+    "message": "Estudos",
+    "description": "The label for category 'Estudos' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Livros": {
+    "message": "Livros",
+    "description": "The label for category 'Livros' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Pregações": {
+    "message": "Pregações",
+    "description": "The label for category 'Pregações' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Desenvolvimento para Dispositivos Móveis": {
+    "message": "Desenvolvimento para Dispositivos Móveis",
+    "description": "The label for category 'Desenvolvimento para Dispositivos Móveis' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Grupos de Pesquisa": {
+    "message": "Grupos de Pesquisa",
+    "description": "The label for category 'Grupos de Pesquisa' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Machine Learning": {
+    "message": "Machine Learning",
+    "description": "The label for category 'Machine Learning' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Processamento de Linguagem Natural": {
+    "message": "Processamento de Linguagem Natural",
+    "description": "The label for category 'Processamento de Linguagem Natural' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Programa Espacial": {
+    "message": "Programa Espacial",
+    "description": "The label for category 'Programa Espacial' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Programação": {
+    "message": "Programação",
+    "description": "The label for category 'Programação' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Programação Paralela e Distribuída": {
+    "message": "Programação Paralela e Distribuída",
+    "description": "The label for category 'Programação Paralela e Distribuída' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Destaques": {
+    "message": "Destaques",
+    "description": "The label for category 'Destaques' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Robótica": {
+    "message": "Robótica",
+    "description": "The label for category 'Robótica' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.6ano": {
+    "message": "6ano",
+    "description": "The label for category '6ano' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.7ano": {
+    "message": "7ano",
+    "description": "The label for category '7ano' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.8ano": {
+    "message": "8ano",
+    "description": "The label for category '8ano' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.9ano": {
+    "message": "9ano",
+    "description": "The label for category '9ano' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Arduino": {
+    "message": "Arduino",
+    "description": "The label for category 'Arduino' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Conceitos Básicos": {
+    "message": "Conceitos Básicos",
+    "description": "The label for category 'Conceitos Básicos' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Ensino Médio": {
+    "message": "Ensino Médio",
+    "description": "The label for category 'Ensino Médio' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Lego": {
+    "message": "Lego",
+    "description": "The label for category 'Lego' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Print 3D": {
+    "message": "Print 3D",
+    "description": "The label for category 'Print 3D' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Simulator": {
+    "message": "Simulator",
+    "description": "The label for category 'Simulator' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.sBotics": {
+    "message": "sBotics",
+    "description": "The label for category 'sBotics' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Startups": {
+    "message": "Startups",
+    "description": "The label for category 'Startups' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.eBook": {
+    "message": "eBook",
+    "description": "The label for category 'eBook' in sidebar 'tutorialSidebar'"
+  }
+}

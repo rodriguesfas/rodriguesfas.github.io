@@ -1,6 +1,6 @@
 ---
 id: sumario
-title: Bem vindo!
+title: Bem-vindo!
 ---
 
 Aqui você encontra materiais sobre programação.

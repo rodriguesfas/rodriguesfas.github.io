@@ -4,14 +4,13 @@ title: ImmoNex
 tags: [Startups, ImmoNex]
 ---
 
-
 # ImmoNex
 
-Sou co-fundador do [ImmoNex](https://immonex.com.br/), um serviço crido em 25/10/2023 dedicado para o mercado imobiliário, oferecendo soluções para a gestão de imóveis e propriedades. A startup se destaca por fornecer ferramentas que facilitam o gerenciamento de vendas, locações e administração de imóveis, visando otimizar processos e melhorar a experiência tanto para corretores quanto para clientes.
+Sou co-fundador do [ImmoNex](https://immonex.com.br/) (lançado em 25/10/2023): gestão imobiliária para vendas, locações e administração de propriedades.
 
-Atuei no desenvolvimento completo da plataforma, de desde o cadastro de usuários à funcionalidades para gerenciamento de propriedades, criação de dashboards analíticos.
+Desenvolvi a plataforma de ponta a ponta — cadastro, gestão de imóveis e dashboards analíticos.
 
-- [https://immonex.com.br/](https://immonex.com.br/)
-- [https://www.instagram.com/immonex.br/](https://www.instagram.com/immonex.br/)
+- [immonex.com.br](https://immonex.com.br/)
+- [Instagram](https://www.instagram.com/immonex.br/)
 
-> Competências: Desenvolvimento de software, análise de mercado, gestão imobiliária, criação de dashboards, integração de sistemas, PHP, Codeigniter 4, CSS, HTML, Javascript, Framework7. 
+> Competências: desenvolvimento de software, análise de mercado, gestão imobiliária, dashboards, integração de sistemas, PHP, CodeIgniter 4, CSS, HTML, JavaScript, Bootstrap, MySQL.

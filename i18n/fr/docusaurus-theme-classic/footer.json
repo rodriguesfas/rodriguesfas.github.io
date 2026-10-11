@@ -1,0 +1,66 @@
+{
+  "link.title.Explorar": {
+    "message": "Explorer",
+    "description": "The title of the footer links column with title=Explorar in the footer"
+  },
+  "link.title.Acadêmico": {
+    "message": "Académique",
+    "description": "The title of the footer links column with title=Acadêmico in the footer"
+  },
+  "link.title.Na rede": {
+    "message": "En ligne",
+    "description": "The title of the footer links column with title=Na rede in the footer"
+  },
+  "link.item.label.Bem-vindo": {
+    "message": "Bienvenue",
+    "description": "The label of footer link with label=Bem-vindo linking to /docs/bem-vindo"
+  },
+  "link.item.label.Startups": {
+    "message": "Startups",
+    "description": "The label of footer link with label=Startups linking to /docs/Startups"
+  },
+  "link.item.label.Projetos": {
+    "message": "Projets",
+    "description": "The label of footer link with label=Projetos linking to /docs/Projetos"
+  },
+  "link.item.label.Eventos": {
+    "message": "Événements",
+    "description": "The label of footer link with label=Eventos linking to /blog"
+  },
+  "link.item.label.CV": {
+    "message": "CV",
+    "description": "The label of footer link with label=CV linking to /cv"
+  },
+  "link.item.label.Publicações": {
+    "message": "Publications",
+    "description": "The label of footer link with label=Publicações linking to /publications"
+  },
+  "link.item.label.Cursos": {
+    "message": "Cours",
+    "description": "The label of footer link with label=Cursos linking to /courses"
+  },
+  "link.item.label.Honras e prêmios": {
+    "message": "Distinctions",
+    "description": "The label of footer link with label=Honras e prêmios linking to /honras-e-premios"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/rodriguesfas"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/in/rodriguesfas/"
+  },
+  "link.item.label.ORCID": {
+    "message": "ORCID",
+    "description": "The label of footer link with label=ORCID linking to https://orcid.org/0000-0003-4258-369X"
+  },
+  "link.item.label.Email": {
+    "message": "E-mail",
+    "description": "The label of footer link with label=Email linking to mailto:franciscosouzaacer@gmail.com"
+  },
+  "copyright": {
+    "message": "© 2026 Francisco Rodrigues. Archive personnelle — ouverte et en construction.",
+    "description": "The footer copyright"
+  }
+}

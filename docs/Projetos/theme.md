@@ -5,6 +5,6 @@ title: Themes
 
 ## Temas
 
-[Arduino Monokay](https://github.com/rodriguesfas/MonokArduino) um tema escuro para arduino.
+[Arduino Monokai](https://github.com/rodriguesfas/MonokArduino) um tema escuro para Arduino.
 
 Stacks: ```Arduino```.

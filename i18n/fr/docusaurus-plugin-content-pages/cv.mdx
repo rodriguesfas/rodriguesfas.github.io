@@ -1,0 +1,152 @@
+---
+id: cv
+title: Francisco de Assis de Souza Rodrigues
+tags: [cv]
+---
+
+import CvPdfDownload from "@site/src/components/CvPdfDownload";
+
+# Francisco de Assis de Souza Rodrigues
+
+**Informaticien · Analyste de systèmes · Ingénieur logiciel**  
+Focus : **Intelligence artificielle, LLMs, traitement du langage naturel et ingénierie backend**
+
+Doctorant et titulaire d'un Master en informatique au [CIn](http://cin.ufpe.br/) / [UFPE](https://www.ufpe.br/), MBA en enseignement supérieur ([IDJ](https://www.idj.com.br/)), diplômé en analyse et développement de systèmes ([UniLeão](https://unileao.edu.br/)). Co-fondateur et ingénieur logiciel chez [Octor](https://octor.com.br), conseiller technologique à la [NeuroEspectro](https://neuroespectro.com.br/), professeur et coordinateur du [NExTI](https://nexti.fapce.edu.br/) (UniFAP).
+
+Je conçois, mets en production et opère des systèmes d'IA : pipelines LLM, décisions typées (NLI / System One), ASR (Whisper), OCR, agents cliniques et API backend en microservices. Parcours académique en TALN ([DeepNLPF](https://deepnlpf.github.io/site/), [LREC](https://aclanthology.org/2020.lrec-1.895/)) et livraison produit en e-santé et crédit.
+
+:::note Contact
+[E-mail](mailto:franciscosouzaacer@gmail.com) · [WhatsApp](https://api.whatsapp.com/send/?phone=5588988480232&text=Bonjour%20Francisco,%20j'ai%20vu%20votre%20CV.) · [LinkedIn](https://www.linkedin.com/in/rodriguesfas/) · [GitHub](https://github.com/rodriguesfas) · [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8165664Z5) · [ORCID](https://orcid.org/0000-0003-4258-369X) · [Google Scholar](https://scholar.google.com.br/citations?hl=fr&user=pAVFIWwAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Francisco_Rodrigues18) · [PyPI](https://pypi.org/user/rodriguesfas/)
+:::
+
+## Profils visés
+
+| Cible | Adéquation |
+|------|------------|
+| **Ingénieur / scientifique IA & LLM** | Serving de modèles (vLLM), agents avec tools, décisions typées sans hallucination, ASR/OCR en production, évaluation de pipelines |
+| **TALN / NLP** | Mémoire et framework d'analyse linguistique + annotation sémantique ; recherche neuronale ; classification/NLI ; extraction d'information |
+| **Backend** | API REST, files Redis, microservices Rust/Python, intégrations CRM/WhatsApp, auth, observabilité, déploiement Docker |
+
+## Compétences et technologies
+
+### Intelligence artificielle & TALN
+LLMs (serving avec [vLLM](https://github.com/vllm-project/vllm), prompts, agents) · Transformers · NLI / décisions typées (MiniLM, [Laya](https://github.com/NandhaKishorM/laya) / System One) · ASR ([Whisper](https://github.com/openai/whisper) / whisper.cpp) · OCR (Tesseract, RapidOCR/Paddle) · RAG / chat documentaire · Text mining · Extraction d'information · Déduplication · Learning Analytics · Vision par ordinateur (bases)
+
+### Ingénierie logicielle & backend
+Python · Rust (Actix) · FastAPI · PHP · Node.js · API REST · Microservices · Files (Redis) · Webhooks · Intégrations (WhatsApp, CRM, paiements) · SQL (MySQL, PostgreSQL, SQLite) · MongoDB · Docker · CI/CD · Linux · AWS (Lambda, SQS, S3, CloudWatch) · Azure (VM, stockage) · ELK · Airflow · Swagger/OpenAPI · tests unitaires et d'intégration
+
+### Domaines
+E-santé (DME, agenda, télémédecine, CID/TUSS) · TechFin / crédit · Technologie d'assistance · Éducation et robotique éducative
+
+---
+
+## Expérience professionnelle
+
+### Octor — Co-fondateur, informaticien et ingénieur logiciel
+**[octor.com.br](https://octor.com.br/)** (anciennement qHoras) · actuel
+
+Startup de gestion pour cliniques et cabinets. Cycle complet : architecture, backend, IA en production et intégration produit clinique.
+
+**Contributions IA / LLM / TALN**
+- Plateforme LLM clinique (**Sereia**) : API Rust + files Redis + workers GPU (Whisper audio→texte ; vLLM instruct pour chat/agent) avec tools cliniques (CID, TUSS, formulaire ANVISA, knowledge)
+- Service de **transcription** (ASR) découplé, jobs asynchrones et Whisper sur GPU
+- Moteur de **décision typée** CPU (`platform-decide`) : classification d'intention, scoring et NLI pour SDR, chat, CRM, tickets et garde-fou clinique — sans génération libre
+- Intégration et exploitation de **Laya** (System One / décisions typées multilingues) dans des flux internes
+- Orchestration WhatsApp (**SDR AI**) : classification NLI, réponses contrôlées, sync CRM
+- **Extraction de texte** (PDF/DOCX/image) avec OCR en cascade
+- Chat sur documents (PDF) et expérimentation de modèles
+
+**Backend & produit**
+- Microservices et API pour agenda, DME, finance, stock, confirmations et automatisations
+- Intégrations WhatsApp/CRM ; auth par clé API ; OpenAPI
+- Déploiement self-hosted (Docker, bare metal, GPU, VPN)
+
+> **Stack** : Python, Rust, FastAPI/Actix, Redis, vLLM, Whisper, Transformers/NLI, Laya, Docker, MySQL/SQLite, Linux, OpenAPI
+
+### Clinique NeuroEspectro — Conseiller technologie et stratégie
+**[neuroespectro.com.br](https://neuroespectro.com.br/)** · actuel
+
+Conseil numérique pour une clinique spécialisée dans les troubles cognitifs et du développement.
+
+> **Compétences** : e-santé, stratégie numérique, automatisation, télémédecine, DME, analyse de données
+
+### NoVerde / Dotz — Développeur backend (Python)
+Janv./2023 – Mai/2023
+
+TechFin crédit : API de paiement de prêts, tests, migration Ruby → Python, jobs Lambda/Airflow, monitoring ELK/Sentry.
+
+> **Stack** : Python, PostgreSQL, FastAPI/Swagger, AWS, Airflow, ELK, Ruby, Linux
+
+### NeuralMind — R&D IA / TALN
+Mai/2022 – Nov./2022 · bourse [FACEPE](https://www.facepe.br/)
+
+Startup IA. Développement de [NeuralSearchX](https://nsx.ai/) : recherche NLP, questions complexes, extraction et déduplication.
+
+> **Stack** : NLP, Transformers, GPT-3 / OpenAI API, FastAPI, Python, Docker, AWS, Azure, Linux
+
+### Cronos Cariri — Développeur logiciel
+2019 – 2020
+
+Collecteur de tags RFID (Impinj) pour chronométrage de courses.
+
+> **Stack** : Python, Java, MongoDB, WebSocket, Angular, Node.js, RFID, Linux
+
+---
+
+## Formation
+
+### Doctorat en informatique — UFPE / CIn
+En cours (début 2024) · bourse CAPES  
+IA — Learning Analytics appliqué à la technologie d'assistance  
+Direction : [PhD Robson Fidalgo](http://lattes.cnpq.br/6390018491925933)
+
+### Master en informatique — UFPE / CIn
+2017 – 2019 · bourse CAPES · IA / TALN
+
+Mémoire : *DeepNLPF* ([dépôt UFPE](https://repositorio.ufpe.br/handle/123456789/37648)) · [DeepNLPF](https://deepnlpf.github.io/site/) · [LREC 2020](https://aclanthology.org/2020.lrec-1.895/).
+
+### MBA enseignement supérieur — IDJ
+2015 – 2016
+
+### Analyse et développement de systèmes — UniLeão
+2011 – 2014 · [DAVI](http://clubedosgeeks.com.br/davi/)
+
+### Automatisation industrielle — IFCE
+2016 – 2017 · incomplet · PIBIC
+
+---
+
+## Enseignement
+
+### UniFAP / NExTI
+Professeur et coordinateur — [NExTI](https://nexti.fapce.edu.br/).
+
+### UFCA (UAB) — Enseignant
+2024 · Design audiovisuel (FOAD).
+
+### Collèges (robotique / informatique)
+2016 – 2022 · OBR, OBSat, OCI, OBI · Arduino, LEGO, C/C++, Python, Java, JavaScript
+
+---
+
+## Entrepreneuriat
+
+Fondateur / co-fondateur : [Octor](https://octor.com.br/), [Realm](https://realm.com.br/), [Zafie](https://zafie.com.br/), [ImmoNex](https://immonex.com.br/), [Yaakov](https://yaakov.com.br/), [CoWatch](https://cowatch.com.br), CreateLab.  
+Détails : [Startups](/docs/Startups/)
+
+---
+
+## Liens utiles
+
+- [Cours](/courses/)
+- [Projets](/docs/Projetos/)
+- [Publications](/publications)
+- [Distinctions](/honras-e-premios)
+- [Metodologia em Computação](https://metodologiaemcomputacao.github.io)
+- [Clube dos Geeks](https://clubedosgeeks.com.br)
+
+---
+
+*The real development of the person is not in what he demonstrates to know, but in the mistakes he fails to make.* — Allan Kelvin Sales, 2015
+
+<CvPdfDownload />

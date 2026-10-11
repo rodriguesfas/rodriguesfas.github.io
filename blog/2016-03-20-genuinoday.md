@@ -11,7 +11,7 @@ tags: [genuinoday, 2016]
 
 Um evento que visa promover e difundir o Arduino.
 
-[Materia TV Verde Vale](https://www.youtube.com/watch?v=OmEpWjOzG1Q&feature=youtu.be)
+[Matéria TV Verde Vale](https://www.youtube.com/watch?v=OmEpWjOzG1Q&feature=youtu.be)
 
 [Arduino/Genuino Day Cariri 2016](https://www.youtube.com/watch?v=XQE3942WXSA)
 
