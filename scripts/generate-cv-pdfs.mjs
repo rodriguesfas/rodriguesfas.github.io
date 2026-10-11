@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 /**
- * Gera PDFs do CV (pt-BR, en, fr) via Chrome headless.
+ * Gera PDFs do CV a partir dos mesmos .mdx das páginas (conteúdo completo).
  * Uso: node scripts/generate-cv-pdfs.mjs
  */
-import { mkdirSync, writeFileSync, unlinkSync } from "node:fs";
+import { mkdirSync, writeFileSync, unlinkSync, readFileSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { spawnSync } from "node:child_process";
@@ -28,163 +28,236 @@ if (!chrome) {
   process.exit(1);
 }
 
-const docs = {
-  "pt-BR": {
+const sources = [
+  {
+    locale: "pt-BR",
     file: "Francisco-Rodrigues-CV-pt-BR.pdf",
-    title: "Francisco de Assis de Souza Rodrigues — CV",
-    html: `
-<h1>Francisco de Assis de Souza Rodrigues</h1>
-<p class="role">Cientista da Computação · Analista de Sistemas · Engenheiro de Software</p>
-<p class="focus">IA, LLMs, Processamento de Linguagem Natural e engenharia de backend</p>
-<p>Doutorando e Mestre em Ciência da Computação (UFPE/CIn). Co-fundador e engenheiro na <strong>Octor</strong>; advisor na NeuroEspectro; professor/coordenador NExTI (UniFAP).</p>
-<p>Projeto e opero sistemas de IA em produção: pipelines LLM, decisão tipada (NLI/System One), ASR (Whisper), OCR, agentes clínicos e APIs em microsserviços. PLN acadêmico (DeepNLPF, LREC 2020).</p>
-<p class="contact">franciscosouzaacer@gmail.com · linkedin.com/in/rodriguesfas · github.com/rodriguesfas · rodriguesfas.github.io/cv</p>
-
-<h2>Competências</h2>
-<p><strong>IA &amp; PLN:</strong> LLMs (vLLM), Transformers, NLI/Laya, Whisper, OCR, RAG, text mining, extração de informação</p>
-<p><strong>Backend:</strong> Python, Rust (Actix), FastAPI, Redis, Docker, MySQL/PostgreSQL/SQLite, AWS, Azure, OpenAPI, CI/CD, Linux</p>
-
-<h2>Experiência</h2>
-<h3>Octor — Co-fundador, Cientista da Computação e Engenheiro de Software (atual)</h3>
-<ul>
-<li>Plataforma LLM clínica (Sereia): Rust + Redis + GPU (Whisper, vLLM) com tools clínicas</li>
-<li>Transcrição ASR, motor de decisão tipada (platform-decide), Laya, SDR WhatsApp, OCR/extração</li>
-<li>Microsserviços para agenda, prontuário, financeiro e integrações</li>
-</ul>
-<h3>NeuroEspectro — Advisor de Tecnologia (atual)</h3>
-<p>Saúde digital, telemedicina, prontuário e estratégia tecnológica.</p>
-<h3>NoVerde/Dotz — Backend Python (2023)</h3>
-<p>APIs de crédito, testes, migração Ruby→Python, AWS Lambda/SQS/S3, Airflow, ELK.</p>
-<h3>NeuralMind — IA/PLN (2022)</h3>
-<p>NeuralSearchX: busca NLP, QA, Transformers, FastAPI, AWS/Azure.</p>
-<h3>Cronos Cariri — Software (2019–2020)</h3>
-<p>Coletor RFID Impinj para cronometragem de corridas.</p>
-
-<h2>Formação</h2>
-<ul>
-<li><strong>Doutorado</strong> Ciência da Computação — UFPE/CIn (em andamento, CAPES)</li>
-<li><strong>Mestrado</strong> Ciência da Computação — UFPE/CIn (2017–2019): DeepNLPF / LREC 2020</li>
-<li><strong>MBA</strong> Docência no Ensino Superior — IDJ (2015–2016)</li>
-<li><strong>ADS</strong> — UniLeão (2011–2014): DAVI (tecnologia assistiva)</li>
-</ul>
-`,
+    mdx: join(root, "src/pages/cv.mdx"),
   },
-  en: {
+  {
+    locale: "en",
     file: "Francisco-Rodrigues-CV-en.pdf",
-    title: "Francisco de Assis de Souza Rodrigues — CV",
-    html: `
-<h1>Francisco de Assis de Souza Rodrigues</h1>
-<p class="role">Computer Scientist · Systems Analyst · Software Engineer</p>
-<p class="focus">AI, LLMs, Natural Language Processing, and backend engineering</p>
-<p>PhD candidate and MSc in Computer Science (UFPE/CIn). Co-founder and engineer at <strong>Octor</strong>; technology advisor at NeuroEspectro; professor/coordinator at NExTI (UniFAP).</p>
-<p>I design and operate production AI systems: LLM pipelines, typed decisions (NLI/System One), ASR (Whisper), OCR, clinical agents, and microservice APIs. Academic NLP (DeepNLPF, LREC 2020).</p>
-<p class="contact">franciscosouzaacer@gmail.com · linkedin.com/in/rodriguesfas · github.com/rodriguesfas · rodriguesfas.github.io/en/cv</p>
-
-<h2>Skills</h2>
-<p><strong>AI &amp; NLP:</strong> LLMs (vLLM), Transformers, NLI/Laya, Whisper, OCR, RAG, text mining, information extraction</p>
-<p><strong>Backend:</strong> Python, Rust (Actix), FastAPI, Redis, Docker, MySQL/PostgreSQL/SQLite, AWS, Azure, OpenAPI, CI/CD, Linux</p>
-
-<h2>Experience</h2>
-<h3>Octor — Co-founder, Computer Scientist &amp; Software Engineer (present)</h3>
-<ul>
-<li>Clinical LLM platform (Sereia): Rust + Redis + GPU (Whisper, vLLM) with clinical tools</li>
-<li>ASR transcription, typed-decision engine (platform-decide), Laya, WhatsApp SDR, OCR/extraction</li>
-<li>Microservices for scheduling, EHR, billing, and integrations</li>
-</ul>
-<h3>NeuroEspectro — Technology Advisor (present)</h3>
-<p>Digital health, telemedicine, EHR, and technology strategy.</p>
-<h3>NoVerde/Dotz — Backend Python (2023)</h3>
-<p>Credit APIs, tests, Ruby→Python migration, AWS Lambda/SQS/S3, Airflow, ELK.</p>
-<h3>NeuralMind — AI/NLP (2022)</h3>
-<p>NeuralSearchX: NLP search, QA, Transformers, FastAPI, AWS/Azure.</p>
-<h3>Cronos Cariri — Software (2019–2020)</h3>
-<p>Impinj RFID collector for race timing.</p>
-
-<h2>Education</h2>
-<ul>
-<li><strong>PhD</strong> Computer Science — UFPE/CIn (in progress, CAPES)</li>
-<li><strong>MSc</strong> Computer Science — UFPE/CIn (2017–2019): DeepNLPF / LREC 2020</li>
-<li><strong>MBA</strong> Higher Education Teaching — IDJ (2015–2016)</li>
-<li><strong>Systems Analysis</strong> — UniLeão (2011–2014): DAVI (assistive tech)</li>
-</ul>
-`,
+    mdx: join(root, "i18n/en/docusaurus-plugin-content-pages/cv.mdx"),
   },
-  fr: {
+  {
+    locale: "fr",
     file: "Francisco-Rodrigues-CV-fr.pdf",
-    title: "Francisco de Assis de Souza Rodrigues — CV",
-    html: `
-<h1>Francisco de Assis de Souza Rodrigues</h1>
-<p class="role">Informaticien · Analyste de systèmes · Ingénieur logiciel</p>
-<p class="focus">IA, LLMs, traitement du langage naturel et ingénierie backend</p>
-<p>Doctorant et Master en informatique (UFPE/CIn). Co-fondateur et ingénieur chez <strong>Octor</strong> ; conseiller à NeuroEspectro ; professeur/coordinateur NExTI (UniFAP).</p>
-<p>Je conçois et opère des systèmes d'IA en production : pipelines LLM, décisions typées (NLI/System One), ASR (Whisper), OCR, agents cliniques et API microservices. TALN académique (DeepNLPF, LREC 2020).</p>
-<p class="contact">franciscosouzaacer@gmail.com · linkedin.com/in/rodriguesfas · github.com/rodriguesfas · rodriguesfas.github.io/fr/cv</p>
-
-<h2>Compétences</h2>
-<p><strong>IA &amp; TALN :</strong> LLMs (vLLM), Transformers, NLI/Laya, Whisper, OCR, RAG, text mining, extraction d'information</p>
-<p><strong>Backend :</strong> Python, Rust (Actix), FastAPI, Redis, Docker, MySQL/PostgreSQL/SQLite, AWS, Azure, OpenAPI, CI/CD, Linux</p>
-
-<h2>Expérience</h2>
-<h3>Octor — Co-fondateur, informaticien et ingénieur logiciel (actuel)</h3>
-<ul>
-<li>Plateforme LLM clinique (Sereia) : Rust + Redis + GPU (Whisper, vLLM) avec tools cliniques</li>
-<li>Transcription ASR, moteur de décision typée (platform-decide), Laya, SDR WhatsApp, OCR</li>
-<li>Microservices pour agenda, DME, finance et intégrations</li>
-</ul>
-<h3>NeuroEspectro — Conseiller technologique (actuel)</h3>
-<p>E-santé, télémédecine, DME et stratégie technologique.</p>
-<h3>NoVerde/Dotz — Backend Python (2023)</h3>
-<p>API crédit, tests, migration Ruby→Python, AWS, Airflow, ELK.</p>
-<h3>NeuralMind — IA/TALN (2022)</h3>
-<p>NeuralSearchX : recherche NLP, QA, Transformers, FastAPI, AWS/Azure.</p>
-<h3>Cronos Cariri — Logiciel (2019–2020)</h3>
-<p>Collecteur RFID Impinj pour chronométrage.</p>
-
-<h2>Formation</h2>
-<ul>
-<li><strong>Doctorat</strong> Informatique — UFPE/CIn (en cours, CAPES)</li>
-<li><strong>Master</strong> Informatique — UFPE/CIn (2017–2019) : DeepNLPF / LREC 2020</li>
-<li><strong>MBA</strong> Enseignement supérieur — IDJ (2015–2016)</li>
-<li><strong>Analyse de systèmes</strong> — UniLeão (2011–2014) : DAVI</li>
-</ul>
-`,
+    mdx: join(root, "i18n/fr/docusaurus-plugin-content-pages/cv.mdx"),
   },
-};
+];
+
+function escapeHtml(s) {
+  return s
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+function inline(md) {
+  return escapeHtml(md)
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+    .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*([^*]+)\*/g, "<em>$1</em>")
+    .replace(/`([^`]+)`/g, "<code>$1</code>");
+}
+
+function mdxToBody(mdx) {
+  let text = mdx
+    .replace(/^---[\s\S]*?---\n*/, "")
+    .replace(/^import\s+.+$/gm, "")
+    .replace(/<CvPdfDownload\s*\/>/g, "")
+    .replace(/\r\n/g, "\n")
+    .trim();
+
+  // admonitions :::note ... :::
+  text = text.replace(
+    /^:::\w+[^\n]*\n([\s\S]*?):::/gm,
+    (_m, body) => `<div class="note">${body.trim()}</div>\n`,
+  );
+
+  const lines = text.split("\n");
+  const out = [];
+  let i = 0;
+
+  const flushParagraph = (buf) => {
+    const t = buf.join(" ").trim();
+    if (t) out.push(`<p>${inline(t)}</p>`);
+  };
+
+  while (i < lines.length) {
+    const line = lines[i];
+
+    if (!line.trim()) {
+      i += 1;
+      continue;
+    }
+
+    if (/^---+$/.test(line.trim())) {
+      out.push("<hr />");
+      i += 1;
+      continue;
+    }
+
+    const h = /^(#{1,3})\s+(.+)$/.exec(line);
+    if (h) {
+      const level = h[1].length;
+      out.push(`<h${level}>${inline(h[2])}</h${level}>`);
+      i += 1;
+      continue;
+    }
+
+    if (/^\|/.test(line) && i + 1 < lines.length && /^\|?\s*-/.test(lines[i + 1])) {
+      const rows = [];
+      while (i < lines.length && /^\|/.test(lines[i])) {
+        if (!/^\|?\s*-/.test(lines[i])) rows.push(lines[i]);
+        i += 1;
+      }
+      out.push("<table>");
+      rows.forEach((row, idx) => {
+        const cells = row
+          .replace(/^\|/, "")
+          .replace(/\|$/, "")
+          .split("|")
+          .map((c) => c.trim());
+        const tag = idx === 0 ? "th" : "td";
+        out.push(
+          `<tr>${cells.map((c) => `<${tag}>${inline(c)}</${tag}>`).join("")}</tr>`,
+        );
+      });
+      out.push("</table>");
+      continue;
+    }
+
+    if (/^>\s?/.test(line)) {
+      const buf = [];
+      while (i < lines.length && /^>\s?/.test(lines[i])) {
+        buf.push(lines[i].replace(/^>\s?/, ""));
+        i += 1;
+      }
+      out.push(`<blockquote><p>${inline(buf.join(" "))}</p></blockquote>`);
+      continue;
+    }
+
+    if (/^[-*]\s+/.test(line)) {
+      out.push("<ul>");
+      while (i < lines.length && /^[-*]\s+/.test(lines[i])) {
+        out.push(`<li>${inline(lines[i].replace(/^[-*]\s+/, ""))}</li>`);
+        i += 1;
+      }
+      out.push("</ul>");
+      continue;
+    }
+
+    if (line.trim().startsWith("<div class=\"note\">")) {
+      // note already HTML from admonition replace — may be multi-line
+      if (line.includes("</div>")) {
+        const inner = line.replace(/^<div class="note">/, "").replace(/<\/div>$/, "");
+        out.push(`<div class="note"><p>${inline(inner)}</p></div>`);
+        i += 1;
+        continue;
+      }
+    }
+
+    if (line.trim() === '<div class="note">') {
+      i += 1;
+      const buf = [];
+      while (i < lines.length && lines[i].trim() !== "</div>") {
+        buf.push(lines[i]);
+        i += 1;
+      }
+      i += 1; // skip </div>
+      out.push(`<div class="note"><p>${inline(buf.join(" "))}</p></div>`);
+      continue;
+    }
+
+    const buf = [line];
+    i += 1;
+    while (
+      i < lines.length &&
+      lines[i].trim() &&
+      !/^(#{1,3})\s+/.test(lines[i]) &&
+      !/^[-*]\s+/.test(lines[i]) &&
+      !/^>\s?/.test(lines[i]) &&
+      !/^\|/.test(lines[i]) &&
+      !/^---+$/.test(lines[i].trim())
+    ) {
+      buf.push(lines[i]);
+      i += 1;
+    }
+    flushParagraph(buf);
+  }
+
+  return out.join("\n");
+}
 
 function wrap(title, body) {
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<title>${title}</title>
+<title>${escapeHtml(title)}</title>
 <style>
-  @page { margin: 14mm 16mm; size: A4; }
+  @page { margin: 12mm 14mm; size: A4; }
   body {
     font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 10.5pt;
-    line-height: 1.35;
+    font-size: 9.8pt;
+    line-height: 1.38;
     color: #152028;
     margin: 0;
   }
-  h1 { font-size: 18pt; margin: 0 0 4pt; letter-spacing: -0.02em; }
-  h2 { font-size: 12pt; margin: 14pt 0 6pt; border-bottom: 1px solid #1f7a66; padding-bottom: 2pt; color: #145244; }
-  h3 { font-size: 10.5pt; margin: 8pt 0 3pt; }
+  h1 { font-size: 16.5pt; margin: 0 0 6pt; letter-spacing: -0.02em; }
+  h2 {
+    font-size: 11.5pt;
+    margin: 16pt 0 6pt;
+    border-bottom: 1.5px solid #1f7a66;
+    padding-bottom: 2pt;
+    color: #145244;
+    page-break-after: avoid;
+  }
+  h3 { font-size: 10.2pt; margin: 10pt 0 4pt; page-break-after: avoid; }
   p { margin: 0 0 6pt; }
   ul { margin: 0 0 8pt 16pt; padding: 0; }
-  li { margin-bottom: 2pt; }
-  .role { font-weight: 700; margin-bottom: 2pt; }
-  .focus { color: #1f7a66; font-weight: 600; margin-bottom: 8pt; }
-  .contact { font-size: 9.5pt; color: #334; }
+  li { margin-bottom: 3pt; }
+  blockquote {
+    margin: 6pt 0 10pt;
+    padding: 4pt 10pt;
+    border-left: 3px solid #1f7a66;
+    background: #f3f8f6;
+    color: #243;
+  }
+  blockquote p { margin: 0; }
+  table { width: 100%; border-collapse: collapse; margin: 0 0 10pt; font-size: 9.2pt; }
+  th, td { border: 1px solid #c5d4ce; padding: 4pt 6pt; text-align: left; vertical-align: top; }
+  th { background: #eaf0ee; }
+  a { color: #1a6b59; text-decoration: none; }
+  code { font-size: 0.92em; }
+  .note {
+    margin: 8pt 0 12pt;
+    padding: 8pt 10pt;
+    background: #eef5f2;
+    border: 1px solid #c5d4ce;
+    border-radius: 4pt;
+    font-size: 9pt;
+  }
+  .note p { margin: 0; }
+  hr { border: none; border-top: 1px solid #c5d4ce; margin: 12pt 0; }
+  strong { font-weight: 700; }
 </style>
 </head>
 <body>${body}</body>
 </html>`;
 }
 
-for (const [locale, doc] of Object.entries(docs)) {
-  const htmlPath = join(tmpDir, `${locale}.html`);
-  const pdfPath = join(outDir, doc.file);
-  writeFileSync(htmlPath, wrap(doc.title, doc.html), "utf8");
+for (const src of sources) {
+  const mdx = readFileSync(src.mdx, "utf8");
+  const body = mdxToBody(mdx);
+  const htmlPath = join(tmpDir, `${src.locale}.html`);
+  const pdfPath = join(outDir, src.file);
+  writeFileSync(
+    htmlPath,
+    wrap(`Francisco de Assis de Souza Rodrigues — CV (${src.locale})`, body),
+    "utf8",
+  );
   const result = spawnSync(
     chrome,
     [
@@ -200,7 +273,8 @@ for (const [locale, doc] of Object.entries(docs)) {
     console.error(result.stderr || result.stdout);
     process.exit(result.status ?? 1);
   }
-  console.log(`OK ${locale} → ${pdfPath}`);
+  const pagesApprox = Math.max(1, Math.round(readFileSync(pdfPath).length / 45000));
+  console.log(`OK ${src.locale} → ${pdfPath} (~${readFileSync(pdfPath).length} bytes, ~${pagesApprox}+ págs)`);
   try {
     unlinkSync(htmlPath);
   } catch {
@@ -208,4 +282,4 @@ for (const [locale, doc] of Object.entries(docs)) {
   }
 }
 
-console.log("PDFs gerados em static/cv/");
+console.log("PDFs gerados a partir dos .mdx completos em static/cv/");
