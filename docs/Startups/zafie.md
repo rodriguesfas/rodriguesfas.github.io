@@ -6,7 +6,7 @@ tags: [Startups, Zafie]
 
 # Zafie
 
-Em junho de **2021**, co-fundei a [Zafie](https://zafie.com.br/) — antes da atuação intensiva na Realm. Plataforma de **cardápio digital e gestão de pedidos online** para food (restaurantes, lanchonetes e afins) e varejo.
+Entre **2021 e 2022**, co-fundei a [Zafie](https://zafie.com.br/) — antes da atuação intensiva na Realm. Plataforma de **cardápio digital e gestão de pedidos online** para food (restaurantes, lanchonetes e afins) e varejo.
 
 Clientes acessam o cardápio e fazem pedidos pelo celular; o estabelecimento opera pedidos, promoções e integrações. Entre as frentes: cardápio digital, QR Code de mesa, WhatsApp e PDV, cupons, cashback e painéis de acompanhamento.
 
