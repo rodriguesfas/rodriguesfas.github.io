@@ -86,9 +86,15 @@ function mdxToBody(mdx) {
     .replace(/\r\n/g, "\n")
     .trim();
 
+  // Always emit opening/closing on their own lines so the line parser
+  // can handle the note (single-line <div>…</div> was escaped as text).
   text = text.replace(
-    /^:::\w+[^\n]*\n([\s\S]*?):::/gm,
-    (_m, body) => `<div class="note">${body.trim()}</div>\n`,
+    /^:::(\w+)([^\n]*)\n([\s\S]*?):::/gm,
+    (_m, _kind, titlePart, body) => {
+      const title = titlePart.trim();
+      const head = title ? `${title}\n\n` : "";
+      return `<div class="note">\n${head}${body.trim()}\n</div>\n`;
+    },
   );
 
   const lines = text.split("\n");
@@ -159,13 +165,31 @@ function mdxToBody(mdx) {
     }
     if (line.trim() === '<div class="note">') {
       i += 1;
-      const buf = [];
+      const parts = [];
       while (i < lines.length && lines[i].trim() !== "</div>") {
-        buf.push(lines[i]);
+        if (lines[i].trim()) parts.push(lines[i].trim());
         i += 1;
       }
       i += 1;
-      out.push(`<div class="note"><p>${inline(buf.join(" "))}</p></div>`);
+      const title = parts.length > 1 ? parts.shift() : null;
+      const body = parts.join(" ");
+      const titleHtml = title
+        ? `<p class="note-title"><strong>${inline(title)}</strong></p>`
+        : "";
+      out.push(
+        `<div class="note">${titleHtml}<p>${inline(body)}</p></div>`,
+      );
+      continue;
+    }
+    // One-line note leftover (defensive)
+    const oneLineNote = /^<div class="note">([\s\S]*)<\/div>\s*$/.exec(
+      line.trim(),
+    );
+    if (oneLineNote) {
+      out.push(
+        `<div class="note"><p>${inline(oneLineNote[1])}</p></div>`,
+      );
+      i += 1;
       continue;
     }
     const buf = [line];
@@ -177,7 +201,9 @@ function mdxToBody(mdx) {
       !/^[-*]\s+/.test(lines[i]) &&
       !/^>\s?/.test(lines[i]) &&
       !/^\|/.test(lines[i]) &&
-      !/^---+$/.test(lines[i].trim())
+      !/^---+$/.test(lines[i].trim()) &&
+      lines[i].trim() !== '<div class="note">' &&
+      !/^<\/?div\b/.test(lines[i].trim())
     ) {
       buf.push(lines[i]);
       i += 1;
@@ -235,6 +261,7 @@ function wrap(title, body) {
     font-size: 9pt;
   }
   .note p { margin: 0; }
+  .note-title { margin: 0 0 4pt !important; color: #145244; }
   hr { border: none; border-top: 1px solid #c5d4ce; margin: 12pt 0; }
 </style>
 </head>
