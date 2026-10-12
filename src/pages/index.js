@@ -35,7 +35,7 @@ const paths = [
   {
     title: "CV",
     description:
-      "Resumo com foco em IA, LLM, PLN e backend — para candidaturas.",
+      "IA, LLM, PLN e backend.",
     to: "/cv",
   },
   {
@@ -165,11 +165,11 @@ function About() {
             startups, projetos e eventos.
           </p>
           <Link className={styles.inlineLink} to="/trajetoria">
-            Trajetória completa →
+            Trajetória →
           </Link>
           {" · "}
           <Link className={styles.inlineLink} to="/cv">
-            CV (resumo IA) →
+            CV →
           </Link>
         </div>
       </div>
