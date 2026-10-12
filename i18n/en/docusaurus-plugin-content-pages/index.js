@@ -35,8 +35,14 @@ const paths = [
   {
     title: "CV",
     description:
-      "Computer Scientist · Software Engineer — AI, LLM, NLP, and backend.",
+      "Short résumé focused on AI, LLM, NLP, and backend.",
     to: "/cv",
+  },
+  {
+    title: "Career path",
+    description:
+      "Full curriculum: experience, education, teaching, and startups.",
+    to: "/trajetoria",
   },
 ];
 
@@ -87,9 +93,9 @@ function Hero() {
             </Link>
             <Link
               className={clsx("button button--outline button--lg", styles.ctaGhost)}
-              to="/docs/bem-vindo"
+              to="/trajetoria"
             >
-              Explore the site
+              Career path
             </Link>
           </div>
         </div>
@@ -155,8 +161,12 @@ function About() {
             I published in NLP (DeepNLPF / LREC), coached robotics teams, and
             built products from scratch. This site is my living archive.
           </p>
+          <Link className={styles.inlineLink} to="/trajetoria">
+            Full career path →
+          </Link>
+          {" · "}
           <Link className={styles.inlineLink} to="/cv">
-            Full CV →
+            CV (AI summary) →
           </Link>
         </div>
       </div>

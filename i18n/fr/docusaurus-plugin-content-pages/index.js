@@ -35,8 +35,14 @@ const paths = [
   {
     title: "CV",
     description:
-      "Informaticien · Ingénieur logiciel — IA, LLM, TALN et backend.",
+      "Résumé axé sur l'IA, les LLM, le TALN et le backend.",
     to: "/cv",
+  },
+  {
+    title: "Parcours",
+    description:
+      "Curriculum complet : expérience, formation, enseignement et startups.",
+    to: "/trajetoria",
   },
 ];
 
@@ -87,9 +93,9 @@ function Hero() {
             </Link>
             <Link
               className={clsx("button button--outline button--lg", styles.ctaGhost)}
-              to="/docs/bem-vindo"
+              to="/trajetoria"
             >
-              Explorer le site
+              Parcours
             </Link>
           </div>
         </div>
@@ -158,8 +164,12 @@ function About() {
             robotique et construit des produits de zéro. Ce site est mon archive
             vivante.
           </p>
+          <Link className={styles.inlineLink} to="/trajetoria">
+            Parcours complet →
+          </Link>
+          {" · "}
           <Link className={styles.inlineLink} to="/cv">
-            CV complet →
+            CV (résumé IA) →
           </Link>
         </div>
       </div>

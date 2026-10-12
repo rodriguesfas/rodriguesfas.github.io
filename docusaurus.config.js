@@ -114,6 +114,7 @@ const config = {
           { to: "/docs/Projetos", label: "Projetos", position: "left" },
           { to: "/publications", label: "Publicações", position: "left" },
           { to: "/cv", label: "CV", position: "left" },
+          { to: "/trajetoria", label: "Trajetória", position: "left" },
           {
             href: "https://github.com/rodriguesfas",
             label: "GitHub",
@@ -141,6 +142,7 @@ const config = {
             title: "Acadêmico",
             items: [
               { label: "CV", to: "/cv" },
+              { label: "Trajetória", to: "/trajetoria" },
               { label: "Publicações", to: "/publications" },
               { label: "Cursos", to: "/courses" },
               { label: "Honras e prêmios", to: "/honras-e-premios" },

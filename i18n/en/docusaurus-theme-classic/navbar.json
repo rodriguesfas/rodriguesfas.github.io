@@ -31,6 +31,10 @@
     "message": "CV",
     "description": "Navbar item with label CV"
   },
+  "item.label.Trajetória": {
+    "message": "Career path",
+    "description": "Navbar item with label Trajetória"
+  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"

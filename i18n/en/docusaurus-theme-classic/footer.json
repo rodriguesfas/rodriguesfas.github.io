@@ -31,6 +31,10 @@
     "message": "CV",
     "description": "The label of footer link with label=CV linking to /cv"
   },
+  "link.item.label.Trajetória": {
+    "message": "Career path",
+    "description": "The label of footer link with label=Trajetória linking to /trajetoria"
+  },
   "link.item.label.Publicações": {
     "message": "Publications",
     "description": "The label of footer link with label=Publicações linking to /publications"

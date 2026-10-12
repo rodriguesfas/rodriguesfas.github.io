@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /**
- * Gera PDFs do CV a partir dos mesmos .mdx das páginas (conteúdo completo).
- * Uso: node scripts/generate-cv-pdfs.mjs
+ * Gera PDFs a partir dos .mdx:
+ * - CV resumido (foco IA) → Francisco-Rodrigues-CV-*.pdf
+ * - Trajetória completa → Francisco-Rodrigues-Trajetoria-*.pdf
  */
 import { mkdirSync, writeFileSync, unlinkSync, readFileSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -44,6 +45,21 @@ const sources = [
     file: "Francisco-Rodrigues-CV-fr.pdf",
     mdx: join(root, "i18n/fr/docusaurus-plugin-content-pages/cv.mdx"),
   },
+  {
+    locale: "pt-BR-full",
+    file: "Francisco-Rodrigues-Trajetoria-pt-BR.pdf",
+    mdx: join(root, "src/pages/trajetoria.mdx"),
+  },
+  {
+    locale: "en-full",
+    file: "Francisco-Rodrigues-Trajetoria-en.pdf",
+    mdx: join(root, "i18n/en/docusaurus-plugin-content-pages/trajetoria.mdx"),
+  },
+  {
+    locale: "fr-full",
+    file: "Francisco-Rodrigues-Trajetoria-fr.pdf",
+    mdx: join(root, "i18n/fr/docusaurus-plugin-content-pages/trajetoria.mdx"),
+  },
 ];
 
 function escapeHtml(s) {
@@ -65,11 +81,11 @@ function mdxToBody(mdx) {
   let text = mdx
     .replace(/^---[\s\S]*?---\n*/, "")
     .replace(/^import\s+.+$/gm, "")
-    .replace(/<CvPdfDownload\s*\/>/g, "")
+    .replace(/\{\/\*[\s\S]*?\*\/\}/g, "")
+    .replace(/<CvPdfDownload[^/]*\/>/g, "")
     .replace(/\r\n/g, "\n")
     .trim();
 
-  // admonitions :::note ... :::
   text = text.replace(
     /^:::\w+[^\n]*\n([\s\S]*?):::/gm,
     (_m, body) => `<div class="note">${body.trim()}</div>\n`,
@@ -86,18 +102,15 @@ function mdxToBody(mdx) {
 
   while (i < lines.length) {
     const line = lines[i];
-
     if (!line.trim()) {
       i += 1;
       continue;
     }
-
     if (/^---+$/.test(line.trim())) {
       out.push("<hr />");
       i += 1;
       continue;
     }
-
     const h = /^(#{1,3})\s+(.+)$/.exec(line);
     if (h) {
       const level = h[1].length;
@@ -105,7 +118,6 @@ function mdxToBody(mdx) {
       i += 1;
       continue;
     }
-
     if (/^\|/.test(line) && i + 1 < lines.length && /^\|?\s*-/.test(lines[i + 1])) {
       const rows = [];
       while (i < lines.length && /^\|/.test(lines[i])) {
@@ -127,7 +139,6 @@ function mdxToBody(mdx) {
       out.push("</table>");
       continue;
     }
-
     if (/^>\s?/.test(line)) {
       const buf = [];
       while (i < lines.length && /^>\s?/.test(lines[i])) {
@@ -137,7 +148,6 @@ function mdxToBody(mdx) {
       out.push(`<blockquote><p>${inline(buf.join(" "))}</p></blockquote>`);
       continue;
     }
-
     if (/^[-*]\s+/.test(line)) {
       out.push("<ul>");
       while (i < lines.length && /^[-*]\s+/.test(lines[i])) {
@@ -147,17 +157,6 @@ function mdxToBody(mdx) {
       out.push("</ul>");
       continue;
     }
-
-    if (line.trim().startsWith("<div class=\"note\">")) {
-      // note already HTML from admonition replace — may be multi-line
-      if (line.includes("</div>")) {
-        const inner = line.replace(/^<div class="note">/, "").replace(/<\/div>$/, "");
-        out.push(`<div class="note"><p>${inline(inner)}</p></div>`);
-        i += 1;
-        continue;
-      }
-    }
-
     if (line.trim() === '<div class="note">') {
       i += 1;
       const buf = [];
@@ -165,11 +164,10 @@ function mdxToBody(mdx) {
         buf.push(lines[i]);
         i += 1;
       }
-      i += 1; // skip </div>
+      i += 1;
       out.push(`<div class="note"><p>${inline(buf.join(" "))}</p></div>`);
       continue;
     }
-
     const buf = [line];
     i += 1;
     while (
@@ -186,7 +184,6 @@ function mdxToBody(mdx) {
     }
     flushParagraph(buf);
   }
-
   return out.join("\n");
 }
 
@@ -223,14 +220,12 @@ function wrap(title, body) {
     padding: 4pt 10pt;
     border-left: 3px solid #1f7a66;
     background: #f3f8f6;
-    color: #243;
   }
   blockquote p { margin: 0; }
   table { width: 100%; border-collapse: collapse; margin: 0 0 10pt; font-size: 9.2pt; }
   th, td { border: 1px solid #c5d4ce; padding: 4pt 6pt; text-align: left; vertical-align: top; }
   th { background: #eaf0ee; }
   a { color: #1a6b59; text-decoration: none; }
-  code { font-size: 0.92em; }
   .note {
     margin: 8pt 0 12pt;
     padding: 8pt 10pt;
@@ -241,7 +236,6 @@ function wrap(title, body) {
   }
   .note p { margin: 0; }
   hr { border: none; border-top: 1px solid #c5d4ce; margin: 12pt 0; }
-  strong { font-weight: 700; }
 </style>
 </head>
 <body>${body}</body>
@@ -253,11 +247,7 @@ for (const src of sources) {
   const body = mdxToBody(mdx);
   const htmlPath = join(tmpDir, `${src.locale}.html`);
   const pdfPath = join(outDir, src.file);
-  writeFileSync(
-    htmlPath,
-    wrap(`Francisco de Assis de Souza Rodrigues — CV (${src.locale})`, body),
-    "utf8",
-  );
+  writeFileSync(htmlPath, wrap(`Francisco Rodrigues — ${src.file}`, body), "utf8");
   const result = spawnSync(
     chrome,
     [
@@ -273,8 +263,7 @@ for (const src of sources) {
     console.error(result.stderr || result.stdout);
     process.exit(result.status ?? 1);
   }
-  const pagesApprox = Math.max(1, Math.round(readFileSync(pdfPath).length / 45000));
-  console.log(`OK ${src.locale} → ${pdfPath} (~${readFileSync(pdfPath).length} bytes, ~${pagesApprox}+ págs)`);
+  console.log(`OK → ${src.file} (${readFileSync(pdfPath).length} bytes)`);
   try {
     unlinkSync(htmlPath);
   } catch {
@@ -282,4 +271,4 @@ for (const src of sources) {
   }
 }
 
-console.log("PDFs gerados a partir dos .mdx completos em static/cv/");
+console.log("PDFs em static/cv/ (CV resumido + Trajetória completa)");
