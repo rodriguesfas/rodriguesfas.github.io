@@ -6,7 +6,7 @@ tags: [Startups, CreateLab]
 
 # CreateLab
 
-Fui fundador da **CreateLab** (2019) — mesmo ano em que concluí o mestrado em Ciência da Computação (CIn/UFPE). Startup de educação tecnológica para crianças, adolescentes e escolas: robótica educacional, material didático e capacitação de professores.
+Fui fundador da **CreateLab** (2019). Startup de educação tecnológica para crianças, adolescentes e escolas: robótica educacional, material didático e capacitação de professores.
 
 Lá desenvolvi:
 
